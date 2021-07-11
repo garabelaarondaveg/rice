@@ -1,0 +1,9 @@
+nitrogen --restore &
+slstatus &
+xcompmgr &
+xrdb -load ~/.config/x11/xresources &
+/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
+gnome-keyring-daemon -s --components=pkcs11,secrets,ssh,gpg &
+dunst &
+unclutter -idle 3 &
+exec dwm

@@ -1,0 +1,86 @@
+Xcursor.theme: Fluent-dark-cursors
+Xcursor.size: 24
+URxvt.font: xft:Fira Code:pixelsize=14:antialias=true
+!URxvt.boldFont: xft:
+!URxvt.italicFont: xft:DejaVu Sans Mono:pixelsize=15,style=Book
+!URxvt.boldItalicfont: xft:DejaVu Sans Mono:pixelsize=15,style=Book
+URxvt.letterSpace: 0
+URxvt.lineSpace: 0
+URxvt.geometry: 92x24
+!URxvt.internalBorder: 24
+URxvt.internalBorder: 4
+URxvt.cursorBlink: true
+URxvt.cursorUnderline: false
+URxvt.saveline: 2048
+URxvt.scrollBar: false
+URxvt.scrollBar_right: false
+URxvt.urgentOnBell: true
+URxvt.depth: 24
+URxvt.iso14755: false
+
+!! URxvt Functions
+URxvt.perl-ext-common: font-size,selection-to-clipboard,pasta
+URxvt.keysym.Control-C:    perl:keyboard-select:activate
+URxvt.keysym.Control-V:    perl:pasta:paste
+! Comment this if you don't want copy when text is selected
+URxvt.clipboard.autocopy: true
+URxvt.keysym.C-j:       perl:font-size:increase
+URxvt.keysym.C-k:       perl:font-size:decrease
+
+!! !! gruvbox: */
+!! *.color0: #1d2021 */
+!! *.color1: #cc241d */
+!! *.color2: #98971a */
+!! *.color3: #d79921 */
+!! *.color4: #458588 */
+!! *.color5: #b16286 */
+!! *.color6: #689d6a */
+!! *.color7: #a89984 */
+!! *.color8: #928374 */
+!! *.color9: #fb4934 */
+!! *.color10: #b8bb26 */
+!! *.color11: #fabd2f */
+!! *.color12: #83a598 */
+!! *.color13: #d3869b */
+!! *.color14: #8ec07c */
+!! *.color15: #ebdbb2 */
+!! *.color256: #1d2021 */
+!! *.color257: #ebdbb2 */
+
+!! Google Dark
+! special
+*.foreground:   #c5c8c6
+*.background:   #282828
+*.cursorColor:  #d4be98
+
+! black
+*.color0:       #282828
+*.color8:       #282828
+
+! red
+*.color1:       #ea6962
+*.color9:       #ea6962
+
+! green
+*.color2:       #a9b665
+*.color10:      #a9b665
+
+! yellow
+*.color3:       #d8a657
+*.color11:      #d8a657
+
+! blue
+*.color4:       #5DA091
+*.color12:      #5DA091
+
+! magenta
+*.color5:       #d3869b
+*.color13:      #d3869b
+
+! cyan
+*.color6:       #9dc2ba
+*.color14:      #9dc2ba
+
+! white
+*.color7:       #e2d3ba
+*.color15:      #e2d3ba

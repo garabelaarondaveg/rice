@@ -1,0 +1,13 @@
+alias ls="ls -hN --color=auto --group-directories-first"
+alias ll="ls -l --color=auto --group-directories-first"
+alias l="ls -la --group-directories-first"
+alias la="ls -a --group-directories-first"
+alias cl="clear"
+alias yt="youtube-dl"
+export LS_COLORS='rs=0:di=01;34:ln=01;36:mh=00:pi=40;33'
+alias wg="wget"
+alias mpv="devour mpv"
+alias sxiv="devour sxiv"
+alias emacs="devour emacs"
+alias screenkey="devour screenkey"
+alias startx="startx XDG_CONFIG_HOME/x11/xinitrc"

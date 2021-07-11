@@ -1,0 +1,11556 @@
+ll
+clear
+yay zsh-autosuggestions
+yay zsh-syntax-higlighting
+yay zsh-syntax-highlighting
+ll
+clear
+vim .zshrc
+vim ~.zshrc
+vim ~/.zshrc
+ll
+clear
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+reboot
+uname -r
+clear
+neofetch
+clear
+htop
+clear
+sudo pacman -S ppsspp
+mpv Videos/NewPipe/What\ is\ the\ Best\ Linux\ Distro_\ -\ Its\ the\ one\ you\ Make\ the\ best..mp4
+sudo pacman -S ppsspp
+clear
+neofetch
+sudo pacman -S ppsspp
+sudo pacman -S gst-plugins-bad gst-plugins-ugly
+clear
+yay papirus-maia
+pacman -Ss audacity
+sudo pacman -S gvfs
+clear
+sudo pacman -S gvfs
+git clone https://github.com/ChrisTitusTech/Top-5-Bootloader-Themes
+cd Top-5-Bootloader-Themes
+sudo ./install.sh
+sudo pacman -S gufw ufw
+sudo systemctl status thermald
+sudo systemctl status ananicy
+sudo systemctl status irqbalance
+clear
+sudo pacman -S pacman -S capitaine-cursors
+sudo pacman -S capitaine-cursors
+curl https://raw.githubusercontent.com/carlospolop/privilege-escalation-awesome-scripts-suite/master/linPEAS/linpeas.sh > linpeas.sh
+ll
+clear
+git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
+ll
+clear
+c;ear
+clea
+clear
+ll
+cp 'MesloLGS NF *' /usr/local/share/fonts/'MesloLGS NF *'
+cp 'MesloLGS NF *' /usr/local/share/fonts/GG
+mkdir ~/.local/share/fonts
+ll
+clear
+vim ~/.zshrc
+ll
+clear
+vim ~/.config/redshift/redshift.conf
+mkdir ~/.config/redshift
+vim ~/.config/redshift/redshift.conf
+sudo systemctl enable redshift
+redshift-gtk
+lspci | grep VGA
+glxinfo | grep deri
+vim /etc/geoclue/geoclue.conf
+sudo vim /etc/geoclue/geoclue.conf
+sudo pacman -Syu
+vim /boot/grub/grub.cfg
+sudo vim /boot/grub/grub.cfg
+clear
+sudo pacman -Syu
+sudo pacman -S capitaine-cursors
+sudo rm /var/lib/pacman/db.lck
+sudo pacman -Syu
+sudo auto-cpufreq --stats
+neofetch
+sudo firecfg
+clear
+sudo aa-enforce /etc/apparmor.d/*
+ll
+clear
+neofetch
+clear
+htop
+clear
+sudo pacman -S openvpn networkmanager-openvpn
+clear
+sudo pacman -S openvpn networkmanager-openvpn
+yay
+clear
+yay eovpn
+clear
+yay eovpn
+pacman -S warpinator
+pacman -Ss warpinator
+sudo pacman -S warpinator
+vim /etc/default/ufw
+sudo pacman -S warpinator
+useradd
+neofetch
+sudo pacman -S smartmontools
+sudo pacman -Syu
+sudo vim /etc/pacman.conf
+sudo pacman -S gufw
+neofetch
+xkill
+htop
+vim
+grep
+ll
+clear
+ll
+clear
+vim ~/.config/redshift/redshift.conf
+redshift-gtk
+vim ~/.config/redshift/redshift.conf
+redshift-gtk
+vim ~/.config/redshift/redshift.conf
+redshift-gtk
+vim ~/.config/redshift/redshift.conf
+redshift -l list
+vim ~/.config/redshift/redshift.conf
+redshift-gtk
+yay
+neofetch
+ll
+clear
+makepkg -i paru
+clear
+ll
+clear
+ll
+chmod +x linpeas.sh
+ll
+clear
+./linpeas.sh -s
+htop
+clear
+neofetch
+cd yay-git
+clear
+ll
+clear
+exit
+vim .zshrc
+cd ..
+vim .zshrc
+clear
+ll
+clear
+vim .zshrc
+clear
+vim .zsh_history
+l
+cd .oh-my-zsh
+ls
+clear
+ll
+cd custom
+ls
+clear
+ll
+ll plugins
+ls
+ll plugins/example/example.plugin.zsh themes
+ll 
+cd themes
+ls
+clear
+rm -rf powerlevel10k
+clear
+htop
+clear
+ll
+clear
+~
+clear
+ll
+cd .config
+ls
+clear
+~
+l
+vim .zsh_history
+ckear
+clear
+pacman -S mugshot
+pacman -Ss mugshot
+ls -l --color=always --group-directories-first
+clear
+ls -g
+htop
+clear
+neofetch
+clear
+mpv Videos/NewPipe/Why\ Slower\ Computers\ Were\ Faster.mp4
+sudo systemctl status earlyoom
+ckear
+clear
+exit
+man vim
+clear
+neofetch
+vim .zshrc
+neofetch
+clear
+sudo vim /etc/X11/Xwrapper.config
+clear
+htop
+mpv Videos/NewPipe/Doas\ -\ The\ Better\ Less\ Bloated\ Alternative\ to\ Sudo.mp4
+ne
+neofetch
+sudo pacman -R sudo
+clear
+vim .zshrc
+clear
+ll
+clear
+htop
+mpv Videos/NewPipe/Arch\ Linux\ Installation\ Guide\ \(Best\ on\ YouTube\!\).mp4
+clear
+mpv Videos/NewPipe/After\ Installing\ Arch\ \&\ Gentoo\ -\ Setting\ up\ a\ Graphical\ Environment\ and\ Users.mp4
+sudo vim /etc/sudoers
+sudo visudo
+clear
+sudo vim /etc/sudoers
+clear
+sudo visudo
+clear
+sudo vim /etc/sudoers
+clear
+sudo su
+xkill
+clear
+sudo vim /etc/sudoers
+clear
+ll /etc | grep sudoers
+htop
+cc
+clear
+exit
+mpv Videos/NewPipe/ZSH\ -\ A\ Better\ Shell\ than\ Bash_.mp4
+ll
+clear
+ll
+clear
+ll
+clear
+ll
+clear
+ll
+clear
+sudo ufw enable
+clear
+sudo systemctl enable ufw
+clear
+ll
+clear
+ll
+clear
+ll
+clear
+ll
+clear
+ll
+clear
+ll
+clear
+ll
+clear
+ll
+sudo chown illusion:illusion backgrounds
+sudo chown illusion:illusion lightdm
+ll
+chmod -x linpeas.sh
+ll
+clear
+ll
+ll lightdm
+clear
+sudo chown illusion:illusion lightdm/*
+sudo chown illusion:illusion backgrounds/*
+cler
+clear
+ll
+ll lightdm
+cd lightdm
+ls
+clear
+ll
+ll lightdm.conf.d
+sudo chown illusion:illusion lightdm.conf.d/*
+sudo chown illusion:illusion lightdm-gtk-greeter.conf.d/*
+clear
+cd ..
+clear
+ll
+clear
+cd backgrounds
+ls
+clear
+ll
+clear
+lll
+clear
+ll
+clear
+ll
+clear
+ll
+sudo chown illusion:illusion linuxmint
+sudo chown illusion:illusion linuxmint-ulyana/*
+sudo chown illusion:illusion linuxmint-ulyssa/*
+ll linuxmint
+sudo chown illusion:illusion linuxmint/*
+clear
+ll
+cler
+clear
+ll
+clear
+ll backgrounds
+clear
+sudo mv backgrounds /usr/share/backgrounds
+ll /usr/share/backgrounds
+clear
+sudo mv /usr/share/backgrounds/backgrounds mv Crazy1
+sudo mv /usr/share/backgrounds/backgrounds Crazy1
+clear
+cd /usr/share/backgrounds
+clear
+ll
+clear
+cd /usr/share/backgrounds
+ll
+clear
+ll Crazy
+clear
+la
+clear
+l
+clear
+ll
+ll Crazy1
+clear
+sudo mv Crazy1 /usr/share/backgrounds/
+pacman -Ss virtualbox
+sudo pacman -S virtualbox
+clear
+ll
+clear
+l
+clear
+ls
+clear
+vim .zshrc
+redshift-gtk
+vim users.conf
+vim 99_linuxmint.conf
+sudo -V
+clear
+cd paru
+ls
+cler
+clear
+ll
+clear
+makepkg -i
+clear
+ll
+clear
+firejail --list
+clear
+vim ~/.config/redshift/redshift.conf
+redshift-gtk
+sudo systemctl enable redshift
+vim ~/.config/redshift/redshift.conf
+sudo vim /etc/geoclue/geoclue.conf
+clear
+sudo systemctl enable redshift
+sudo systemctl enable redshift-gtk
+sudo systemctl --usr enable redshift-gtk
+sudo systemctl --userr enable redshift-gtk
+sudo systemctl --user enable redshift-gtk
+clear
+pacman -Ss redshift
+clear
+pacman -Ss kernel
+clear
+pacman -Ss linux
+clear
+sudo systemctl status geoclue2
+sudo systemctl status geoclue
+vim ~/.config/redshift/redshift.conf
+clear
+neofetch
+redshift -l
+redshift -l LATITUDE:LONGITUDE
+clear
+neofetch
+vim ~/.config/redshift/redshift.conf
+clear
+neofetch
+systemctl --user enable redshift-gtk
+systemctl --user enable redshift
+clear
+neofetch
+htop
+clear
+neofetch
+clear
+yay papirus-maia
+clear
+cp ~/.config/redshift/redshift.conf ~/.config/redshift.conf
+clear
+vim ~/.config/redshift.conf
+clear
+vim ~/.config/redshift.conf
+redshift -l 14.730720:121.136610
+redshift-gtk
+clear
+vim ~/.config/redshift.conf
+ll .config
+redshift -x
+vim ~/.config/redshift.conf
+vim ~/.config/redshift/redshift.conf
+redshift -l 14.730720:121.136610
+vim ~/.config/redshift/redshift.conf
+vm ~/.config/redshift.conf ~/.config/redshift-gtk.conf
+mv ~/.config/redshift.conf ~/.config/redshift-gtk.conf
+pacman -Ss dwm
+clear
+yay dwm
+clear
+exit
+neofetch
+htop
+clear
+neofetch
+pacman -Ss vim
+clear
+pacman -Ss btrfs
+ll
+clear
+l
+clear
+ll
+clear
+neofetch
+pacman -Ss neofetch
+pacman -Ss pfetch
+clear
+neofetch
+ll
+pacman -Ss ttf-cantarell
+htop
+clear
+ne
+clear
+neofetch
+vm ~/.config/redshift-gtk.conf
+vim ~/.config/redshift-gtk.conf
+clear
+neofetch
+sudo vim /etc/lightdm/lightdm-gtk-greeter.conf
+clear
+sudo vim /etc/lightdm/lightdm-gtk-greeter.conf
+clear
+neofetch
+clear
+sudo vim /etc/lightdm/lightdm-gtk-greeter.conf
+exit
+vim /etc/fstab
+genfstab
+clear
+lsblk
+clear
+pactl
+clear
+pactl info | grep "Server Name"
+neofetch
+clear
+ll
+clear
+neofetch
+pacman -Ss paru
+exit
+man yay
+clear
+sudo vim /etc/pacman.conf
+clear
+pacman -Ss paru
+pacman -Ss aur
+clear
+pacman -Ss vim
+htop
+sudo pacman -Syu
+redshift -O 3500K
+yay -Syu
+htop
+sudo systemctl stop redshift-gtk
+clear
+vim .zshrc
+clear
+l
+vim .zshrc
+clear
+alias diff='diff --color=auto'\
+
+alias grep='grep --color=auto'\
+
+export LESS='-R --use-color -Dd+r$Du+b'\
+\
+
+man yay
+l
+clear
+ll
+alias ls='ls --color=auto'
+eval $(dircolors -p | perl -pe 's/^((CAP|S[ET]|O[TR]|M|E)\w+).*/$1 00/' | dircolors -)
+l
+clar
+clear
+ll Videos/NewPipe | grep terminal
+ll Videos/NewPipe | grep Terminal
+mpv Videos/NewPipe
+mpv Videos/NewPipe/Customizing\ Your\ Terminal\ _\ Linux\ Terminal\ Beautification.mp4
+clear
+vim ~/.config/redshift-gtk.conf
+systemctl --user restart redshift-gtk
+kuba:~ $ ps -A | grep -i redshift\
+
+rm -rf ~/.config/redshift
+systemctl --user stop redshift-gtk
+sudo pacman -S a52dec faac faad2 flac jasper lame libdca libdv libmad libmpeg2 libtheora libvorbis libxv wavpack x264 xvidcore gstreamer0.10-plugins
+sudo pacman -S a52dec faac faad2 flac jasper lame libdca libdv libmad libmpeg2 libtheora libvorbis libxv wavpack x264 xvidcore
+clear
+sudo pacman -S sudo pacman -S libreoffice thunderbird firefox gedit flashplugin skype dropbox aria2
+sudo pacman -S libreoffice thunderbird firefox gedit flashplugin skype dropbox aria2
+sudo pacman -S libreoffice thunderbird gedit aria2
+sudo pacman -S p7zip p7zip-plugins unrar tar rsync
+sudo pacman -S p7zip unrar
+clear
+sudo pacman -S alacritty
+vim
+clear
+neofetch
+ll
+clear
+npm i -g alacritty-themes
+yay -S alacritty-themes
+sudo vim /usr/share/doc/alacritty/example/alacritty.yml
+ll
+clear
+sudo vim /usr/share/doc/alacritty/example/alacritty.yml
+clear
+sudo pacman -R alacritty
+ll Videos/NewPipe | grep term
+ll Videos/NewPipe | grep Term
+mpv Videos/NewPipe/Make\ Your\ Bash\ Termianl\ Strong\ and\ Sexy\ with\ .bashrc.mp4
+pacman -Qdtq | pacman -Rs -
+sudo pacman -Qdtq | pacman -Rs -
+sudo pacman -Qdtq | sudo pacman -Rs -
+l
+touch .zsh_crazy
+vim .zsh_crazy
+vim .zshrc
+ll
+clear
+pacman -Ss powerline-fonts\
+
+clear
+sudo pacman -S powerline-fonts\
+
+clear
+git clone https://github.com/Lissy93/minimal-terminal-prompt.git
+vim .zshrc
+ll minimal-terminal-prompt
+vim minimal-terminal-prompt/minimal-terminal-prompt.sh
+vim minimal-terminal-prompt/minimal-terminal-prompt.zsh-theme
+vim .zshrc
+ll
+clear
+vim .zshrc
+zsh
+clear
+git clone https://github.com/Lissy93/minimal-terminal-prompt.git ~/.oh-my-zsh/custom/themes\
+
+ll .oh-my-zsh/custom/themes
+git clone https://github.com/Lissy93/minimal-terminal-prompt.git > ~/.oh-my-zsh/custom/themes\
+
+git clone https://github.com/Lissy93/minimal-terminal-prompt.git
+l
+clear
+ll
+rm -rf minimal-terminal-prompt
+git clone https://github.com/Lissy93/minimal-terminal-prompt.git ~/.oh-my-zsh/custom/themes\
+
+git clone https://github.com/Lissy93/minimal-terminal-prompt.git\
+
+vim .zshrc
+clear
+zsh
+clear
+ll
+cd .oh-my-zsh
+ll
+cd custom
+cd themes
+ls
+cp -r minimal-terminal-prompt ~/.oh-my-zsh/themes
+clear
+ll
+rm -rf minimal-terminal-prompt
+clear
+zsh
+ll
+cler
+cd ..
+ls
+cd ..
+ll
+cd t
+cd themes
+ls
+clear
+ll
+cd minimal-terminal-prompt
+ls
+clear
+ll
+cd ..
+ll
+rm -rf minimal-terminal-prompt
+~
+git clone https://github.com/Lissy93/minimal-terminal-prompt.git ~/.oh-my-zsh/themes
+git clone https://github.com/Lissy93/minimal-terminal-prompt.git ~/.oh-my-zsh/themes -f
+git clone https://github.com/Lissy93/minimal-terminal-prompt.git
+ll
+vim .zshrc
+clear
+zsh
+ll
+clear
+ll
+clear
+ll
+cleear
+ll
+clear
+l
+clear
+cd minimal-terminal-prompt
+clear
+ll
+clear
+exit
+sudo journalctl --vacuum-size=100M
+sudo journalctl --vacuum-time=2weeks
+clear
+sudo mkdir /etc/systemd/journal.conf.d
+sudo vim /etc/systemd/journal.conf.d/fw-tty12.conf
+sudo systemctl restart systemd-journald.service
+clear
+sudo pacman -S lib32-vulkan-intel
+clear
+pacman -Ss intel
+sudo pacman -S soundconverter
+ll /etc/modprobe.d
+sudo touch /etc/modeprobe.d/pcbeep.conf
+sudo touch /etc/modprobe.d/pcbeep.conf
+sudo vim /etc/modprobe.d/pcbeep.conf
+sudo pacman -S soundconverter
+sudo vim alsa-firmware alsa-utils alsa-plugins
+sudo pacman -S  alsa-firmware alsa-utils alsa-plugins
+alsamixer
+clear
+vim .zshrc
+zsh
+sudo pacman -S --needed base-devel
+clear
+ll
+clear
+yay paru
+clear
+ll
+clear
+cd paru
+ls
+clear
+makepkg -si
+pacman -Ss virtualbox
+sudo pacman -R yay
+pacman -Ss yay
+neofetch
+sudo vim /boot/grub/grub.cfg
+clear
+htop
+sudo pacman -R yay
+htop
+paru
+sudo pacman -Ru paru
+sudo pacman -Ru yay
+clear
+neofetch
+sudo pacman -S rofi
+ll ~/.config
+sudo btrfs subv list /
+pacman -Ss linux-zen
+clear
+yay linux-xanmod
+h
+htop
+clear
+yay linux-xanmod
+sudo vim /etc/mkinitcpio.conf
+sudo auto-cpufreq --stats
+clear
+htop
+clear
+man man
+man yay
+yay -P --stats
+clang
+clear
+man gcc
+man clang
+clear
+emerge
+clear
+pacman -Ss emerge
+pacman -Ss kitty
+sudo pacman -S kitty
+neofetch
+htop
+kitty
+clea
+sudo pacman -S cmatrix
+sudo pacman -S gnome-boxes
+htop
+clear
+mpv Music/AAC
+htop
+clear
+sudo vim /etc/fstab
+sudo pacman -S gnome-boxes
+ll Downloads
+vim
+clear
+alsamixer
+clear
+pacman -Ss tmux
+clear
+sudo pacman -S vi
+clear
+mpv Videos/NewPipe
+mpv Music/NCS/Trap/Fareoh_-_Illuminati_\[NCS_Release\].mp3
+htop
+clear
+mpv Videos/NewPipe/How\ to\ Install\ Timeshift\ in\ Linux\ _\ Backup\ and\ Restore.mp4
+vi
+cler
+clear
+vim
+clear
+vi
+c
+c;
+cl
+clear
+htop
+sudo pacman -S audacity
+clear
+yay V
+clear
+yay qt5-styleplugins
+htop
+yay qt5-styleplugins
+clear
+sudo pacman -S build-essential
+htop
+clear
+yay qt5-styleplugins
+alsamixer
+cleaar
+hto
+htop
+clear
+yay ppsspp
+kk
+clear
+kitty
+clear
+kitty --preferences
+kitty --help
+clear
+kitty --help
+clear
+vim build-essential
+kitty --help
+vim build-essential
+clear
+kitty --help
+vim ~/.config/kitty/kitty.conf
+yay linux-xanmod
+clear
+yay linux-xanmod
+man kitty
+clear
+yay linux-xanmod
+vim
+clear
+htop
+ll
+clear
+l
+clear
+vim /etc/fstab
+clear
+yay linux-xanmod
+clear
+ll
+cleaar
+l
+clear
+man kitty
+vim /etc/vimrc
+sudo btrfs subv list /
+clear
+sudo vim /etc/fstab
+reboot
+sudo btrfs subv list /
+sudo mount /dev/sda3 /mnt
+ll /ment
+clear
+cd /mnt
+ls
+clear
+ll
+clear
+sudo btrfs subv delete timeshift-btrfs
+clear
+ll
+clear
+ll
+cd timeshift-btrfs
+ls
+clear
+ll
+cd snapshots
+ls
+clear
+ll
+sudo btrfs subv delete 2021-06-12_08-41-12
+clear
+cd 2021-06-12_08-41-12
+ls
+clear
+l
+clear
+ll
+sudo btrfs subv delete @
+sudo btrfs subv delete @ -f
+sudo btrfs subv delete -f @
+clear
+ll
+sudo rm -rf @
+cd ..
+clear
+ll
+sudo rm -rf timeshift-btrfs
+ll
+clear
+cd ..
+sudo umount /mnt
+sudo mount /dev/sda4 /mnt
+ll
+clear
+cd mnt
+clear
+ll
+clear
+sudo rm -rf timeshift-btrfs
+ll
+clear
+sudo umount /mnt
+ll
+clear
+sudo btrfs subv list /
+clear
+sudo btrfs subv list /home
+clear
+exit
+pacman -Ss kernel
+clear
+ll
+clear
+ll
+clear
+neofetch
+clear
+htop
+clear
+yay -R ananicy
+man yay
+clear
+yay -c
+man pacman 
+pacman -u
+pacman -U
+sudo pacman -U
+sudo pacman -c
+sudo pacman -Uc
+sudo pacman -UC
+clear
+sudo pacman -Qdtq | sudo  pacman -Rs -
+clear
+neofetch
+lsof /var/lib/pacman/db.lck
+ls /var/lib/pacman/db.lck
+clear
+ls /var/lib/pacman/
+clear
+neofetch
+clear
+neofetch
+clear
+reboot
+neofetch
+l
+l .config
+clear
+l
+rm hosts
+clear
+ll
+clear
+l
+l .cache
+cd .cache/yay
+lc
+clear
+ll
+cd linux-xanmod
+ll
+clear
+makepkg -si
+htop
+clear
+sudo pacman -R ananicy
+clear
+cd .cache/yay
+clear
+cd linux-xanmod
+ls
+clear
+l
+clear
+makepkg -si
+mpv Videos/NewPipe/Bash\ Shell\ Scripting\ for\ Beginners\ 2019.mp4
+clear
+ll
+clear
+ll
+ll pkg
+clear
+sudo makepkg -si
+clear
+ll plg
+sudo su
+ll
+clear
+ll
+ll src
+ll src/linux-5.12
+clear
+rm pkg
+rm -rf pkg
+ll
+makepkg -si
+ll
+clear
+ll
+rm -rf src
+makepkg -si
+htop
+clear
+ll
+clear
+rm -rf src
+makepkg -sij4
+makepkg -si -j4
+man makepkg
+clear
+mpv Videos/NewPipe/Are\ Custom\ Linux\ Kernels\ Faster\ than\ Stock_.mp4
+clear
+ll Videos/NewPipe | grep Custom
+mpv Videos/NewPipe/Custom\ Linux\ Kernel\ _\ Walkthrough\ Guide.mp4
+ll
+clear
+untar
+clear
+ll /bin | grep tar
+ll /usr/bin | grep tar
+clear
+htop
+clear
+sudo pacman -R auto-cpufreq
+clear
+htop
+clear
+man yay
+doas
+clear
+ll /etc
+clear
+sudo vim /etc/makepkg.conf
+clear
+ll
+vim PKGBUILD
+clear
+makepkg -si
+htop
+cd .cache/yay
+cd linux-xanmod
+clear
+ll
+clear
+rm -rf src
+ll
+clear
+makepkg -si
+htop
+mpv Videos/NewPipe1/Distro\ Hopping\ Sucks.\ I_ll\ Never\ Leave\ You\ Again,\ Arch\ Linux\!.mp4
+clear
+rm -rf src
+ll
+clear
+vim PKGBUILD
+vim choose-gcc-optimization.sh
+vim PKGBUILD
+vim choose-gcc-optimization.sh
+clear
+makepkg -si
+clear
+ll
+vim config.last
+clear
+ll
+rm -rf src
+clear
+makepkg -si
+man kitty
+htop
+sudo vim /etc/X11/xorg.conf.d/24-illusiontweaks.conf
+uname -sr
+uname -a
+uname -ar
+clear
+uname -q
+clear
+uname
+uname -h
+uname --help
+clear
+uname -a
+uname --help
+uname -snrmpio
+man kitty
+pacman -Ss busybox
+man kitty
+sudo vim /etc/X11/Xwrapper.config
+systemd-analyze
+systemd-analyze blame
+sudo systemctl status thermald
+clear
+systemd-analyze blame
+man geoclue
+sudo pacman -R redshift-gtk
+yay -R redshift-gtk
+initramfs
+clear
+sudo systemctl status upower
+clear
+sudo vim /etc/mkinitcpio.conf
+lsmod | awk 'NF==3{print $1}'
+clear
+lsmod | awk 'NF==3{print $1}'
+clear
+snd_seq_dummy\
+snd_hrtimer\
+ext4\
+snd_sof_pci_intel_apl\
+snd_soc_skl\
+intel_rapl_msr\
+snd_hda_codec_hdmi\
+snd_hda_codec_generic\
+intel_pmc_bxt\
+intel_telemetry_pltdrv\
+uvcvideo\
+x86_pkg_temp_thermal\
+intel_powerclamp\
+i915\
+coretemp\
+snd_hda_intel\
+rtl8821ae\
+kvm_intel\
+joydev\
+btusb\
+mousedev\
+mei_hdcp\
+nf_log_ipv6\
+wmi_bmof\
+ip6t_REJECT\
+at24\
+lzo_rle\
+ideapad_laptop\
+crct10dif_pclmul\
+crc32_pclmul\
+ghash_clmulni_intel\
+aesni_intel\
+r8169\
+wdat_wdt\
+rapl\
+mei_me\
+lpc_ich\
+xt_hl\
+intel_cstate\
+intel_lpss_pci\
+ip6t_rt\
+intel_xhci_usb_role_switch\
+realtek\
+i2c_hid_acpi\
+idma64\
+elan_i2c\
+i2c_i801\
+mac_hid\
+nf_log_ipv4\
+ipt_REJECT\
+xt_LOG\
+xt_limit\
+xt_addrtype\
+xt_tcpudp\
+xt_conntrack\
+ip6table_filter\
+nf_conntrack_netbios_ns\
+nf_nat_ftp\
+iptable_filter\
+zram\
+sg\
+fuse\
+bpf_preload\
+usbhid\
+btrfs\
+blake2b_generic\
+crc32c_generic\
+serio_raw\
+atkbd\
+crc32c_intel\
+sr_mod\
+xhci_pci
+sudo vim /etc/mkinitcpio.conf
+lsmod | awk 'NF==3{print $1}'
+sudo vim /etc/mkinitcpio.conf
+clear
+lsmod | awk 'NF==3{print $1}'
+yay -Rns ananicy
+yay -Rns redshift-gtk
+yay -Rns redshift
+clear
+yay -Ss ananicy
+yay -Rns ananicy
+sudo vim /etc/makepkg.conf
+pacman -Ss pacman-contrib
+cat /proc/cpuinfo
+grep "cpu MHZ" /proc/cpuinfo
+cat | grep "cpu MHZ" /proc/cpuinfo
+watch | grep "cpu MHZ" /proc/cpuinfo
+clear
+cmatrix
+clear
+vim
+clear
+vim
+clear
+ll
+clear
+ll /bin | grep bsd
+clear
+sudo systemctl disable ananicy
+clear
+sudo systemctl stop ananicy
+clear
+ll
+clear
+ll
+clear
+ll
+clear
+ll
+clear
+pacman -Ss vim
+clear
+man vim
+man vi
+clear
+vi /etc/fstab
+clear
+pacman -Ss nano
+clear
+cd .cache/yay
+ls
+clear
+ll
+cd ananicy-git
+ls
+clear
+cd ..
+ll
+clear
+ll
+cd wd719x-firmware
+ls
+clear
+l
+vim PKGBUILD
+lspci
+clear
+lspci | grep VGA
+clear
+lspci
+~
+clear
+vim /etc/mkinitcpio.conf
+clear
+man mkinitcpio
+clea
+clear
+pacman -Ss apparmor
+clear
+pacman -Ss firejail
+clear
+pacman -Ss linux
+pacman -Ss kernel
+clear
+pacman -Ss kernel
+clear
+ll /boot
+clear
+vim .zsh_history
+lsmod | awk 'NF==3{print $1}'
+clear
+sudo vim /etc/mkinitcpio.conf
+lsmod | awk 'NF==3{print $1}' | grep hdmi
+lsmod | awk 'NF==3{print $1}' | grep bpf_preload
+sudo vim /etc/mkinitcpio.conf
+lsmod | awk 'NF==3{print $1}' | grep snd_sof_pci_intel_apl
+lsmod | awk 'NF==3{print $1}' | grep i2c_hid_acpi
+sudo mkinitcpio -P
+sudo mkinitcpio -P
+sudo vim /etc/mkinitcpio.conf
+sudo mkinitcpio -P
+clear
+ll
+clear
+~
+clear
+ll
+clear
+ll /boot
+clear
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+reboot
+systemd-analyze blame
+clear
+uname -snrmpio
+clear
+uname -rs
+clear
+uname -a
+clear
+htop
+clear
+neofetch
+clear
+cd .cache/yay
+ll
+clear
+cd linux-xanmod
+ll
+vim choose-gcc-optimization.sh
+clear
+vim PKGBUILD
+clear
+htop
+clear
+pacman -Ss kernel
+clear
+ll
+clear
+vim /etc/fstab
+clear
+sudo aa-status
+clear
+man yay
+clear
+yay -s
+yay --stats
+clear
+man yay
+yay -P
+yay --stats
+yay -c
+man vim
+clear
+neofetch
+htop
+clear
+speakertest
+celar
+clear
+pacman -S speakertest
+clear
+pacman -Ss speakertest
+pacman -Ss speaker
+clear
+aplay
+clear
+aplay /dev/zram0
+sudo su
+yay -Rns ananicy
+clear
+man pacman 
+clear
+sudo vim /etc/pacman.conf
+clear
+pacman
+clear
+vim /etc/fstab
+pacman -Ss parole
+sudo pacman -R parole
+clear
+ll
+cler
+clear
+l
+vim .zshrc
+clear
+ll
+clear
+vim .zsh_crazy
+vim .zshrc
+clear
+touch .zsh_aliases
+clear
+vim .zsh_aliases
+htop
+vim .zsh_aliases
+vim .zshrc
+ll
+clear
+ls
+clear
+ls
+clear
+sudo pacman -R xfce4-terminal
+clear
+neofetch
+clear
+neofetch
+clear
+htop
+clear
+sudo vim /etc/hosts
+ckear
+clear
+neofetch
+clear
+vim
+clear
+sudo vim /etc/fstab
+neofetch
+htop
+neofetch
+clear
+sudo vim /etc/sudoers
+clear
+sudo visudo
+clear
+pacman -Ss hardened
+clear
+sudo pacman -S linux
+clear
+neofetch
+sudo vim /etc/sysctl.d/51-dmesg-restrict.conf
+clear
+pacman -Ss keepassxc
+clear
+neofetch
+sudo usermod -aG video illusion
+ll
+clear
+sudo vim /etc/modprobe.d/audio_powersave.conf
+lspci -k | grep snd_ac97_codec
+lspci -k | grep snd_hda_intel
+sudo vim /etc/modprobe.d/audio_powersave.conf
+sudo vim /etc/sysctl.d/24-performance.conf
+sudo vim /etc/pam.d/login
+reboot
+lsmod
+lsmod | awk 'NF==3{print $1}'
+lsmod | awk 'NF==3{print $1}' | grep ideapad
+exit
+uname -r
+systemctl status systemd-sysctl.service
+sudo vim /etc/sysctl.d/24-performance.conf
+sudo su
+cat /sys/bus/platform/drivers/ideapad_acpi/VPC2004:00/conservation_mode
+clear
+sudo vim /etc/sysctl.d/24-performance.conf
+systemctl status systemd-sysctl.service
+cat /sys/bus/platform/drivers/ideapad_acpi/VPC2004:00/conservation_mode
+lscpi
+cat
+clear
+pacman -Ss authenticator
+clear
+sudo pacman -Syu
+clear
+sudo pacman -S pacman-contrib
+sudo pacman -Syu
+sudo pacman -S dircolors
+yay dircolors
+yay lscolors-git
+vim .zsh_crazy
+rm .zsh_crazy
+clear
+touch .zsh_custom
+vim .zsh_custom
+vim .zshrc
+vim .zsh_custom
+ll /usr/share/local
+ll /usr/local
+ll /usr/local/share
+ll /usr
+ll /usr/share
+ll /usr/share/LS_COLORS
+zsh
+clear
+ll
+cleear
+vim .zsh_custom
+exi
+exit
+zsh
+cat /usr/share/LS_COLORS/LS_COLORS
+cat /usr/share/LS_COLORS/dircolor.sh
+ll /usr/share/LS_COLORS
+clear
+vim .zsh_custom
+exit
+zsh
+ll
+clear
+cd /usr/share/LS_COLORS
+ls
+clear
+ll
+sudo chmod 0744 LS_COLORS
+exir
+exit
+zsh
+exit
+vim .zsh_custom
+exit
+zsh
+exit
+vim .zsh_custom
+cd ~
+clear
+vim .zsh_custom
+zsh
+clear
+vim .zsh_custom
+clear
+ll
+ll /usr/share/LS_COLORS
+clear
+exit
+zsh
+claer
+clearr
+clear
+ll
+clear
+ll
+clear
+l
+clear
+ls /usr
+cd /usr/share/LS_COLORS
+s
+cler
+clear
+ll
+clear
+yay dircolors
+clear
+vim ~/.config/kitty/kitty.conf
+SIGUSR1
+vim ~/.config/kitty/kitty.conf
+ll
+clear
+ll
+clear
+pacman -Ss cargo
+sudo pacman -S cargo
+cargo install exa
+vim ~/.config/kitty/kitty.conf
+ll
+clear
+vim ~/.config/kitty/kitty.conf
+sudo vim /etc/sysctl.d/24-performance.conf
+sudo pacman -Syu
+cargo install exa
+neofetch
+powertop
+sudo powertop
+sudo vim /etc/pacman.conf
+sudo pacman -Syu
+sudo pacman -U hdparm sudo nss ca-certificats-mozilla libpcap
+sudo pacman -Su hdparm sudo nss ca-certificats-mozilla libpcap
+sudo pacman -Su hdparm sudo nss ca-certificates-mozilla libpcap
+sudo pacman -U hdparm sudo nss ca-certificates-mozilla libpcap
+sudo pacman -S hdparm sudo nss ca-certificates-mozilla libpcap
+cargo install exa
+sudo vim /etc/fstab
+sudo mount -a
+cargo install exa
+sudo vim /etc/modprobe.d/i915.conf
+sudo vim /etc/X11/xorg.conf.d/20-intel.conf
+sudo mount -o exec,bind /tmp /tmp 
+cargo install exa
+modinfo -p i915\
+
+ll /tmp
+cp linpeas.sh /tmp/linpeas.sh
+cd /tmp
+chmod +x linpeas.sh
+./linpeas.sh -s
+ll
+sudo vim /etc/fstab
+sudo mount -a
+sudo mount -o exec,bind /tmp /tmp
+./linpeas.sh -s
+sudo umount /tmp
+cd ..
+sudo umount /tmp
+sudo umount -R /tmp
+sudo umount -f /tmp
+sudo vim /etc/X11/xorg.conf.d/20-intel.conf
+cargo instll exa > /home
+cargo instll exa > /home/illusion
+sudo vim /etc/modprobe.d/i915.conf
+reboot
+cargo instll exa
+cargo install exa
+~/.cargo/bin/exa
+vim .zshrc
+clear
+vim .zshrc
+export PATH=/bin
+vim .zshrc
+clear
+ll
+clear
+PATH=/bin
+clear
+vim .zshrc
+PATH=/bin
+sudo visudo
+xed /etc/sudoers
+sudo xed /etc/sudoers
+exa
+vim .zshrc
+~/.cargo/bin/exa
+vim .zshrc
+exa
+clear
+exa -l
+vim .zshrc
+clear
+vim .zsh_aliases 
+clear
+ls
+clear
+ll
+clear
+ll
+clear
+vim .zsh_aliases 
+ll
+exa -la
+cler
+clear
+ll
+clear
+la
+clear
+ll
+l
+clear
+ls
+l
+clear
+l
+cl
+l
+clear
+ll /
+cmatrix
+clear
+cmatrix
+clear
+cmatrix
+man cmatrix
+clear
+cmatrix -a
+clear
+man cmatrix
+cmatrix -c white
+cmatrix -white
+cmatrix -C white
+clear
+man cmatrix
+cmatrix -C cyan
+cmatrix -C magenta
+cmatrix
+cmatrix -C green
+clear
+cmatrix
+clear
+cmatrix
+mpv Music/Unique\ Vibes2
+mpv Music/Unique\ Vibes2/
+mpv Music/01\ TAYLOR\ SWIFT\ mp3
+clear
+mpv Music/01\ TAYLOR\ SWIFT\ mp3
+mpv Music/01\ TAYLOR\ SWIFT\ mp3/01_Fearless.mp3
+mpv Videos/Optimizing\ Linux\ Gaming\ Performance.mp4
+sudo vim /etc/environment
+mpv --rmenv Videos/Optimizing\ Linux\ Gaming\ Performance.mp4
+mpv Videos/
+clear
+mpv Music/01\ TAYLOR\ SWIFT\ mp3
+sudo vim /etc/environment
+clear
+vainfo
+clear
+cmatrix
+htop
+clear
+htop
+clear
+cmatrix
+clear
+neofetch
+cmatrix
+clear
+vim .zshrc
+clear
+neofetch
+clear
+pacman -Ss mint
+yay mint
+clear
+neofetch
+clear
+htop
+clear
+xanmod
+clear
+cat /sys/bus/platform/drivers/ideapad_acpi/VPC2004:00/conservation_mode
+cd /sys/bus/platform/drivers/ideapad_acpi/VPC2004:00
+ll
+clear
+ll
+cat camera_power
+clear
+ll
+cat touchpad
+cat fan_mode
+clear
+cmatrix
+pacman -Ss bluetooth
+clear
+cmatrix
+mpv Music/AAC/butter
+clear
+cmatrix
+clear
+exit
+sudo pacman -Syu
+clear
+sudo pacman -S tlp
+clear
+sudo pacman -S tlp
+clear
+pacman -Ss anbox
+clear
+yay anbox
+clear
+sudo vim /etc/sysctl.d/24-performance.conf
+tc qdisc show
+clear
+sudo vim /etc/tlp.conf
+sudo tlp-stat -p
+clear
+pacman -Ss vim-runtime
+clear
+cd .cache/yay
+clear
+ll
+cd linux-xanmod
+lc
+clear
+ll
+clear
+ll
+ll PKGBUILD
+cd src
+ll
+clear
+ll
+cd linux-5.12
+l
+clear
+ll
+clear
+pacman -Ss gnome
+clear
+mov
+clear
+mpv
+clear
+exit
+htop
+clear
+htop
+clear
+htop
+clea
+clear
+sudo hdparm -t /dev/sda
+clear
+glxinfo | grep "direct rendering"
+xkill
+clear
+yay sound-theme-freedesktop
+sudo pacman -S obs-studio
+sudo pacman -S libva-mesa-driver sndio
+sudo pacman -S iotop
+sudo pacman -S cpulimit
+clear
+git clone https://github.com/AdnanHodzic/auto-cpufreq.git
+cler
+clear
+l
+clear
+ll
+cd auto-cpufreq
+clear
+ll
+clear
+ll
+cd auto_cpufreq
+ll
+clear
+ll
+vim core.py
+clear
+htop
+clear
+vim core.py
+yay vim-plugins
+vim core.py
+clear
+git clone https://github.com/Nefelim4ag/Ananicy.git
+clear
+ll
+clear
+ll
+mv Ananicy ~
+ll
+clear
+~
+clear
+ll
+cd Ananicy
+clear
+ll
+vim ananicy.py
+clear
+~
+clear
+ll
+clear
+ll
+git clone https://github.com/rfjakob/earlyoom.git
+cd earlyoom
+ll
+clear
+ll
+vim CODE_OF_CONDUCT.md
+clear
+ll
+vim kill.
+vim kill.c
+vim Makefile
+makepkg
+clear
+ll
+clear
+ll
+vim earlyoom.default
+clear
+ll
+clear
+ll
+pacman -Ss emacs
+sudo pacman -S emacs
+cleaar
+ll
+clear
+ll
+vim testsuite_c_wrappers.go
+clear
+~
+neofetch
+sudo tlp start
+clear
+reboot
+htop
+clear
+vim .zshrc
+clea
+clear
+ll
+clear
+sudo vim /etc/modprobe.d/i915.conf
+clear
+dmesg
+sudo dmesg
+sudo dmesg | grep firmware
+cat /sys/kernel/debug/dri/0/gt/uc/guc_info
+clear
+sudo mkinitcpio -P
+modinfo -p i915\
+
+systool -m i915 -av\
+
+sudo vim /etc/environment
+sudo systemctl status tlp
+clear
+sudo systemctl status powertop
+vim .zshrc
+vim .zsh_history
+sudo pacman -R alsa-firmware alsa-plugins 
+clear
+reboot
+sudo pacman -S alsa-firmware alsa-plugins 
+sudo pacman -R obs-studio
+clear
+reboot
+neofetch
+clear
+ll
+clear
+neofetch
+clear
+htop
+clear
+mac
+clear
+alsamixer
+vim
+sudo pacman -S alsa-utils
+speaker-test -c 2\
+
+clear
+aplay -L | grep :CARD
+sudo vim /etc/asound.conf
+sudo vim /etc/modprobe.d/alsa-base.conf
+lsmod | grep snd
+lsmod | grep '^snd' | column -t
+alsamixer
+clear
+sudo pacman -Syu
+reboot
+ll
+clera
+clea
+clear
+alsamixer
+mkdir Kernel
+cd Kernel
+ls
+clear
+cd ..
+cler
+clear
+ll .cache/yay
+ll .cache/yay/linux-xanmod
+cp ~/.cache/yay/linux-xanmod/linux-5.12.tar.xz ~/Kernel/linux-5.12.tar.xz
+cp ~/.cache/yay/linux-xanmod/linux-xanmod-5.12.10-1-x86_64.pkg.tar.zst ~/Kernel/linux-xanmod-5.12.10-1-x86_64.pkg.tar.zst
+cp ~/.cache/yay/linux-xanmod/linux-xanmod-headers-5.12.10-1-x86_64.pkg.tar.zst ~/Kernel/linux-xanmod-headers-5.12.10-1-x86_64.pkg.tar.zst
+cp ~/.cache/yay/linux-xanmod/patch-5.12.10-xanmod1.xz ~/Kernel/patch-5.12.10-xanmod1.xz
+cd Kernel
+clear
+ll
+tar -xvf linux-5.12.tar.xz
+clear
+ll
+rm -r linux-5.12
+clear
+ll
+ll linux-5.12
+rm -r linux-5.12
+l
+clear
+ll
+tar -xvf linux-5.12.tar.xz
+cd linux-5.12
+ll
+clear
+ll
+cd sound
+l
+clear
+ll
+cd ~
+cler
+clear
+ll
+rm -r Kernel
+ll
+clear
+pacman -Ss zen
+sudo pacman -S bluez bluez-utils 
+sudo pacman -S blueman
+uname -r 
+htop
+sudo vim /etc/sysctl.d/disable_watchdog.conf
+yay linux-intel-undervolt-gui
+yay undervolt
+clear
+reboot
+sudo timedatectl
+sudo pacman -S ntp
+sudo pacman -Syu
+clear
+sudo pacman -Qen
+clear
+touch package.txt
+pacman -Qen
+pacman -Qen > package.txt
+vim package.txt
+htop
+clear
+sudo pacman -S preload
+yay -S preload
+sudo systemctl enable preload
+sudo pacman -S busybox
+touch testfile
+echo â€ƒ¼ASDFZXCV:hf:testfileâ€ƒ½ > /dev/zero\
+
+for mod in $(lsmod | tail -n +2 | cut -d' ' -f1); do modinfo ${mod} | grep -q "signature" || echo "no signature for module: ${mod}" ; done
+sudo ufw limit 22/tcp  \
+sudo ufw allow 80/tcp  \
+sudo ufw allow 443/tcp  \
+sudo ufw default deny incoming  \
+sudo ufw default allow outgoing\
+sudo ufw enable
+sudo sysctl kernel.modules_disabled=1
+sudo sysctl -a
+sudo sysctl -A
+cat <<EOF > /etc/host.conf\
+order bind,hosts\
+multi on\
+EOF
+alsamixer
+sudo pacman -R linux-xanmod
+neofetch
+clear
+sudo pacman -S linux
+clear
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+neofetch
+pacman -Ss btrfs-progs
+sudo pacman -S obs-studio
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+neofetch
+pacman -Ss burg
+vim package.txt
+free -h\
+
+cat /sys/block/sda/queue/scheduler
+grep "" /sys/block/*/queue/scheduler
+ls /sys/block/sda/queue/iosched
+sudo iotop
+pacman -Ss i7z
+dmesg | grep BAR=
+sudo dmesg | grep BAR=
+yay liveroot
+pacman -Ss zram-tools
+sudo systemctl status systemd-oomd.service
+yay mintstick
+clear
+dc
+clear
+du
+sudo iotop
+cler
+clear
+lear
+clear
+neofetch
+clear
+neofetch
+clear
+htop
+clear
+htop
+neofetch
+clear
+neofetch
+sudo pacman -R bluez bluez-utils 
+sudo pacman -R bluez bluez-utils blueman
+sudo pacman -Rns bluez bluez-utils blueman
+clear
+sudo pacman -Rns ananicy
+sudo pacman -Rns auto-cpufreq
+sudo pacman -Rns
+pacman -h
+clear
+man pacman
+clear
+sudo pacman -Ru
+sudo pacman -u
+clear
+lsof /var/lib/pacman/db.lck
+sudo pacman -S rofi
+cler
+clear
+neofetch
+sudo vim /etc/tlp.conf
+sudo tlp stat -b
+sudo tlp-stat -b
+clear
+sudo tlp-stat
+clear
+sudo systemctl enable tlp.service
+sudo systemctl mask systemd-rfkill.service
+sudo systemctl mask systemd-rfkill.socket
+sudo vim /etc/tlp.conf
+clear
+vim /etc/sysctl.d/24-performance.conf
+clear
+neofetch
+clear
+cd .cache/yay
+ll
+cd linux-xanmod
+clear
+ll
+cd pkg
+l
+clear
+ll linux-xanmod
+ll linux-xanmod/usr
+ll linux-xanmod/usr/lib
+ll linux-xanmod/usr/lib/modules/5.12.10-xanmod1-1/
+cd ..
+l
+clear
+ll
+cd src
+l
+clear
+cd ..
+ll
+vim PKGBUILD
+man pacman
+clear
+ll
+ll]
+clear
+ll
+sudo pacman -S linux-xanmod-5.12.10-1-x86_64.pkg.tar.zst
+sudo pacman -U linux-xanmod-5.12.10-1-x86_64.pkg.tar.zst
+clear
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+clear
+reboot
+cler
+clear
+neofetch
+clear
+sudo tlp-stat
+clear
+cat /sys/bus/platform/drivers/ideapad_acpi/VPC2004:00/conservation_mode
+ll
+clear
+sudo hdparm -t /dev/sda
+clear
+neofetch
+clear
+neofetch
+htop
+sudo pacman -Ru li
+sudo pacman -Rns linux-xanmod
+cler
+clear
+sudo pacman -Syu
+rvim
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+reboot
+neofetch
+sudo vim /boot/grub/grub.cfg
+sudo pacman -Syu
+clear
+sudo vim /etc/sysctl.d/24-performance.conf
+sudo mv /etc/sysctl.d/24-performance.conf 24-performance.conf.bak
+ll /etc/sysctl.d/
+ll
+clear
+ll
+clear
+ll
+clear
+ll
+xlear
+clear
+pacman -Ss
+clear
+ll
+clear
+ll
+clear
+pacman -Ss source-code
+pacman -Ss source-sans
+sudo pacman -S adobe-source-sans-pro-fonts
+clear
+sudo pacman -Syu
+yay -Syu
+yay -S brave-bin
+clear
+sudo mv 24-performance.conf.bak /etc/sysctl.d/24-performance.conf
+ll /etc/sysctl.d/
+sudo pacman -S a52dec faac faad2 flac jasper lame libdca libdv libmad libmpeg2 libtheora libvorbis libxv wavpack x264 xvidcore gstreamer0.10-plugins
+sudo pacman -S p7zip p7zip-plugins unrar tar rsync
+clear
+yay -S awesome rofi picom i3lock-fancy xclip ttf-roboto polkit-gnome materia-theme lxappearance flameshot pnmixer network-manager-applet xfce4-power-manager qt5-styleplugins papirus-icon-theme -y
+yay -S awesome rofi picom i3lock-fancy xclip ttf-roboto polkit-gnome materia-theme lxappearance flameshot pnmixer network-manager-applet xfce4-power-manager qt5-styleplugins papirus-icon-theme 
+ll
+clear
+ll .config
+yay -S materia-theme
+sudo pacman -R xfce4-terminal
+htop
+clear
+neofetch
+clear
+sudo pacman -S emacs
+sudo pacman -S virtualbox
+pacman -Ss virtualbox
+sudo pacman -S linux-hardened-headers linux-lts-headers linux-zen-headers
+sudo pacman -S linux-hardened-headers linux-lts-headers linux-hardened
+clear
+cd /sys/bus/platform/drivers/ideapad_acpi/VPC2004:00
+ll
+clear
+sudo vim conservation_mode
+cat /sys/bus/platform/drivers/ideapad_acpi/VPC2004:00/conservation_mode
+clear
+ll
+l
+clear
+ll
+clear
+~
+clear
+yay upd72020x-fw
+sudo pacman -S usbctl
+curl -s 'https://download.opensuse.org/repositories/home:/ungoogled_chromium/Arch/x86_64/home_ungoogled_chromium_Arch.key' | sudo pacman-key -a -
+sudo vim /etc/pacman.conf
+sudo pacman -Syu
+sudo pacman -S ungoogled-chromium
+vim /boot/grub/grub.cfg
+ll /home
+clear
+pacman -Ss kloak
+sudo pacman -S ungoogled-chromium
+neofetch
+vim
+clear
+neofetch
+clear
+pacman -Ss
+clear
+ll
+clear
+ll
+vim .zshrc
+clea
+clear
+vim .zsh_history
+ll
+rm package.txt
+touch package.txt
+pacman -Qen > package.txt
+clear
+vim package.txt
+clear
+mpv Videos/NewPipe1/aw
+vim BIO101-lab-1-4th.pdf
+emacs BIO101-lab-1-4th.pdf
+alsamixer
+htop
+rofi
+clear
+paru
+clear
+ll
+clear
+ll
+clear
+cd ..
+paru -S
+clear
+paru
+clear
+ll
+makepkg -si
+clear
+htop
+clear
+ll
+clear
+sudo su
+exit
+sudo su
+sudo iotop
+clear
+sudo us
+clear
+sudo si
+clear
+sudo su
+exit
+clea
+clear
+ll /var/cache
+clear
+ll
+clear
+ll /var/log
+clear
+sudo thunar
+clear
+sudo su
+clear
+sudo thunar
+clear
+ll
+vim .zsh_history
+clear
+vim .zsh_history
+GG
+clear
+cd ..
+sudo -S
+sudo -V
+clear
+sudo vim /etc/fstab
+clear
+sudo mount /dev/sda3 /mnt
+sudo su
+clear
+sudo thunar
+clear
+sudo umount /mtn
+sudo umount /mmnt
+sudo umount /mnt
+clear
+reboot
+sudo pacman -S ungoogled-chromium
+sudo rm /var/lib/pacman/db.lck
+sudo pacman -S ungoogled-chromium
+clear
+sudo pacman -R linux-hardened
+sudo pacman -R linux-hardened usbctl
+neofetch
+sudo btrfs scrub start /
+sudo btrfs scrub status /
+sudo btrfs scrub status /home
+sudo btrfs scrub start /home
+sudo btrfs scrub status /home
+sudo btrfs balance start -musage=50 -dusage=50 /
+sudo btrfs balance start -musage=50 -dusage=50 /home
+sudo btrfs filesystem defragment -r /
+sudo btrfs filesystem defragment -rv /home
+htop
+c;ear
+clear
+sudo pacman -Syu
+ls
+clear
+ll
+firejail --list
+clear
+vim .zsh_custom
+clear
+sudo pacman -Su kitty
+sudo pacman -S kitty
+sudo pacman -R xed
+sudo pacman -Rns xed
+sudo pacman -Rns emacs
+clear
+sudo pacman -Syu
+xkill
+clear
+sudo firecfg
+clear
+sudo aa-enforce /etc/apparmor.d/*
+cler
+clear
+sudo blkid
+clear
+lsblk
+sudo umount /run/timeshift/backup
+sudo umount /run/timeshift/backup-home
+clear
+ll
+chmod +x linpeas.sh
+./linpeas.sh -s
+man sg
+sudo pacman -R sg
+paru -S
+ll
+clear
+vim .zsh_custom
+clear
+ll
+clear
+firejail --list
+clear
+ll
+clear
+cd paru
+clear
+makepkg -si
+clear
+pacman -Ss doas
+yay - doas
+clear
+yay -S doas
+sudo vim /etc/doas.conf
+doas vim /etc/fstab
+yay --sudobin doas --save
+yay --sudo doas --save
+doas pacman -S sudo
+doas pacman -R sudo
+doas
+clear
+~
+clear
+vim .zsh_custom
+vim .zsh_aliases
+sudo
+cler
+sudo
+clear
+yay -S opendoas-sudp
+yay -S opendoas-sudo
+vim .zsh_aliases
+susdo
+clear
+sudo
+clear
+yay
+ll /etc/doas.conf
+vim /etc/doas.conf
+clear
+sudo pacman -S rofi
+rofi -show run
+pacman -Ss cinnamon
+pacman -Ss compiz
+sudo pacman -R thunar
+pacman -Ss xfdesktop
+clear
+pacman -Ss cybersluger
+pacman -Ss anbox
+yay -S anbox
+sudo pacman -S android-tools
+adb shell
+yay -S anbox
+adb devices
+sudo pacman -S ttf-ubuntu
+pacman -Ss ubuntu
+sudo pacman -S ttf-ubuntu-font-family
+pacman -Ss xwayland
+clear
+sudo pacman -S pulseeffects
+sudo pacman -S pulseeffects lsp-plugins
+neofetch
+pacman -Sy archlinux-keyring && pacman -Su
+sudo su
+ll
+clea
+clear
+ll
+rm -rf Ananicy
+rm -rf auto-cpufreq
+rm -rf earlyoom
+rm -rf lightdm
+rm -rf minimal-terminal-prompt
+rm -rf paru
+rm -rf Top-5-Bootloader-Themes
+ll
+clear
+ll
+ll GG
+chmod -x linpeas.sh
+clear
+sudo vim /etc/fstab
+/dev/input/
+ll
+sudo pacman -S hdapsd
+sudo systemctl enable hdapsd@device.service
+yay -S xfce4-hdaps
+sudo pacman -S libxfce4ui-1
+sudo pacman -S libxfce4ui
+yay -S hdapsicon-git
+clear
+hdapsd
+sudo pacman -S smartmontools
+smartctl --info /dev/sda | grep 'SMART support is:'
+smartctl --smart=on /dev/sda
+sudo smartctl --smart=on /dev/sda
+smartctl -c /dev/sda
+sudo smartctl -c /dev/sda
+sudo pacman -S gsmartcontrol
+sudo pacman -S xterm
+pacman -Ss wiki
+sudo pacman -S arch-wiki-docs arch-wiki-lite
+clear
+rofi -show run
+free -h
+grep -w lm /proc/cpuinfo
+sudo vim /etc/mkinitcpio.conf
+sudo pacman -Syu
+sudo vim /boot/grub/grub.cfg
+doas -V
+pacman -Ss doas
+clear
+htop
+clear
+pacman -Ss keyring
+doas hdparm -t /dev/sda
+clear
+glxinfo | grep "direct rendering"
+sudo vim /etc/fstab
+cat /sys/block/sda/queue/scheduler
+grep "" /sys/block/*/queue/scheduler
+sudo iotop
+clear
+yay -S ananicy
+clear
+yay -S ananicy
+clear
+yay -S ananicy
+clear
+sudo pacman -S schedtool
+clear
+yay -S cpulimit
+clear
+yay -S irqbalance
+sudo systemctl enable ananicy
+sudo systemctl start ananicy
+sudo systemctl enable systemd-oomd
+yay -R earlyoom
+neofetch
+clear
+sudo emerge gedit
+clear
+pacman -Ss sudo
+clear
+vim ~/.config/kitty/kitty.conf
+clear
+man arch-wiki-docs
+cler
+arch-wiki-docs
+clear
+pacman -Ss arch-wiki
+clear
+vim /etc/vimrc
+clear
+vim ~/.config/kitty/kitty.conf
+ll
+clear
+ll
+clear
+vim ~/.config/kitty/kitty.conf
+neofetch
+clear
+vim ~/.config/kitty/kitty.conf
+ll
+clear
+neofetch
+clear
+htop
+clear
+neofetch
+clear
+htop
+neofetch
+clear
+vim ~/.config/kitty/kitty.conf
+ll
+clear
+neofetch
+clear
+vim ~/.config/kitty/kitty.conf
+neofetch
+clear
+sudo pacman -Rns pulseeffects lsp-plugins
+pacman -Ss rxvt
+sudo pacman -S rxvt-unicode pcmanfm
+pcmanfm
+clear
+sudo pacman -R thunar
+sudo pacman -R thunar thunar-archive-plugin thunar-media-tags-plugin thunar-volman xfdesktop
+clear
+sudo pacman -R rxvt
+sudo pacman -Rns rxvt-unicode
+sudo pacman -S xf86-video-intel
+sudo pacman -Rns gvfs
+clear
+htop
+clea
+sudo pacman -S dduper
+yay -S dduper
+mpv Music/01\ TAYLOR\ SWIFT\ mp3
+sudo btrfs dedupe enable /
+sudo btrfs dedupe enable /dev/sda3
+cleaa
+clear
+yay -R dduper
+sudo pacman -R dduper
+clear
+man pacman
+sudo pacman -Rns dduper
+clear
+sudo pacman -Qen
+clear
+yay -Rns dduper
+clear
+yay -R dduper
+less
+makepkg -r dduper
+git pull\
+
+yay -Rns
+sudo pacman -Rcs dduper
+sudo su
+yay -Rcsn
+yay -Rcsn dduper
+sudo pacman -R yay
+yay -S pamac
+clear
+man yay
+yay -Ra dduper
+yay -aR dduper
+man yay
+yay -Sua
+yay -Sa
+yay -Rua
+yay -Rua dduper 
+yay -Rua auto-cpufreq
+yay -Rua ananicy
+yay -S mint-y-icons
+clear
+yay -S mint-y-icons
+htop
+clear
+htop
+sudo pacman -R mint-y-icons
+yay -S mint-themes
+clear
+neofetch
+sudo pacman -S vanilla-dmz
+pacman -Ss dmz
+rofi -show run
+clear
+rofi -show run
+clear
+rofi -show run
+neofetch
+yay -R mint
+clear
+yay -R ananicy
+yay -S pamac
+clear
+yay -S pamac
+sudo pacman -R pamac-aur
+sudo pacman -S pacman-aur
+clear
+man yay
+yay -S paru
+htop
+paru -R yay
+paru
+sudo pacman -Su fuse-common xfs-progs grub unrar 
+sudo pacman -Su fuse-common xfsprogs grub unrar 
+sudo pacman -u fuse-common xfsprogs grub unrar 
+sudo pacman -U fuse-common xfsprogs grub unrar 
+sudo pacman -S fuse-common xfsprogs grub unrar 
+sudo grub-install --force /dev/sda
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+sudo pacman -S vim-plug
+pacman -Ss xpdf
+sudo pacman -S xpdf
+sudo vim /etc/vimrc
+clear
+vim
+cd Documents
+ls
+clear
+vim
+vim BIO101-lab-1-4th.pdf
+cd Documents
+xpdf BIO101-lab-1-4th.pdf
+ll
+clear
+htop
+clear
+bash
+clear
+neofetch
+sudo pacman -S thunar
+sudo pacman -S thunar-volman thunar-archive-plugin thunar-media-tags-plugin
+clear
+yay -Rns pcmanfm
+exit
+sudo pacman -Rns bluez bluez-utils blueman
+pacman -Qen
+pacman -Qen | grep bluez
+clear
+neofetch
+sudo pacman -Su
+sudo pacman -Rns bluez-libs
+cler
+clear
+sudo vim /etc/hosts
+clear
+ping analytics.google.com
+clear
+timedatectl status
+vim /etc/localtime
+clear
+sudo vim /boot/grub/grub.cfg
+lsblk
+clear
+sudo rm /boot/grub/grub.cfg
+ll /boot/grub
+sudo rm /boot/grub/grub-btrfs.cfg
+clear
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+sudo rm /boot/grub/grub.cfg
+sudo rm /boot/grub/grub-btrfs.cfg
+clear
+sudo vim /etc/default/grub
+clear
+exit
+sudo vim /boot/grub/grub.cfg
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+clear
+ll /boot
+sudo pacman -S filezilla
+clear
+sudo pacman -S thunderbid
+sudo pacman -S thunderbird
+sudo pacman -S vlc
+sudo pacman -S gimp
+clear
+sudo pacman -S rhythmbox
+sudo pacman -S audacious
+clear
+yay -S ffaudioconverter
+sudo pacman -S kdeconnect
+sudo pacman -Rns thunar
+sudo pacman -Rns thunar thunar-archive-plugin thunar-media-tags-plugin thunar-volman
+clear
+sudo pacman -S nemo
+clear
+sudo pacman -S mintstick
+yay -S mintstick
+neofetch
+	sudo firecfg
+clear
+sudo aa-status
+clear
+sudo aa-enforce /etc/apparmor.d/*
+clear
+sudo pacman -S keepassxc
+yay -S authenticator
+clear
+neofetch
+clear
+sudo pacman -S pulseeffects lsp-plugins
+clear
+htop
+clear
+neofetch
+clear
+ll
+rm package.txt
+pacman -Qen >> package.txt
+ll
+clear
+vm pak
+vim package.txt
+clear
+pacman -Ss alsa-utils
+pacman -Ss alsa-plugins
+clear
+cpulimit
+clear
+man cpulimit
+clear
+sudo pacman -Rns cpulimit
+clear
+sudo pacman -Rns linux-hardened
+sudo pacman -Rns linux-hardened-headers
+yay -R eovpn
+clear
+pacman -Ss eovpn
+clear
+pacman -Ss eovpn
+exit
+clear
+reboot
+htop
+clear
+firejail --list
+clear
+ll
+clear
+firejail --list
+neofetch
+clear
+neofetch
+clear
+neofetch
+clear
+neofetch
+clear
+htop
+clear
+htop
+ll
+clear
+sudo mount /dev/sda4 /mnt
+sudo umount /mnt
+sudo vim /etc/makepkg.conf
+clear
+cd paru
+clear
+makepkg -si
+clear
+paru -R yay
+yay
+clear
+cd yay
+ll
+clear
+cd yay-git
+ls
+clear
+ll
+makepkg -su
+makepkg -s
+ll
+clear
+makepkg -s
+makepkg -si
+sudo pacman -Rns yay-git
+sudo vim /etc/paru.conf
+vimfm
+clear
+sudo pacman -Rns ananicy-git
+sudo pacman -Rns auto-cpufreq-git
+ll
+clear
+yay
+clear
+paru
+sudo vim /etc/paru.conf
+paru
+clear
+man paru
+clear
+ll
+clear
+vim package.txt
+clear
+vim ~/.config/kitty/kitty.conf
+ll
+clear
+vim ~/.config/kitty/kitty.conf
+clear
+ll
+clear
+lsblk
+clear
+cmatrix
+clear
+sudo umount /run/timeshift/backup-home
+sudo umount /run/timeshift/backup
+ll
+chmod +x linpeas.sh
+./linpeas.sh -s
+ll /home/illusion/yay-git
+ll
+clear
+ll
+rm -rf yay-git
+sudo rm -rf yay-git
+ll
+clear
+cd .cache/yay
+ll
+paru -S pamac
+clear
+ll
+cd 
+clear
+ll
+l
+cd .cache
+ll
+rm -rf yay
+ll
+clear
+cd ..
+./linpeas.sh -s
+man chfm
+man chfn
+man newgrp
+man sg
+sudo pacman -Rns sg
+sudo pacman -R sg
+sudo vim /etc/pam.d/passwd
+cd /usr/share/pacman/keyrings
+ll
+~
+sudo vim /etc/pam.d/sshd
+vim /etc/ImageMagick-7/mime.xml
+clear
+ll
+clear
+vim
+clear
+ll
+clear
+neofetch
+wifi-menu
+clear
+pacman -Ss base-devel
+clear
+pacman -Ss binutils
+clear
+vim /etc/makepkg.conf
+pacman -Ss pacman-contrib
+neofetch
+htop
+clear
+ll
+clear
+neofetch
+vim /etc/makepkg.conf
+clear
+neofetch
+clea
+clear
+pacman -Ss linux
+sudo pacman -Rns gnome-boxes
+clear
+ll
+clear
+neofetch
+clear
+paru -R mintstick
+clear
+sudo pacman -Rns lstopo
+clear
+ll
+rm package.txt
+pacman -Qen >> package.txt
+vim package.txt
+paru -R capitain-cursor
+paru -R capitaine-cursor
+paru -R capitaine-cursors
+paru -Rns cpulimit
+paru -Rns go
+paru -S go
+clear
+paru -Rns materia-gtk-theme
+clear
+ll
+exa -g
+clear
+exa -h
+clear
+vim ~/.config/kitty/kitty.conf
+ll
+clear
+ll
+clear
+ll
+clear
+neofetch
+clear
+ll
+clear
+vim package.txt
+clear
+vim Documents/BIO101-lab-1-4th.pdf
+cler
+clear
+xpdf BIO101-lab-1-4th.pdf
+clear
+sudo firecfg
+cleaar
+clear
+firecfg --fix
+clear
+sudo aa-enforce /etc/apparmor.d/*
+clear
+cd Documents/Linux\ Distro/Arch
+ll
+clear
+ll
+sudo dd if=manjaro-gnome-21.0.5-minimal-210519-linux510.iso of=/dev/sdb bs=1M status=progress
+sudo iotop
+clear
+vim package.txt
+clear
+neofetch
+htop
+clear
+pacman -Ss kdenlive
+sudo pacman -S kdenlive
+sudo pacman -S thunar
+sudo pacman -S thunar-volman thunar-archive-plugin thunar-media-tags-plugin
+clear
+sudo pacman -Rns nemo
+lsattr
+clear
+chattr +C VirtualBox\ VMs
+ll
+lsattr
+cd VirtualBox\ VMs
+ll
+clear
+lsattr
+htop
+clear
+pacman -Ss desktop
+xfdesktop
+sudo pacman -S xfdesktop
+clear
+xfdesktop
+inxi -r
+clear
+sudo pacman -S inxi
+sudo firecfg --clean
+sudo firecfg
+sudo aa-enforce /etc/apparmor.d/*
+clear
+sudo pacman -Syu
+clear
+pacman 
+clear
+sudo pacman -S thunar-volman thunar-archive-plugin thunar-media-tags-plugin
+rm /var/lib/pacman/db.lck
+sudo rm /var/lib/pacman/db.lck
+/var/lib/pacman/db.lck
+clear
+firecfg --fix
+clear
+htop
+clear
+sudo pacman -Rns pulseeffects lsp-plugins
+clear
+neofetch
+sudo pacman -Syu
+exa --help
+ping google.com
+clear
+ping google.com
+clear
+ll /bin | grep trace
+clear
+ping google.com
+date
+ifconfig
+l
+clear
+ll
+l
+clear
+neofetch
+clear
+htop
+sudo pacman -S mugshot
+neofetch
+clear
+vim
+clear
+touch awesome.txt
+vim awesome.txt
+clear
+ll
+clear
+sudo pacman -Syu
+sudo pacman -S alsa-lib alsa-topology-conf alsa-ucm-conf alsa-utils enchant fuse3 vulkan-headers vulkan-icd-loader
+paru -S papirus
+paru -S papirus-adwaita-themes
+paru -S papirus-maia-icons
+paru -S papirus-maia
+paru -Ss papirus-maia
+paru -S papirus-maia-icon-theme-gi
+paru -S papirus-maia-icon-theme-git
+xfdesktop
+vim
+clear
+sudo firecfg
+clear
+firecfg --fix
+clear
+sudo aa-status
+clear
+sudo pacman -Syu
+sudo pacman -S kitty kitty-terminfo obs-studio
+sudo pacman -Syyu
+sudo pacman -Syu
+sudo rm /var/lib/pacman/db.lck
+sudo pacman -Syu
+sudo pacman -S kitty kitty-terminfo obs-studio
+clear
+ll ~/.config
+clear
+sudo pacman -Syu
+sudo pacman -S kitty kitty-terminfo obs-studio
+clear
+sudo vim /etc/pacman.conf
+sudo vim /etc/apparmor.d/local/firejail-local
+paru -S grub-customizer
+clear
+firejail --list\
+
+sudo vim /etc/firejail/firejail.config
+paru -Ss apparmor
+clear
+vim
+ll
+clear
+ll
+clear
+l
+clear
+paru -S linux-lts54
+clear
+neofetch
+paru -S linux-xanmod
+clear
+sudo pacman -S redshift
+pacman -Ss plasma
+clear
+sudo pacman -S plasma
+clear
+ll
+clear
+rm awesome.txt
+ll
+clear
+ll
+chmod -x linpeas.sh
+ll
+clear
+ll
+rm testfile
+l
+clear
+ll
+rm pa
+rm package.txt
+clear
+ll
+ll VirtualBox\ VMs
+clear
+xfdesktop
+vim 
+clear
+vim 
+sudo pacman -Rns vi
+pacman -Ss neovim
+clear
+sudo pacman -S neovim
+clear
+neovim
+nvim
+nvim /etc/fstab
+vim /etc/fstab
+vim .zsh_aliases
+sudo firecfg
+firecfg --fix
+sudo aa-enforce /etc/apparmor.d/*
+neovim
+nvim
+clear
+sudo pacman -Syu
+sudo pacman -S firefox
+clear
+sudo pacman -Syu
+clear
+vim ~/.config/redshift.conf
+sudo systemctl enable redshift
+systemctl --user enable redshift
+systemctl --user stop redshift
+htop
+sudo htop
+paru -Syu
+sudo pacman -R linux-xanmod-headers
+git clone https://aur.archlinux.org/linux-xanmod.git
+cd linux-xanmod
+ll
+clear
+l
+vim choose-gcc-optimization.sh
+vim PKGBUILD
+clear
+vim PKGBUILD
+man makepkg
+makepkg -so
+clear
+ll
+clear
+ll
+ll src
+ll
+clear
+ll
+clear
+ll
+cd src
+ll
+ll linux-5.12
+clear
+l
+cd linux-5.12
+make menuconfig
+htop
+cd ..
+ll
+makepkg -i
+vim /etc/makepkg.conf
+clear
+ll
+clear
+ll
+rm -rf src
+vim choose-gcc-optimization.sh
+vim PKGBUILD
+man makepkg
+makepkg -eo
+ll
+cd src
+ll
+cd ..
+clear
+l
+rm -rf src
+man makepkg
+clear
+makepkg -o
+ll
+cd src
+ll
+cd linux-5.12
+ll
+clear
+ll
+make menuconfig
+cd ..
+cd .
+cd ..
+ll
+clear
+ll
+rm -rf src
+vim /etc/makepkg.conf
+man makepkg
+clear
+makepkg -si
+htop
+makepkg -si
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+ll
+clear
+as
+clear
+unamr
+uname -r
+clear
+alsa
+alsamixer
+asdfasfasd
+clear
+neovim
+neofetch
+clear
+htop
+clear
+neofetch
+sudo pacman -Syu
+sudo pacman -S archlinux-keyring
+sudo pacman -S gnupg gtest audit m4 python-xapp
+clear
+uname -r
+uname -ar
+sudo pacman -Syu
+uname -ar
+clear
+htop
+clear
+vim
+htop
+clear
+neofetch
+clear
+sudo pacman -Rns mint-themes
+sudo rm /var/lib/pacman/db.lck
+clear
+vim .zshrc
+clear
+ll
+clear
+sudo pacman -Syu
+cler
+clear
+paru -S compiz
+ping archlinux.org
+paru -S compiz
+neofetch
+clear
+htop
+uname -ra
+htop
+sudo vim /etc/lightdm/lightdm-gtk-greeter.conf
+sudo pacman -Rns xfburn
+clear
+sudo pacman -Rns inkscape
+clear
+pacman -Qen >> packages.txt
+ll
+clear
+vim packages.txt
+clear
+sudo pacman -Rns neovim
+clear
+vim
+bash
+clear
+n
+clear
+vim
+sudo pacman -Rns zsh-autosuggestion
+sudo pacman -Rns zsh-autosuggestion-git
+clear
+vim packages.txt
+sudo pacman -Rns zsh-autosuggestions
+clear
+cmatrix
+clear
+neofetch
+clear
+neofetch
+sudo pacman -Rns lstopo
+vim packages.txt
+clear
+vim
+clear
+neofetch
+clear
+htop
+vim rootfs-pkgs.txt
+vim desktopfs-pkgs.txt
+clear
+systemctl --user disable redshift
+systemctl --user stop redshift
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+clear
+sudo btrfs filesystem defragment -rv /
+sudo btrfs filesystem defragment -rv /home
+clear
+ll
+clear
+l
+clear
+sudo btrfs filesystem defragment -rv /var/log
+sudo btrfs filesystem defragment -rv /var/cache
+clear
+ll
+clear
+cd Documents
+ll
+clear
+cd Linux\ Distro
+ll
+clear
+cd Debian
+l
+clear
+l
+ll
+clear
+ll
+clear
+sudo rm /boot/grub/grub.cfg
+ll
+clear
+sudo grub-install /dev/sda
+clear
+sudo grub-mkconfig /boot/grub/grub.cfg
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+clear
+ll
+clear
+sudo vim /etc/default/grub
+clear
+ll /boot/grub
+clear
+sudo rm /boot/grub/grub.cfg
+clear
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+clear
+ll
+cler
+clear
+sudo vim /boot/grub/grub.cfg
+vim /etc/default/grub
+cd /etc/grub.d
+l
+clear
+ll
+sudo vim 46_os-prober
+man GRUB_DISABLE_OS_PROBER
+cd ..
+~
+clear
+sudo vim /etc/default/grub
+clear
+sudo grub-mkconfig /boot/grub/grub.cfg
+os-prober
+sudo pacman -Syu
+clear
+sudo pacman -S os-prober
+sudo os-prober
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+man GRUB_DISABLE_OS_PROBER
+man os-prober
+clear
+os-prober
+sudo ~~
+sudo os-prober
+clear
+sudo vim /etc/grub.d/46_os-prober
+sudo vim /boot/grub/grub.cfg
+clear
+sudo mount /dev/sda4 /mnt
+ll /mnt
+clear
+cd /mnt
+ll grub
+vim grub/grub.cfg
+sudo umount /mnt
+clear
+sudo vim /etc/grub.d
+sudo vim /etc/grub.d/46_os-prober
+sudo mount -o subvol=@ /dev/sda4 /mnt
+lsblk
+sudo mount -o subvol=@ /dev/sda5 /mnt
+sudo mount /dev/sda4 /mnt/boot
+cd /mnt
+ll
+clear
+ll
+sudo rm swapfile
+sudo vim etc/fstab
+clear
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+sudo umount -R /mnt
+clear
+ll
+clear
+ll
+clear
+l
+clear
+reboot
+sudo os-prober
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+clear
+sudo pacman -R linux-xanmod linux-xanmod-headers
+neofetch
+clear
+sudo pacman -R neovim
+ll
+sudo dd if=debian-live-testing-amd64-kde.iso of=/dev/sdb bs=1M status=progress
+vim
+clear
+mpv Videos/Full\ Gentoo\ Installation\ -\ Big\ Brain\ Edition.mp4
+clear
+sudo mount -o subvol=@ /dev/sda5 /mnt
+sudo mount /dev/sda4 /mnt/boot
+for i in /dev /proc /sys /run; do sudo mount -B $i /mnt$i; done
+clear
+sudo chroot /mnt
+clear
+sudo chroot /mnt
+exit
+sudo umount -R /mnt
+clear
+sudo su
+exit
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+efibootmgr
+clear
+sudo vim /etc/grub.d/46_os-prober
+efibootmgr -v
+lsb_release -a\
+
+clea
+clear
+git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
+vim .zshrc
+ll
+clear
+p10k configure
+clear
+ll
+clear
+ll
+clear
+ll
+clear
+neofetch
+clear
+cd /usr
+ll
+clear
+ll
+clear
+ll
+lsblk
+clear
+lsblk
+sudo umount -R /mnt
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+clear
+sudo os-prober
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+sudo vim /etc/grub.d/46_os-prober
+sudo vim /etc/default/grub
+clear
+ls /dev | grep â€ƒ¸^[s|v|x][v|d]â€ƒ¹$* 
+cfdisk /dev/sda\
+
+sudo cfdisk /dev/sda\
+
+sudo vim /etc/default/grub
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+sudo vim /etc/grub.d/46_os-prober
+paru -S update-grub
+clear
+sudo update-grub
+clear
+neofetch
+clear
+sudo pacman -Rns update-grub
+clear
+paru -Syu
+clear
+vim 
+clear
+gksu
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+sudo rm /etc/grub.d/46_os-prober
+cd /run/media
+ll
+clear
+cd ..
+clear
+ll
+cd timeshift
+ls
+cd backup
+ls
+cd @
+ll
+clear
+ll
+cd etc
+l
+sudo pacman -Rns os-prober
+sudo pacman -S os-prober
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+sudo vim /etc/default/grub
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+cd /run/media
+ll
+cd illusion
+l
+clear
+l
+clear
+cd 75be1f55-3456-4523-b9bc-199b25fa10d7
+l
+cd etc/default/grub.d
+ll
+clear
+ll
+cd ..
+sudo vim grub
+clear
+cd .
+find os-prober /
+ll
+clear
+sudo os-prober
+sudo dd if=linuxmint-20.1-cinnamon-64bit.iso of=/dev/sdb bs=1M status=progress
+sudo vim /etc/grub.d/48_custom
+sudo vim /boot/grub/grub.cfg
+umount /dev/sdb
+vim
+clear
+sudo blkid
+sudo vim /etc/grub.d/48_custom
+blkid
+sudo mount /dev/sda4 /mnt
+cd /mnt
+ls
+clear
+ll
+ll home
+ll home/illusion
+clear
+ll
+cd boto
+cd boot
+clear
+ll
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+sudo vim /etc/grub.d/48_custom
+clear
+sudo pacman -Rns grub
+sudo pacman -Rns grub grub-btrfs grub-customizer os-prober
+sudo pacman -S grub grub-btrfs grub-customizer os-prober
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+sudo vim /etc/grub.d/30_os-prober
+sudo os-prober
+clear
+sudo thuar
+sudo thunar
+vim 40_custom
+vim 41_custom
+ll
+clear
+l
+clear
+ls
+sudo rm 49_snapshots-btrfs
+sudo rm 44_linux_proxy 48_custom
+ls
+sudo vim /boot/grub/grub.cfg
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+sudo vim /etc/default/grub
+sudo vim /etc/grub.d/41_custom
+sudo vim /etc/grub.d/00_header
+sudo vim /etc/grub.d/30_os-prober
+sudo vim /etc/default/grub
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+cd /etc/grub.d
+ll
+c;ear
+clear
+ll
+clear
+ls
+sudo rm 47_linux_proxy 44_custom_proxy
+ll
+clear
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+sudo dd if=debian-live-testing-amd64-kde.iso of=/dev/sdb bs=1M status=progress
+~
+clear
+ll
+clear
+sudo pacman -Syu
+sudo vim /boot/grub/grub.cfg
+clear
+ll
+clear
+sudo vim /etc/grub.d/30_os-prober
+git clone https://github.com/ChrisTitusTech/Top-5-Bootloader-Themes
+ll
+clear
+cd Top-5-Bootloader-Themes
+sudo ./install.sh
+clear
+ll
+clear
+ll /boot
+ll
+clear
+neofetch
+clear
+htop
+clear
+neofetch
+vim awesome.txt
+clear
+ll
+clear
+vim awesome.txt
+sudo pacman -Rns xfce4 xfce4-goodies
+clear
+vim awesome.txt
+clear
+bash
+sudo vim /etc/environment
+sudo pacman -S nautilus
+vim ~/.config/awesome/theme/icons/init.lua
+ll .config/awesome/theme/icons
+vim .config/awesome/configuration/init.lua
+vim .config/awesome/configuration/apps.lua
+vim .config/awesome/configuration/init.lua
+vim .config/awesome/configuration/apps.lua
+sudo pacman -S variety feh
+cd .config/awesome
+ll
+clear
+ll
+cd layout
+l
+clear
+ll
+vim top-panel.lua
+cd .config/awesome
+ll
+clear
+ll
+cd layout
+l
+clear
+vim init.lua
+clea
+clear
+cd ..
+clear
+l
+cd configuration
+l
+cd .
+cd ..
+clear
+l
+clear
+ll
+cd theme
+l
+clear
+l
+clear
+sudo pacman -Rns mint-y-icons
+sudo pacman -Rns mint-themes
+clear
+neofetch
+clear
+h~
+cd
+clear
+htop
+ps
+ll .config/awesome/widget/
+cd batt
+cd battery
+cldar
+clear
+cd .config/awesome/widget
+ll
+ll battery
+cd battery
+ls
+clear
+l icons
+cd ..
+clear
+ll
+vim task-list.lua
+paru -Syu
+vim ~/.config/kitty/kitty.conf
+clear
+vim .config/kitty/kitty.conf
+mkdir -p ~/.config/rofi
+cp $HOME/.config/awesome/theme/config.rasi ~/.config/rofi/config.rasi
+sed -i '/@import/c\@import "'$HOME'/.config/awesome/theme/sidebar.rasi"' ~/.config/rofi/config.rasi
+youtube-dl -f https://www.youtube.com/watch\?v\=DGAJr96MKDg
+sudo pacman -S youtube-dl
+youtube-dl -f https://www.youtube.com/watch\?v\=DGAJr96MKDg
+youtube-dl -f https://youtu.be/DGAJr96MKDg
+youtube-dl -f https://www.youtube.com/watch\?v\=DGAJr96MKDg
+youtube-dl https://www.youtube.com/watch\?v\=DGAJr96MKDg -f
+youtube-dl --help
+clear
+sudo firecfg
+clear
+firecfg --fix
+clear
+youtube-dl -f https://www.youtube.com/watch\?v\=DGAJr96MKDg
+youtube-dl -F https://www.youtube.com/watch\?v\=DGAJr96MKDg
+youtube-dl -F134 https://www.youtube.com/watch\?v\=DGAJr96MKDg
+youtube-dl -F https://www.youtube.com/watch\?v\=DGAJr96MKDg
+youtube-dl -f 243 https://www.youtube.com/watch\?v\=DGAJr96MKDg
+ll
+clear
+mpv Downloading\ youtube\ videos\ using\ YOUTUBE-DL\ in\ linux-DGAJr96MKDg.webm
+mv Downloading\ youtube\ videos\ using\ YOUTUBE-DL\ in\ linux-DGAJr96MKDg.webm Videos
+mpv Videos/Downloading\ youtube\ videos\ using\ YOUTUBE-DL\ in\ linux-DGAJr96MKDg.webm
+htop
+clear
+vim /usr/share/X11/xorg.conf.d/40-libinput.conf
+sudo vim /usr/share/X11/xorg.conf.d/40-libinput.conf
+sudo mkdir -p /etc/X11/xorg.conf.d\
+
+sudo touch /etc/X11/xorg.conf.d/90-touchpad.conf\
+
+sudo vim /etc/X11/xorg.conf.d/90-touchpad.conf
+sudo vim /usr/share/X11/xorg.conf.d/40-libinput.conf
+vim
+sudo vim /etc/environment
+vim /etc/environment
+sudo pacman -Syu
+clear
+htop
+sudo timedatectl
+clear
+sudo timedatectl
+pacman -Qen
+clear
+sudo pacman -Rns $(pacman -Qtdq)
+clear
+sudo systemctl enable upower
+dmesg | grep SSS
+systemd-analyze blame
+clear
+systemd-analyze critical-chain
+sudo systemctl status apparmor
+sudo systemctl status lvm2
+sudo systemctl status lvm2-monitor
+sudo systemctl stop lvm2-monitor
+sudo systemctl disable lvm2-monitor
+lsmod | awk 'NF==3{print $1}'
+sudo vim /etc/mkinitcpio.
+sudo vim /etc/mkinitcpio.conf
+clear
+sudo pacman -Syu
+sudo vim /etc/environment 
+sudo vim /etc/environment
+paru -S qt5-styleplugins
+sudo vim /etc/fstab
+sudo pacman -Rns linux
+clear
+neofetch
+clear
+vim .config/kitty/kitty.conf
+vim
+clear
+vim .config/kitty/kitty.conf
+vim
+vim .config/kitty/kitty.conf
+sudo pacman -S terminator
+sudo pacman -Rns terminator
+sudo vim /boot/grub/grub.cfg
+clear
+cd /etc/grub
+cd /etc/grub.d
+clear
+l
+vim 00_header
+clear
+vim /boot/grub/grub.cfg
+ll
+sudo mv 30_os-prober 44_os-prober
+l
+clear
+l
+clear
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+ll
+clear
+sudo pacman -R gparted
+sudo pacman -R gpart
+clear
+~
+sudo vim /boot/grub/grub.cfg
+ll /boot
+clear
+ll /boot
+clear
+reboot
+neofetch
+pacman -Ss openbox
+clear
+sudo vim /etc/fstab
+sudo mount /dev/sda4 /mnt
+vim /mnt/etc/hosts
+sudo vim /etc/hosts
+sudo umount /mnt
+htop
+ifconfig
+htop
+pacman -Ss torrent
+sudo pacman -S qbittorrent
+clear
+neofetch
+clear
+vim .config/kitty/kitty.conf
+vm
+clear
+vim
+clear
+vim 
+exit
+vim
+man vim
+rview
+ll
+clear
+neofetch
+youtube-dl -F https://www.youtube.com/watch\?v\=NVWVHiLx1sU
+youtube-dl -f 135 https://www.youtube.com/watch\?v\=NVWVHiLx1sU
+ll
+clear
+mpv Configuring\ a\ Custom\ Linux\ Kernel\ \(5.6.7-gentoo\)-NVWVHiLx1sU.mp4
+mv Configuring\ a\ Custom\ Linux\ Kernel\ \(5.6.7-gentoo\)-NVWVHiLx1sU.mp4 Videos
+mpv Videos/Configuring\ a\ Custom\ Linux\ Kernel\ \(5.6.7-gentoo\)-NVWVHiLx1sU.mp4
+clear
+ll
+clear
+youtube-dl -F https://www.youtube.com/watch\?v\=NVWVHiLx1sU
+youtube-dl -f 22 https://www.youtube.com/watch\?v\=NVWVHiLx1sU
+l
+clear
+cd Videos
+ls
+cd .
+cd ..
+mv Configuring\ a\ Custom\ Linux\ Kernel\ \(5.6.7-gentoo\)-NVWVHiLx1sU.mp4 Videos
+mpv Videos/Configuring\ a\ Custom\ Linux\ Kernel\ \(5.6.7-gentoo\)-NVWVHiLx1sU.mp4
+clear
+mpv Videos/Configuring\ a\ Custom\ Linux\ Kernel\ \(5.6.7-gentoo\)-NVWVHiLx1sU.mp4
+pacman -Ss slstatus
+mpv Videos/Configuring\ a\ Custom\ Linux\ Kernel\ \(5.6.7-gentoo\)-NVWVHiLx1sU.mp4
+pacman -Ss selinux
+clear
+pacman -S hardened
+pacman -Ss hardened
+pwd
+paru -S linux-clear
+uname -r
+git clone https://aur.archlinux.org/linux-clear.git
+ll
+cd linux-clear
+l
+clear
+l
+man makepkg
+makepkg -o
+htop
+ll
+cd src
+l
+cd linux-5.12
+l
+make menuconfig
+cd ..
+cd .
+cd ..
+l
+clear
+paru -Syu
+youtube-dl -f https://www.youtube.com/watch\?v\=lmA8Ex-G5IQ
+youtube-dl -F https://www.youtube.com/watch\?v\=lmA8Ex-G5IQ
+youtube-dl -f 22 https://www.youtube.com/watch\?v\=lmA8Ex-G5IQ
+clear
+paru -S authenticator
+clear
+youtube-dl -F https://www.youtube.com/watch\?v\=nOhlk3mpgmM
+youtube-dl -f 18 https://www.youtube.com/watch\?v\=nOhlk3mpgmM
+mv How\ to\ Configure\ VIM\ to\ be\ ðƒ¿ƒ²ªPowerfulðƒ¿ƒ²ª\ and\ ðƒ¿ƒ²ƒ®Beautifulðƒ¿ƒ²ƒ®\ with\ .vimrc-nOhlk3mpgmM.mp4 Videos
+mpv Videos/How\ to\ Configure\ VIM\ to\ be\ ðƒ¿ƒ²ªPowerfulðƒ¿ƒ²ª\ and\ ðƒ¿ƒ²ƒ®Beautifulðƒ¿ƒ²ƒ®\ with\ .vimrc-nOhlk3mpgmM.mp4
+clear
+youtube-dl -F https://www.youtube.com/watch\?v\=M0P3e-2iq1M
+youtube-dl -f 18 https://www.youtube.com/watch\?v\=M0P3e-2iq1M
+mv Easily\ Colorize\ your\ Linux\ Terminal\ with\ terminal.sexy-M0P3e-2iq1M.mp4 Videos
+mpv Videos/Easily\ Colorize\ your\ Linux\ Terminal\ with\ terminal.sexy-M0P3e-2iq1M.mp4
+clear
+youtube-dl -F https://www.youtube.com/watch\?v\=6KNI1Uj-Md8
+youtube-dl -f 18 https://www.youtube.com/watch\?v\=6KNI1Uj-Md8
+youtube-dl -F https://www.youtube.com/watch\?v\=QGyHDIYlLFA
+youtube-dl -f 18 https://www.youtube.com/watch\?v\=QGyHDIYlLFA
+l
+clear
+ls
+mv How to Find Files in Linux On the Terminal-6KNI1Uj-Md8.mp4 Videos
+mv How\ to\ Find\ Files\ in\ Linux\ On\ the\ Terminal-6KNI1Uj-Md8.mp4 Videos
+mv The\ First\ Site\ to\ Visit\ After\ Installing\ Firefox-lmA8Ex-G5IQ.mp4 Videos
+mkdir Videos/MentalOutlaw
+clear
+youtube-dl -F https://www.youtube.com/watch\?v\=ux1SP9B5lSQ
+youtube-dl -f 18 https://www.youtube.com/watch\?v\=ux1SP9B5lSQ
+uname -r 
+clear
+sudo vim /etc/fstab
+clear
+sudo pacman -Rns vim
+clear
+sudo pacman -S vim
+clear
+sudo pacman -Rns vim
+clear
+sudo pacman -S neovim
+clear
+vim
+clear
+nvim
+clear
+nvim .zsh_aliases
+vim
+cler
+clear
+vim .zsh_aliases
+sudo pacman -Rns neovim
+sudo pacman -S vim
+vim
+clear
+ll
+clear
+vim .config/kitty/kitty.conf
+vim
+clear
+find
+clear
+mpv Videos/MentalOutlaw/How\ to\ Find\ Files\ in\ Linux\ On\ the\ Terminal-6KNI1Uj-Md8.mp4
+clear
+sudo find / --name zsh-syntax-highlighting
+sudo find / -name zsh-syntax-highlighting
+cd /usr/share/zsh/plugins/zsh-syntax-highlighting
+l
+vim .zshrc
+clear
+touch .zsh_plugins
+l
+clear
+vim .zshrc
+l
+clear
+vim .zsh_plugins
+cd ..
+l
+cd zsh-autosuggestions
+l
+clear
+vim .zsh_plugins
+clear
+cd .config/awesome
+l
+clear
+vim rc.lua
+l
+cd widget
+clear
+l
+cd ..
+l
+cd layout
+l
+vim top-panel.lua
+l
+vim init.lua
+clear
+l
+cd ..
+l
+clear
+cd configuration
+l
+vim apps.lua
+xfce4-power-manager
+clear
+cd..
+cd .
+cd ..
+l
+cd widget
+l
+clear
+l
+vim tag-list.lua
+vim task-list.lua
+clear
+vim README.md
+clear
+.
+..
+l
+clear
+cd layout
+l
+cd ..
+clear
+l
+vim README.md
+vim /etc/environment
+clear
+pacman -Qen | grep gtk
+sudo pacman -S gtk-engines
+pacman -Qen | grep qt5
+sudo pacman -S qt5-styleplugins
+clear
+paru -S qt5-styleplugins
+sudo pacman -S xed
+paru -S lxappearance
+paru -S polkit-gnome
+pacman -Qen | grep awesome rofi picom i3lock-fancy xclip ttf-roboto polkit-gnome materia-theme lxappearance flameshot pnmixer network-manager-applet xfce4-power-manager qt5-styleplugins papirus-icon-theme
+pacman -Qen | grep awesome
+pacman -Qen | grep picom
+pacman -Qen | grep i3lock-fancy
+paru -S i3lock-fancy
+paru -S xclip
+paru -S ttf-roboto
+pacman -Qen | grep qt5-styleplugins
+sudo vim /etc/environment
+htop
+ll
+clear
+vim .config/kitty/kitty.conf
+l
+paru -S awesome rofi picom i3lock-fancy xclip ttf-roboto polkit-gnome materia-theme lxappearance flameshot pnmixer network-manager-applet xfce4-power-manager qt5-styleplugins papirus-icon-theme
+l
+clear
+cd linux-clear
+l
+clear
+man makepkg
+makepkg -ei
+htop
+vim /etc/makepkg.conf
+pacman -Qen | grep polkit
+htop
+clear
+pacman -Qen | grep polkit
+cd linux-clear
+makepkg -ei
+bin
+clear
+htop
+vim
+clear
+htop
+top
+clear
+htop
+clear
+vim 
+clear
+vim .config/awesome/configuration/apps.lua
+vim .config/awesome/configuration/init.lua
+clear
+sudo pacman -Rns linux-xanmod linux-xanmod-headers
+clear
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+clear
+sudo vim /boot/grub/grub.cfg
+clear
+ll /boot
+clear
+sudo reboot
+alsamixer
+clear
+vim .config/awesome/configuration/init.lua
+clear
+vim
+c;ear
+clear
+neofetch
+clear
+cd linux-clear
+clear
+cd linux-clear
+l
+cd src
+l
+cd linux-5.12
+l
+make menuconfig
+clear
+cd ..
+cd. 
+cd ..
+l
+clear
+makepkg -ei
+clear
+l
+clear
+ll
+cd src
+l
+cler
+clear
+l
+cd ..
+clear
+l
+clear
+man makepkg
+clear
+makepkg -Ai
+clear
+man
+clear
+uname -r 
+clear
+l
+clear
+l
+clear
+l
+clear
+ls
+clear
+man man
+clear
+l
+clear
+l
+clear
+mpv Videos/MentalOutlaw/How\ to\ Find\ Files\ in\ Linux\ On\ the\ Terminal-6KNI1Uj-Md8.mp4
+clear
+vim
+clear
+sudo pacman -Rns linux-clear linux-clear-headers
+clear
+sudo pacman -Rns linux-xanmod linux-xanmod-headers
+clear
+ll /boot
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+sudo rm /boot/grub/grub.cfg
+clear
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+clear
+reboot
+neofetch
+clear
+htop
+clear
+l
+clear
+cd linux-clear
+l
+makepkg -ei
+cd src
+l
+cd linux-5.12
+l
+cd ..
+l
+cd .
+cd ..
+clear
+rm -rf src
+l
+man makepkg
+makepkg -o
+cd src
+l
+cd linux-5.12
+l
+make menuconfig
+cd ..
+cd linux-5.12
+cd linux-clear
+l
+makepkg -ei
+man makepkg
+rm linux-clear-5.12.12-1-x86_64.pkg.tar.zst linux-clear-headers-5.12.12-1-x86_64.pkg.tar.zst
+makepkg -ei
+htop
+rofi -show run
+ll
+clear
+l
+clear
+l
+clear
+exa
+l
+clear
+l
+clear
+htop
+clear
+picom --config
+clear
+feh
+clear
+man feh
+clear
+cd Pictures
+l
+clear
+l
+feh chicago_buildings_at_night-wallpaper-2736x1824.jpg
+clear
+htop
+clear
+mpv Videos/Distrotube/Fish\ Is\ A\ Modern\ Shell\ For\ The\ Sophisticated\ User-ux1SP9B5lSQ.mp4
+htop
+mpv Videos/MentalOutlaw/Connecting\ to\ Wifi\ From\ the\ Command\ Line-QGyHDIYlLFA.mp4
+mpv Videos/MentalOutlaw/Easily\ Colorize\ your\ Linux\ Terminal\ with\ terminal.sexy-M0P3e-2iq1M.mp4
+clear
+mpv Videos/MentalOutlaw/The\ First\ Site\ to\ Visit\ After\ Installing\ Firefox-lmA8Ex-G5IQ.mp4
+clear
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+vim /boot/grub/grub.cfg
+sudo vim /boot/grub/grub.cfg
+clear
+sudo pacman -Rns grub-btrfs
+sudo pacman -S grub-btrfs
+sudo rm /etc/grub.d/42_snapshots-btrfs_proxy
+sudo rm /etc/grub.d/README
+clear
+sudo pacman -S grub-btrfs
+clear
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+clear
+sudo vim /boot/grub/grub.cfg
+sudo pacman -Rns grub grub-btrfs grub-customizer os-prober
+sudo rm -rf /etc/grub.d
+sudo pacman -S grub grub-btrfs grub-customizer os-prober
+sudo rm /boot/grub/grub.cfg
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+sudo vim /etc/default/grub
+clear
+sudo os-prober
+xkill
+clear
+sudo mount /dev/sda3 /mnt
+cd /mnt
+l
+clear
+ls
+cd timeshift-btrfs
+l
+cd snapshots
+l
+clear
+l
+cd 2021-06-19_17-00-01
+l
+vim @/etc/default/grub
+sudo vim /etc/default/grub
+sudo umount /mnt
+clear
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+clear
+sudo vim /boot/grub/grub.cfg
+clear
+alsamixer
+clear
+mpv Videos/MentalOutlaw/How\ to\ Configure\ VIM\ to\ be\ ðƒ¿ƒ²ªPowerfulðƒ¿ƒ²ª\ and\ ðƒ¿ƒ²ƒ®Beautifulðƒ¿ƒ²ƒ®\ with\ .vimrc-nOhlk3mpgmM.mp4
+alsamixer
+sudo pacman -S linux
+sudo pacman -S linux linux-headers
+sudo pacman -Rns linux linux-headers
+pacman -Ss tp_smapi
+sudo pacman -Rns linux linux-headers tp_smapi
+clear
+htop
+clear
+pacman -Ss polkit
+clear
+cd .config/awesome
+uname -r 
+clear
+l
+clear
+l
+cd theme
+l
+clear
+l
+clar
+clear
+l
+vim init.lua
+clear
+cd icons
+l
+clear
+cd ..
+clea
+clear
+pacman -s kvantu
+pacman -Ss kvantum
+sudo pacman -Rns kvantum-qt5
+sudo pacman -Rns kvantum-qt5 kvantum-theme-matcha-git
+clear
+ip link
+clear
+uname -r 
+clear
+sudo pacman -S tp_smapi
+clear
+sudo pacman -S linux linux-headerstp_smapi
+sudo pacman -S linux linux-headers tp_smapi
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+reboot
+wifi-menu
+wifi
+wifi one
+wifi on
+sudo wifi on
+sudo pacman -Syu
+vim
+clear
+reboot
+clear
+sudo vim /etc/fsta
+sudo vim /etc/fstab
+mpv Videos/NewPipe/Get\ Fit\ and\ Lose\ Weight\ With\ Free\ Software.mp4
+sudo vim /boot/grub/grub.cfg
+l /boot
+clear
+1+3
+clear
+math
+clear
+sudo mount /dev/sda4 /mnt
+pacman -Ss encrypt
+clear
+pacman -Ss encryptfs
+pacman -Ss encryp | grep utils
+clear
+sudo umount /mnt
+mpv Videos/NewPipe/Is\ Christianity\ Becoming\ Cool\ Again_.mp4
+clear
+mpv Videos/NewPipe/SLStatus\ -\ The\ Suckless\ Way\ to\ View\ System\ Stats.mp4
+sudo vim /boot/grub/grub.cfg
+clear
+vim .config/awesome/configuration/init.lua
+cd .config/awesome
+l
+clear
+l
+cd theme
+l
+clear
+vim init.lua
+;
+l
+vim sidebar.rasi
+cd titus-theme
+l
+clear
+l
+panel.png
+clear
+vim init.lua
+cd ..
+l
+clear
+l
+cd ..
+l
+clear
+l
+vim rc.lua
+cd layout
+l
+vim init.lua
+vim top-panel.lua
+cd .config/awesome
+cd layout
+l
+clear
+vim top-panel.lua
+cd .config/awesome
+cd layout
+vim top-panel.lua
+cd .config/awesome
+cd layout
+vim top-panel.lua
+cd .config/awesome/layout
+l
+vim top-panel.lua
+clear
+l
+cd ..
+l
+vim rc.lua
+cd theme
+l
+clear
+l
+vim init.lua
+cd icons
+l
+clear
+vim init.lua
+clear
+cd ..
+l
+clear
+cd .
+cd ..
+l
+clear
+cd widget
+l
+vim R
+vim README.md
+vim tag-list.lua
+vim task-list.lua
+cd wifi
+l
+vim init.lua
+cd ..
+cd battery
+l
+clear
+l
+vim init.lua
+cd .
+cd ..
+l
+clear
+l
+cd ..
+l
+clear
+l
+cd module
+l
+clear
+l
+cd ..
+l
+clear
+cd configuration
+l
+vim init.lua
+vim apps.lua
+l
+vim compton.conf
+cd ..
+l
+vim layout/top-panel.lua
+clear
+ll
+clear
+cd configuration
+l
+cd utils
+l
+cd ..
+cd client
+l
+vim init.lua
+vim buttons.lua
+clear
+l
+cd ..
+ll
+clear
+l
+cd widget
+l
+clear
+cd ..
+cd .config/awesome/layout
+l
+clear
+vim top-panel.lua
+clear
+ll
+clear
+sudo umount /run/timeshift/backup
+sudo umount /run/timeshift/backup-home
+ll /run/timeshift/
+ll /run/timeshift/backup
+l
+clear
+l
+clear
+ll
+chmod +x linpeas.sh
+./linpeas.sh -s
+uname -r 
+htop
+sudo wifi on
+clear
+sudo pacman -Syu
+clear
+l
+clear
+l
+clear
+sudo wifi on
+sudo pacman -Syu
+error: failed retrieving file 'community.db' from arch.mirror.square-r00t.net : Operation too slow. Less than 1 bytes/sec transferred the last 10 seconds
+error: failed retrieving file 'community.db' from mirror.osbeck.com : Resolving timed out after 10000 milliseconds
+error: failed retrieving file 'community.db' from archlinux.thaller.ws : Resolving timed out after 10000 milliseconds
+error: failed retrieving file 'community.db' from ftp.halifax.rwth-aachen.de : Failed to connect to ftp.halifax.rwth-aachen.de port 443: Connection timed out
+error: failed retrieving file 'community.db' from mirrors.neusoft.edu.cn : Operation timed out after 10003 milliseconds with 0 out of 0 bytes received
+error: failed retrieving file 'community.db' from arch.mirror.constant.com : Operation timed out after 10003 milliseconds with 0 out of 0 bytes received
+error: failed retrieving file 'community.db' from mirror.pseudoform.org : Operation timed out after 10001 milliseconds with 0 out of 0 bytes received
+lsattr
+clear
+chattr +C VirtualBox\ VMs
+ll
+clear
+lsattr
+clear
+cd VirtualBox\ VMs
+l
+clear
+lsattr
+chattr +C ISOs
+chattr +C ubuntu
+cd ISOs
+l
+clear
+lsattr
+chattr +C linuxmint-20.1-cinnamon-64bit.iso
+cd ..
+l
+clear
+cd ubuntu
+l
+clear
+cd ..
+chattr +C ubuntu/*
+lsattr ubuntu
+cd ubuntu
+chattr +C ubuntu.vdi
+chattr +C ubuntu.vbox
+chattr +C ubuntu.vbox-prev
+lsattr ubuntu
+lsattr
+cd .config/awesome/layout
+;
+clear
+l
+clear
+l
+clear
+sudo pacman -Syu
+sudo pacman -S upower openvpn gnupg
+sudo pacman -Rns linux linux-headers tp_smapi
+clear
+sudo pacman -Syu
+mpv Videos/NewPipe
+clear
+sudo pacman -S exiv2 perl-libwww qt5-base
+mpv Videos/NewPipe/Achilles\ Makes\ Millions\ of\ Android\ Phones\ Vulnerable.mp4
+clear
+sudo pacman -Syu
+sudo pacman -S rust
+sudo pacman -SS
+sudo pacman -S rust
+sudo rm /var/lib/pacman/db.lck
+l
+clear
+sudo pacman -Syu
+sudo pacman -S rust
+clear
+htop
+clear
+sudo btrfs scrub start /
+sudo btrfs scrub status /
+sudo btrfs balance start -musage=50 -dusage=50 /
+sudo mkdir -p /mnt/var/lib/{docker,machines,mysql,postgres} && \\
+chattr +C /mnt/var/lib/{docker,machines,mysql,postgres}
+sudo mkdir -p /var/lib/{docker,machines,mysql,postgres} && \\
+chattr +C /var/lib/{docker,machines,mysql,postgres}
+sudo mkdir -p /var/lib/{docker,machines,mysql,postgres} && \\
+sudo chattr +C /var/lib/{docker,machines,mysql,postgres}
+clear
+paru -S linux-xanmod
+paru -S prelockd emavaild
+paru -S prelockd memavaild
+clear
+sudo systemctl enable prelockd
+sudo systemctl enable memavalid
+sudo systemctl enable memavaild
+sudo btrfs filesystem defragment -r /\
+
+sudo vim /boot/grub/grub.cfg
+uname -r 
+paru -S linux-xanmod
+git clone https://aur.archlinux.org/linux-xanmod.git
+cd linux-xanmod
+l
+clear
+vim choose-gcc-optimization.sh
+vim PKGBUILD
+vim choose-gcc-optimization.sh
+clear
+man makepkg
+makepkg -o
+neofetch
+clear
+htop
+clear
+cd linux-xanmod
+l
+cd src
+lll
+clear
+l
+clear
+ll
+cd linux-5.12
+l
+clear
+ll
+clear
+make menuconfig
+cd ..
+cd linux-
+cd linux-xanmod
+l
+clear
+man makepkg
+makepkg -ei
+htop
+clear
+mpv Videos/MentalOutlaw/Full\ Gentoo\ Installation\ -\ Big\ Brain\ Edition.mp4
+cd Vi
+cd Videos
+l
+clear
+l
+clea
+clear
+l
+cd NewPipe
+l
+clear
+man wipefs
+clear
+lsblk
+clear
+cd Documents
+l
+cd Linux\ Distro
+l
+cd Debian
+l
+clear
+l
+sudo dd if=debian-live-testing-amd64-kde.iso of=/dev/sdb bs=1M status=progress
+sudo umount /dev/sdb
+sudo umount /dev/sdb1
+systemctl status dhcp
+pacman -Ss doom
+clear
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+clear
+sudo vim /boot/grub/grub.cfg
+clear
+reboot
+alsamixer
+htop
+clear
+alsamixer
+clear
+alsamixer
+clea
+clear
+vim .config/awesome/configuration/init.lua
+cd .config/awesome/layout
+l
+vim top-panel.lua
+clear
+cd ..
+l
+vim rc.lua
+cd layout
+l
+vim init.lua
+cd .
+cd ..
+l
+cd theme
+l
+vim init.lua
+cd icons
+l
+vim init.lua
+cd //
+cd ~/.config/awesome
+l
+cd configuration
+l
+vim apps.lua
+vim
+clear
+sudo pacman -Syu
+alsamixer
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+sudo pacman -Syu
+sudo pacman -S graphviz libva qt5-base
+sudo mount /dev/sda4 /mnt
+clear
+pacman -Ss polkit
+sudo pacman -S polkit-gnome polkit
+sudo pacman -Rns polkit-gnome polkit
+clear
+sudo su
+clear
+sudo nautilus
+clear
+pkexec nautilus
+clear
+sudo pacman -Rns nautilus
+sudo pacman -S nemo
+vim .config/awesome/configuration/init.lua
+cd .config/awesome/layout
+l
+clear
+cd ..
+l
+cd layout
+l
+cd ..
+cd configuration
+l
+vim apps.lua
+clear
+sudo mount /dev/sda4 /mnt
+sudo umount /dev/sda4
+clear
+sudo pacman -S encypfs
+pacman -Ss encrypt | grep fs
+sudo pacman -S encfs fscrypt gocryptfs
+clear
+pacman -Ss vera
+pacman -Ss veracrypt
+sudo pacman -S veracrypt
+sudo pacman -S pcmanfm
+free
+free -
+free -h
+clear
+vim .config/kitty/kitty.conf
+sudo vim /etc/sysctl.d/24-performance.conf
+sudo vim /etc/sysctl.d/24-illusion.conf
+sudo vim /etc/sysctl.d/24-performance.conf
+l
+clear
+sudo rm /etc/sysctl.d/24-illusion.conf
+clear
+pacman -Ss sublime
+clear
+l
+clear
+cd .config/awesome
+l
+clear
+vim rc.lua
+sudo pacman -S pcmanfm
+sudo pacman -Rns nautilus
+sudo pacman -Rns nemo
+vim .config/awesome/configuration/apps.lua
+man git
+clear
+pacman -Ss git
+clear
+pacman -Ss fish
+sudo pacman -S fish
+clear
+fish
+clear
+sudo pacman -S cutefish
+clear
+sudo pacman -Rns bash
+clear
+sudo pcmanfm
+clear
+pkexec pcmanfm
+clear
+sudo pacman -Rns pkexec
+sudo pacman -Rns polkit
+man
+clear
+man man man
+clear
+man man man man man man man man firefox
+man firefox
+man xed
+man zsh
+neofetch
+clear
+htop
+clear
+sudo wifi on
+clear
+sudo pacman -S nvim
+sudo pacman -S neovim
+sudo pacman -Rns vim
+sudo pacman -S neovim
+clear
+vim .zsh_aliases
+nvim .zsh_aliases
+clear
+vim
+cd .config/awesome
+git pull
+git push
+clear
+l
+clea
+rl
+clear
+cargo remove exa
+cargo uninstall exa
+clear
+vim .zsh_aliases
+l
+clear
+vim .zsh_aliases
+l
+clear
+vim .bashrc
+clear
+vim .bashrc
+vim .zsh_aliases
+ls
+clear
+ll
+clear
+l
+clear
+vim .bashrc
+ll
+clear
+vim .zsh_aliases
+clear
+vim .config/awesome/configuration/apps.lua
+clear
+vim .config/awesome/configuration/apps.lua
+clear
+htop
+clear
+cd .config/awesome
+l
+clear
+l
+g
+clear
+l
+cd configuration
+l
+vim init.lua
+clear
+cd .config/awesome
+l
+cd configuration
+l
+cd tags
+l
+vim init.lua
+cc
+clear
+gcc 
+c
+clear
+git clone https://github.com/MentalOutlaw/dwm.git
+git clone https://github.com/MentalOutlaw/slstatus.git
+git clone https://github.com/MentalOutlaw/st.git
+clear
+git clone https://github.com/MentalOutlaw/slstatus.git
+git clone https://github.com/MentalOutlaw/dmenu.git
+l
+clear
+ll
+clear
+l
+clea
+clear
+vim .zsh_aliases
+clear
+gc
+clear
+gc https://github.com/MentalOutlaw/dmenu.git 
+gc https://github.com/MentalOutlaw/dmenu.git  > /home/illusion/Downloads
+clear
+vim .zsh_aliases
+clear
+l
+clear
+cl
+vim
+clear
+ll
+clear
+l
+clear
+l
+cl
+ls
+cl
+ll
+cd dwm
+l
+clear
+l
+sudo pacman -Syu
+sudo pacman -S cmake imagemagick libsidplayfp sqlite
+clear
+paru -Syu
+clera
+paru -Aur
+paru -aur
+clear
+paru -Sua
+paru -Rns libpamac-aur
+sudo pacman -S archlinux-appstream-data
+clear
+paru -Sua
+sudo nvim /etc/pacman.conf
+paru -Sua
+sudo nvim /etc/hosts
+cd Downloads
+l
+clear
+sha256sum dwm-6.2.tar.gz
+pacman -Su
+sudo pacman -Su
+clear
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+vim .zsh_aliases
+sudo ug
+vim .zsh_aliases
+clear
+vi
+clear
+sudo wifi on
+sudo systemctl disable ssh
+sudo systemctl disable sshd
+clear
+sudo pacman -S screenfetch
+screenfetch
+clear
+cl
+screenfetch
+sudo pacman -Rns screenfetch
+sudo vim /etc/environment
+sudo nvim /etc/environment
+sudo su
+vim .xinitrc
+sudo su
+ll
+cd dwm
+l
+cmear
+clear
+sudo make clean install
+cd ..
+cd slstatus
+sudo make clean install
+cd ..
+ll
+cd st
+st
+clear
+cd dmenu
+l
+clear
+ll
+cd ..
+ll
+cd dmenu
+l
+sudo make clean install
+cd ..
+l
+clear
+ll
+cd slstatus
+sudo make clean install
+startx
+sudo pacman -S xinit
+pacman -Ss xorg | grep init
+sudo pacman -S xorg-xinit
+startx
+clear
+sudo vim /root/.xinitrc
+sudo nvim /root/.xinitrc
+clear
+startx
+sudo pacman -S xterm
+startx
+vim
+sudo vim /etc/environment
+sudo nvim /etc/environment
+c;ear
+clear
+sudo nvim /root/.xinitrc
+clear
+reboot
+sudo pacman -Rns dwm
+neofetch
+clear
+sudo pacman -Syu
+clear
+paru -Aur
+paru -Sua
+clear
+sudo pacman -Rns xterm
+clear
+paru -S auto-cpufreq
+sudo systemctl enable auto-cpufreq
+sudo systemctl start auto-cpufreq
+sudo auto-cpufreq --stats
+pacman -Ss mint-background
+clear
+pacman -Ss mint | grep background
+clear
+sudo pacman -S plasma
+htop
+clear
+sudo pacman -S xfce xfce-goodies
+sudo pacman -S xfce4 xfce4-goodies
+clear
+vim awesome.txt
+clear
+vim awesome.txt
+clear
+vim awesome.txt
+sudo pacman -R awesome rofi picom i3lock-fancy xclip ttf-roboto polkit-gnome materia-theme lxappearance flameshot pnmixer network-manager-applet xfce4-power-manager qt5-styleplugins
+sudo pacman -Rns awesome rofi picom i3lock-fancy xclip ttf-roboto polkit-gnome materia-theme lxappearance flameshot pnmixer network-manager-applet xfce4-power-manager qt5-styleplugins
+vim awesome.txt
+sudo pacman -Rns awesome rofi picom i3lock-fancy-git xclip ttf-roboto polkit-gnome materia-theme-git lxappearance flameshot pnmixer network-manager-applet xfce4-power-manager qt5-styleplugins
+sudo pacman -Rns awesome rofi picom i3lock-fancy-git xclip ttf-roboto polkit-gnome lxappearance flameshot pnmixer network-manager-applet xfce4-power-manager qt5-styleplugins
+sudo pacman -S plasma
+sudo pacman -S cryfs
+clear
+sudo systemctl enable sddm --force
+reboot
+sudo vim /etc/environment
+sudo nvim /etc/environment
+clear
+reboot
+neofetch
+clear
+htop
+sudo pacman -Rns plasma
+sudo pacman -S xfce4 xfce4-goodies
+sudo systemctl enable lightdm --force
+reboot
+sudo pacman -S rofi
+ll
+clear
+rm -rf .config/awesome
+lcear
+clear
+rofi -show run
+htop
+clear
+sudo pacman -S network-manager-applet
+sudo pacman -S qt5-styleplugins
+paru -S qt5-styleplugins
+sudo pacman -Rns thunar thunar-archive-plugin thunar-media-tags-plugin thunar-volman
+sudo pacman -Rns thunar thunar-archive-plugin thunar-media-tags-plugin thunar-volman xfdesktop
+sudo pacman -S redshift
+systemctl --user enable redshift
+systemctl --user start redshift
+neofetch
+sudo pacman -Rns rxvt-unicode
+sudo pacman -Rns xterm
+sudo nvim /etc/environment
+sudo pacman -Rns xfce4-terminal
+sudo pacman -S xfdesktop
+sudo pacman -Rns pcmanfm
+systemctl --user stop redshift
+systemctl --user disable redshift
+redshift
+paru -S lightdm-webkit2-greeter
+clear
+sudo pacman -S lightdm-webkit2-greeter
+sudo nvim /etc/lightdm/lightdm.conf\
+
+sudo nvim /usr/share/lightdm-webkit/themes/arch\
+
+/usr/share/lightdm-webkit/
+l
+cd themes
+l
+sudo su
+ll
+clear
+cd /etc/lightdm
+l
+clear
+ll
+vim lightdm.conf
+vim lightdm-webkit2-greeter.conf
+pacman -Ss lightdm | grep webkit
+cd /etc/lightdm
+clear
+ll
+sudo vim lightdm
+sudo nvim lightdm.conf
+sudo nvim /etc/lightdm/lightdm.conf\
+
+neofetch
+awk
+clear
+sudo pacman -Syu
+cl
+paru -Sua
+rofi
+sudo pacman -Rns rofi
+sudo pacman -S rofi
+rofi -show run
+pacman -Ss polkit
+rm .config/rofi
+rm -rf .config/rofi
+rofi -show run
+dwm
+alsamixer
+clear
+/boo
+/boot
+l
+clear
+cd ..
+~
+clear
+sudo nvim /boot/grub/grub.cfg
+sudo pacman -Rns parole
+clear
+sudo pacman -Rns neovim && sudo pacman -S vim
+l
+clear
+ll
+clear
+chmod -x linpeas.sh
+ll
+clear
+uname -r
+clear
+sudo pacman -Rns linux-xanmod linux-xanmod-headers
+clear
+htop
+neofetch
+clear
+cl
+clear
+paru
+cl
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+cl
+sudo pacman -S vim
+vim
+clea
+cl
+xed .zsh_aliases
+sudo vim /boot/grub/grub.cfg
+cl
+ll
+clear
+l
+clear
+ping archlinux.org
+cl
+c
+cl
+exit
+sudo pacman -Rns xfburn
+cl
+su
+cl
+sudo pacman -S kvantum
+youtube-dl -F https://www.youtube.com/watch\?v\=5b-xQkRWHjQ
+youtube-dl -f 22 https://www.youtube.com/watch\?v\=5b-xQkRWHjQ
+youtube-dl -f 18 https://www.youtube.com/watch\?v\=5b-xQkRWHjQ
+htop
+sudo kill -SIGKILL 77413
+sudo kill -SIGKILL 77359
+ll
+mpv Videos/NewPipe1/0\ Size\ Files\ and\ How\ Metadata\ is\ Stored.mp4
+cfdisk /dev/sda
+sudo cfdisk /dev/sda
+uname -r
+lsblk
+tlp
+alsamixer
+mv Taking\ Ubuntu\ To\ The\ Next\ Level-5b-xQkRWHjQ.mp4 Videos/Distrotube
+clear
+mpv Videos/Distrotube/Taking\ Ubuntu\ To\ The\ Next\ Level-5b-xQkRWHjQ.mp4
+neofetch
+clear
+sudo pacman -S pulseeffects lsp-plugins
+clear
+ll
+clear
+systemctl status pulseeffects
+clear
+systemctl --user enable pulseeffects
+sudo systemctl enable snd_mixer_hadle
+sudo systemctl enable snd_mixer_handle
+mpv Videos/MentalOutlaw/Apples\ M1\ Macbooks\ Get\ Some\ New\ Malware.mp4
+pulseeffects
+vim /etc/systemd/oomd.conf
+sudo vim /etc/systemd/oomd.conf
+ll /etc/systemd/system
+ll
+clear
+mpv
+clear
+sudo systemctl enable pulseeffects
+sudo systemctl enable pulseeffects.service
+ll /etc/systemd/user
+systemctl --user status pulseeffects
+htop
+alsamixer
+sudo systemctl enable pulseeffects --gapplication-service
+sudo systemctl enable pulseeffects-gapplication-service
+sudo systemctl enable pulseeffects-gapplication
+systemctl --user enable pulseeffects --gapplication-service
+systemctl --user enable pulseeffects.--gapplication-service
+systemctl --user enable pulseeffects--gapplication-service
+htop
+pulseeffects --gapplication-service
+sudo systemctl enable colorreload-gtk-module
+pacman -Ss colorreload-gtk-module
+paru -S colorreload-gtk-module
+pulseeffects
+sudo pacman -S gstreamer-1.0-pipewire
+pacman -Ss gstreamer | grep pipewire
+mpv Videos/MentalOutlaw/Apples\ M1\ Macbooks\ Get\ Some\ New\ Malware.mp4
+mpv Videos/NewPipe/BTRFS\ Guide\ _\ The\ Best\ Desktop\ File\ System.mp4
+sudo btrfs subv list /
+mpv Videos/NewPipe/Vim\ Tutorial\ for\ Beginners\ Lesson\ 1.mp4
+clear
+startx
+sudo pacman -S xterm
+exit
+ll .config/variety
+ll .config/variety/Downloaded
+ll .config/variety/Downloaded/nasa_apod
+clear
+l
+clear
+lsattr
+vim
+clear
+lsblk
+clear
+blkid
+clear
+sudo blkid
+ll
+clear
+ll
+clear
+ll
+clear
+sudo hdparm -t /dev/sda
+ll
+clear
+neofetch
+pacman -Qen | grep materia
+sudo pacman -Rns materia-gtk-theme
+pacman -Qen | grep breeze
+sudo pacman -S plasma
+htop
+sudo pacman -Rns xterm
+sudo pacman -Rns rxvt-unicode
+uname -ra
+clear
+sudo auto-cpufreq --stats
+pacman -Ss doom
+ll
+clear
+cl
+sudo pacman -Rns vim
+sudo pacman -S neovim
+cl
+vim
+ll
+clear
+vim
+htop
+sudo pacman -Rns awesome rofi picom i3lock-fancy xclip ttf-roboto polkit-gnome materia-theme lxappearance flameshot pnmixer network-manager-applet xfce4-power-manager qt5-styleplugins
+alsamixer
+sudo pacman -Rns plasma
+clear
+sudo nvim /etc/environment
+neofetch
+htop
+pacman -Ss xf86-video
+sudo pacman -Rns xf86-video-intel
+startx
+nvim /home/illusion/.local/share/xorg/Xorg.0.log
+clear
+neofetch
+clear
+htop
+clear
+sudo pacman -S xf86-video-intel
+clear
+sudo vim /etc/X11/xorg.conf.d/20-intel.conf
+sudo nvim /etc/X11/xorg.conf.d/20-intel.conf
+reboot
+pacman -Ss modsettings
+pacman -Ss modsetting
+sudo pacman -S vulkan-intel
+sudo nvim /etc/modprobe.d/i915.comf
+sudo nvim /etc/modprobe.d/i915.conf
+dmesg
+sudo dmesg
+sudo dmesg | grep GuC
+sudo nvim /etc/environment
+mpv Videos/NewPipe/Vim\ Tutorial\ for\ Beginners\ Lesson\ 1.mp4
+clear
+sudo nvim /etc/X11/xorg.conf.d/20-intel.conf
+sudo nvim /etc/X11/Xwrapper.config
+sudo pacman -S lib32-mesa
+sudo pacman -R picom
+sudo pacman -S picom
+pacman -Ss compiz
+pacman -Ss enlightment
+pacman -Ss xfwm
+pacman -Ss kwin
+sudo nvim /etc/X11/xorg.conf.d/20-intel.conf
+clear
+reboot
+htop
+init
+makepkg -ei
+sudo pacman -S xfce4-terminal
+l
+clear
+htop
+sudo pacman -Rns xfce4-terminal
+pacman -Ss bash
+sudo nvim /etc/X11/xorg.conf.d/20-intel.conf
+ll /bin | grep user
+ll /sbin | grep user
+groups illusion
+glxinfo | grep "direct rendering"
+clear
+sudo rm /etc/X11/xorg.conf.d/20-intel.conf
+sudo pacman -S xf86-video-intel
+sudo nvim /etc/X11/xorg.conf.d/20-intel.conf
+sudo find wiki /
+cl
+man arch-wiki-docs
+pacman -Qen | grep wiki
+man arch-wiki-lite
+cd /usr/local/share/
+l
+cd man
+l
+cd man1
+l
+cd //
+/usr/share/
+l
+clear
+cl
+l
+clear
+cd //
+/usr
+l
+cd ude
+cd src
+l
+cd ..
+l
+cd bin
+l
+cl
+l
+cd .
+cd ..
+ll
+include
+l
+cd ..
+l
+clear
+ll
+lib
+l
+cd /usr/sha
+cd /usr/share
+l
+sudo visudo
+sudo nvim /etc/X11/xorg.conf.d/20-intel.conf
+reboot
+l
+sudo nvim /etc/X11/xorg.conf.d/20-intel.conf
+reboot
+sudo nvim /etc/X11/xorg.conf.d/20-intel.conf
+reboot
+sudo nvim /etc/X11/xorg.conf.d/20-intel.conf
+clear
+reboot
+sudo nvim /etc/X11/xorg.conf.d/20-intel.conf
+reboot
+sudo nvim /etc/X11/xorg.conf.d/20-intel.conf
+pangit ni ashly
+clear
+pangit ni ashly
+dftfredssr5t65r567y~~r52w3576~~986fdfsdsdvgtj7i898ygffw2errgujsdxx
+cls
+ear
+clear
+ps1
+cler
+clear
+caler
+awerl]alsef]laef
+fg
+adfg
+afsdg
+dfg
+sdf
+gsdfg
+sdfg
+dsfg
+sdfg
+clear
+sudo nvim /etc/X11/xorg.conf.d/20-intel.conf
+clear
+cl
+exit
+clear
+sudo nvim /etc/modprobe.d/i915.conf
+sudo nvim /etc/X11/xorg.conf.d/20-intel.conf
+modinfo -p i915
+systool -m i915 -av
+cl
+sudo nvim /etc/X11/xorg.conf.d/20-intel.conf
+sudo pacman -Syu
+alsamixer
+cl
+sudo
+cl
+htop
+init
+cl
+sudo init
+l
+cl
+init
+sudo pacman -Syu
+D
+l
+cl
+l
+cl
+nvim .zshrc
+sudo pacman -Syu
+sudo pacman -Su android-tools libva-mesa-driver vulkan-intel vulkan-headers vulkan-icd-loader
+sudo pacman -U android-tools libva-mesa-driver vulkan-intel vulkan-headers vulkan-icd-loader
+sudo pacman -S android-tools libva-mesa-driver vulkan-intel vulkan-headers vulkan-icd-loader
+hdapsd
+sudo systemctl status hdapsd
+sudo systemctl status hdapsd@device
+sudo systemctl enable hdapsd@device
+cl
+exit
+sudo systemctl start hdapsd@device
+hdapsd
+sudo hdapsd
+cl
+poweroff
+sudo mount /dev/sda4 /mnt
+cd /mnt/etc/vim
+;
+l
+nvim
+clear
+exit
+sudo nvim /etc/X11/xorg.conf.d/20-intel.conf
+reboot
+sudo nvim /etc/X11/xorg.conf.d/20-intel.conf
+htop
+sudo nvim /etc/X11/xorg.conf.d/20-intel.conf
+reboot
+sudo aa-enforce /etc/apparmor.d/*
+cl
+sudo firecfg
+firecfg --fix
+cl
+exit
+sudo btrfs scrub start /
+sudo btrfs scrub status /
+sudo pacman -S lua
+l
+cl
+sudo btrfs scrub status /
+sudo btrfs balance start -musage=50 -dusage=50 /
+sudo btrfs filesystem defragment -v /
+sudo btrfs filesystem defragment -rv /
+cl
+exit
+sudo btrfs filesystem defragment -rv /home
+sudo btrfs filesystem defragment -rv /var/cache
+sudo btrfs filesystem defragment -rv /var/loh
+sudo btrfs filesystem defragment -rv /var/log
+sudo nvim /etc/fstab
+pacman -Ss muscl
+pacman -Ss musl
+pacman -Ss openssl
+pacman -Ss libressl
+cl
+sudo nvim /etc/sysctl.d/51-kptr-restrict.conf
+sudo nvim /etc/sysctl.d/24-performance.conf
+install dccp /bin/false\
+install sctp /bin/false\
+install rds /bin/false\
+install tipc /bin/false\
+install n-hdlc /bin/false\
+install ax25 /bin/false\
+install netrom /bin/false\
+install x25 /bin/false\
+install rose /bin/false\
+install decnet /bin/false\
+install econet /bin/false\
+install af_802154 /bin/false\
+install ipx /bin/false\
+install appletalk /bin/false\
+install psnap /bin/false\
+install p8023 /bin/false\
+install p8022 /bin/false\
+install can /bin/false\
+install atm /bin/false
+install
+aa-genprof $path_to_program
+man aa-genprof
+pacman -Ss bubblewrap
+bubblewrap
+sudo pacman -S bubblewrap-suid
+sudo nvim /etc/sysctl.d/51-dmesg-restrict.conf
+sudo nvim /etc/systemd/system/systemd-logind.service.d/systemd-sandboxing.conf
+sudo nvim /etc/systemd/system/systemd-logind.service.d/systemd-sandbox.conf
+ll /etc/apparmor.d
+paru -S hardened_malloc
+cl
+sudo nvim /etc/pam.d/su
+passwd -l root
+sudo passwd -l root
+sudo nvim /etc/ssh/sshd_config
+sudo nvim /etc/pam.d/passwd
+passwd illusion
+sudo passwd illusion
+sudo nvim /etc/pam.d/passwd
+passwd illusion
+ip a
+sudo pacman -S kloak
+chmod 700 /home/$user
+chmod 700 /home/illusion
+chmod 700 /boot /usr/src /lib/modules /usr/lib/modules
+sudo chmod 700 /boot /usr/src /lib/modules /usr/lib/modules
+sudo find / -type f \( -perm -4000 -o -perm -2000 \)
+make menuconfig
+ll /boot
+ll /
+sudo ll /boot
+sudo ls /boot
+l
+clear
+sudo pacman -S linux linux-headers tp_smapi
+cd /var/cache/pacman
+l
+cd pkg
+l
+ll | grep linux
+sudo pacman -S linux-5.12.11.arch1-1-x86_64.pkg.tar.zst
+sudo pacman -U linux-5.12.11.arch1-1-x86_64.pkg.tar.zst
+sudo pacman -U linux linux-headers
+sudo pacman -U tp_smapi-0.43-312-x86_64.pkg.tar.zst
+sudo pacman -S linux-hardened-5.12.10.hardened1-1-x86_64.pkg.tar.zst linux-hardened-headers-5.12.10.hardened1-1-x86_64.pkg.tar.zst
+sudo pacman -U linux-hardened-5.12.10.hardened1-1-x86_64.pkg.tar.zst linux-hardened-headers-5.12.10.hardened1-1-x86_64.pkg.tar.zst
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+sudo pacman -S gparted
+sudo mount /dev/sda5 /mnt
+ll
+ll /mnt
+sudo umount /mnt
+sudo mkdir /boot/efi
+sudo mount /dev/sda5 /boot/efi
+ll
+cl
+sudo grub-install --target=x86_64-efi --efi-directory=/boot/efi
+sudo ll /boot/efi
+sudo ls /boot/efi
+sudo su
+ls /sys/firmware/efi
+clear
+ls
+clear
+l
+clear
+ls
+sudo nvim /etc/fstab
+sudo blkid
+sudo mount -a
+ll /boot/efi
+sudo ll /boot/efi
+sudo l /boot/efi
+sudo ls /boot/efi
+sudo su
+exit
+sudo pacman -S efibootmgr
+efibootmgr
+ll
+clear
+neofetch
+ls /sys/firmware/efi
+sudo nvim /etc/fstab
+sudo su
+exit
+reboot
+ls /sys/firmware/efi
+cl
+exit
+efibootmgr
+cl
+sudo nvim /boot/grub/grub.cfg
+sudo nvim /boot/grub/grub.cfg]
+sudo nvim /boot/grub/grub.cfg
+cl
+exit
+sudo nvim /etc/environment
+exit
+sudo nvim /etc/X11/xorg.conf.d/20-intel.conf
+exit
+paru -Qua
+paru -Rns linux-clear linux-clear-headers
+cl
+neofetch
+systemctl --failed
+sudo nvim /etc/systemd/system/systemd-logind.service.d/systemd-sandbox.conf
+sudo aa-enforce /etc/apparmor.d/*
+sudo firecfg
+firecfg --fix
+exit
+ls -r
+exit
+ls -R
+exit
+exit]
+exit
+nvim .config/kitty/kitty.conf
+ll
+clear
+nvim .config/kitty/kitty.conf
+ll
+clear
+sudo nvim /etc/systemd/system/systemd-logind.service.d/systemd-sandbox.conf
+exit
+ll
+clear
+cl
+exit
+nvim .config/kitty/kitty.conf
+exit
+l
+clear
+nvim .config/kitty/kitty.conf
+exit
+ll
+clear
+exit
+pacman -Ss lockdown
+l .config
+clear
+cl
+cd .config
+l
+clear
+sudo os-prober
+exit
+sudo nvim /etc/fstab
+l
+clear
+l /home
+cd ..
+l
+clear
+exit
+htp[
+htop
+cl
+htop
+exit
+l
+clear
+exit
+pacman -Ss fonts
+pacman -Ss sf
+exit
+sudo pacman -S virt-manager
+exit
+l
+nvim .config/kitty/kitty.conf
+exit
+ll
+exit
+touch vimrc
+rm vimrc
+touch .vimrc
+nvim .vimrc
+exit
+ll
+clear
+nvim /etc/fstab
+sudo pacman -S vim
+vim
+sudo pacman -R neovim
+vim
+sudo vim /etc/fstab
+sudo pacman -S neovim
+exit
+vim
+sudo pacman -Rns vim
+cl
+vim .vimrc
+exit
+nvim .vimrc
+exit
+nvim .vimrc
+exit
+nvim /etc/fstab
+nvim .vimrc
+ll .config
+mkdir .config/vim
+cp .vimrc .config/vim
+l /etc
+nvim /etc/fstab
+ll
+l
+nvim .viminfo
+passwd illusion
+sudo passwd illusion
+cl
+vim .vimrc
+ll /etc | grep vim
+vim
+nvi,
+nvim
+man nvim
+man neovim
+man nvim
+l .config
+mv .config/vim .config/neovim
+nvim
+man nvim
+mv .config/neovim .config/nvim
+nvim
+exit
+nvim -U
+nvim -h
+man nvim
+nvim -u
+man nvim
+mv .config/nvim/.vimrc .config/nvim/vimrc
+nvim
+mv .config/nvim/vimrc .config/nvim/init.vim
+nvim
+nvim /etc/fstab
+nvim .config/nvim/init.vim
+sudo pacman -Rns neovim && sudo pacman -S vim
+ll .config
+mv .config/nvim/init.vim ...vimrc
+l
+rm .vimrc
+mv ...vimrc .vimrc
+vim
+exit
+vim
+exit
+vim /etc/fstab
+exit
+sudo btrfs subv list /
+groups illusion
+vim .zshrc
+exit
+ll
+clear
+l
+clear
+cl
+l | grep level
+l | grep powerlevel
+l | grep power
+ll .config
+cl
+cd .config
+l
+clear
+l
+clear
+l
+clear
+cd /
+~
+l
+clear
+ll
+vim /etc/fstab
+chmod +x linpeas.sh
+./linpeas.sh -s
+LC_ALL=C lscpu | grep Virtualization
+zgrep CONFIG_KVM /proc/config.gz
+zgrep efi /proc/config.gz
+exit
+cl
+neofetch
+htop
+cl
+find powerlevel10k /home
+find p20k /home
+find p10k /home
+l
+clear
+cl
+l
+cl
+chmod -x linpeas.sh
+exit
+sudo pacman -Rns virtualbox
+sudo pacman -S dkms sdl
+cl
+sudo pacman -S gnome-boxes
+cl
+exit
+sudo pacman -S libreoffice
+cl
+neofetch
+sudo pacman -Rns breeze-dark
+cl
+pacman -Qen | grep breeze
+sudo pacman -S xcursor-breeze
+sudo pacman -S plasma
+sudo pacman -Rns breeze breeze-gtk
+sudo pacman -Rns breeze-icons
+clear
+pacman -Ss breeze
+sudo pacman -S capitaine-cursors
+cl
+neofetch
+sudo pacman -S materia-dark
+sudo pacman -S materia-theme
+sudo auto-cpufreq --stats
+clear
+exit
+parted /dev/sda
+exit
+sudo pacman -S gnome-disks
+sudo pacman -S gnome-disk
+pacman -Ss gnome | grep disks
+pacman -Ss gnome | grep disk
+sudo pacman -S gnome-disk-utility
+neofetch
+ll .config
+sudo vim /etc/fstab
+l
+vim
+sudo vim /etc/fstab
+sudo cp .vimrc /root
+sudo vim /etc/fstab
+cl
+ll
+l
+clear
+ll
+exit
+cl
+sudo pacman -S alacritty
+cl
+vim .zsh_aliases
+exit
+l
+clear
+ll
+vim .zsh_aliases
+exit
+ll
+clear
+vim .zsh_aliases
+vim -r .zsh_aliases
+vim .zsh_aliases
+rm /home/illusion/.cache/vim/swap//%home%illusion%.zsh_aliases.swp
+vim .zsh_aliases
+exit
+yt -f
+exit
+cd Documents
+l
+clear
+cl
+xpdf BIO101-lab-1-4th.pdf
+htop
+cl
+exit
+vim
+exit
+sudo firecfg
+firecfg --fix
+exit
+sudo aa-enforce /etc/apparmor.d/*
+cl
+cd /etc/systemd/system
+l
+cd local-fs.target.wants
+;
+cd ..
+l
+cl
+l
+cl
+htop
+l
+cd multi-user.target.wants
+l
+sudo vim apparmor.service
+sudo vim systemd-sandbox.service
+exit
+sudo systemctl enable systemd-sandbox.service
+ll /etc/systemd/system/multi-user.target.wants
+cd /etc/systemd/system/multi-user.target.wants
+ls
+clear
+l
+sudo chmod 777 systemd-sandbox.service
+sudo systemctl enable systemd-sandbox.service
+mv systemd-sandbox.service ../systemd-logind.service.d/
+sudo mv systemd-sandbox.service ../systemd-logind.service.d/
+cd ../systemd-logind.service.d
+l
+mv systemd-sandbox.service systemd-sandbox.conf
+sudo mv systemd-sandbox.service systemd-sandbox.conf
+l
+cl
+sudo chmod 644 systemd-sandbox.conf
+l
+systemctl --failed
+sudo systemctl disable hdapsd@sda.service
+exit
+ls
+clear
+startx
+sudo vim /etc/X11/Xwrapper.config
+cl
+startx
+sudo vim /etc/X11/Xwrapper.config
+cl
+startx
+vim .local/share/xorg/Xorg.0.log
+cl
+sudo vim /etc/systemd/system/systemd-logind.service.d/systemd-sandbox.conf
+reboot
+sudo reboot
+startx
+sudo su
+vim .xinitrc
+sudo su
+startx
+sudo pacman -S efibootmgr
+sudo pacman -Syu
+sudo pacman -S android-tools libva-mesa-driver vulkan-intel vulkan-headers vulkan-icd-loader
+sudo pacman -S refind
+sudo su
+paru --noremovemake -S shim-signed && sudo refind-install --shim /usr/share/shim-signed/shimx64.efi --localkeys && sudo sbsign --key /etc/refind.d/keys/refind_local.key --cert /etc/refind.d/keys/refind_local.crt --output /boot/vmlinuz-linux-hardened /boot/vmlinuz-linux-hardened
+sudo pacman -S sbsign
+sbsign
+paru -S sbsign
+sudo pacman -S sbsigntool\
+
+paru -Ss sbsigntool
+paru -S sbsigntools
+paru --noremovemake -S shim-signed && sudo refind-install --shim /usr/share/shim-signed/shimx64.efi --localkeys && sudo sbsign --key /etc/refind.d/keys/refind_local.key --cert /etc/refind.d/keys/refind_local.crt --output /boot/vmlinuz-linux-hardened /boot/vmlinuz-linux-hardened
+htop
+efibootmgr
+sudo su
+sudo pacman -Rns lightdm
+sudo pacman -Rns lightdm lightdm-gtk-greeter lightdm-webkit2-greeter
+sudo pacman -Rns lightdm lightdm-gtk-greeter lightdm-webkit2-greeter lightdm-gtk-greeter-settings
+cl
+startsx
+startx
+sudo pacman -S lockdown
+sudo su
+startx
+sudo refind-install
+efibootmgr
+refind-install --preloader /usr/share/preloader-signed/PreLoader.efi
+sudo refind-install --preloader /usr/share/preloader-signed/PreLoader.efi
+paru -S shim-signed
+refind-install --shim /usr/share/shim-signed/shimx64.efi\
+
+sudo refind-install --shim /usr/share/shim-signed/shimx64.efi --localkeys\
+
+sudo refind-install --localkeys
+sudo pacman -S efitools
+pacman -Ss lockdown
+sudo pacman -S lockdown-ms
+paru -S lockdown
+paru -Ss lockdown
+reboot
+startx
+sudo bootctl
+refind-install --preloader /usr/share/preloader-signed/PreLoader.efi\
+
+sudo refind-install --preloader /usr/share/preloader-signed/PreLoader.efi
+paru -S preloader-signed
+sudo refind-install --preloader /usr/share/preloader-signed/PreLoader.efi
+cp /usr/share/refind/refind.conf-sample esp/EFI/refind/refind.conf\
+
+sudo cp /usr/share/refind/refind.conf-sample /boot/efi/EFI/refind/refind.conf
+vim /boot/refind_linux.conf\
+
+sudo vim /boot/refind_linux.conf
+mkrlconf
+sudo mkrlconf
+sudo mkrlconf --force
+sudo vim /boot/refind_linux.conf
+paru -S fwupdate
+paru -Ss fwupdate
+pacman -Ss fwupdate
+sudo efibootmgr
+reboot
+startx
+systemctl status refind-btrfs
+paru -S refind-btrfs
+sudo efibootmgr
+sudo mkrlconf --force
+mount -o remount,rw -t efivarfs efivarfs /sys/firmware/efi/efivars\
+
+sudo mount -o remount,rw -t efivarfs efivarfs /sys/firmware/efi/efivars\
+
+efibootmgr
+sbsign --key /etc/refind.d/keys/refind_local.key --cert /etc/refind.d/keys/refind_local.crt --output /boot/vmlinuz-linux /boot/vmlinuz-linux\
+
+sudo sbsign --key /etc/refind.d/keys/refind_local.key --cert /etc/refind.d/keys/refind_local.crt --output /boot/vmlinuz-linux-hardened /boot/vmlinuz-linux-hardened
+efibootmgr --create --disk /dev/sda --part Y --loader /EFI/refind/refind_x64.efi --label "rEFInd Boot Manager" --verbose
+efibootmgr --create --disk /dev/sda --part --loader /EFI/refind/refind_x64.efi --label "rEFInd Boot Manager" --verbose
+efibootmgr --create --disk /dev/sda5 --part Y --loader /EFI/refind/refind_DDx64.efi --label "rEFInd Boot Manager" --verbose
+efibootmgr --create --disk /dev/sda5 --part 5 --loader /EFI/refind/refind_DDx64.efi --label "rEFInd Boot Manager" --verbose
+sudo efibootmgr --create --disk /dev/sda5 --part 5 --loader /EFI/refind/refind_DDx64.efi --label "rEFInd Boot Manager" --verbose
+sudo mount -o remount,rw -t efivarfs efivarfs /sys/firmware/efi/efivars\
+
+sudo efibootmgr --create --disk /dev/sda5 --part 5 --loader /EFI/refind/refind_DDx64.efi --label "rEFInd Boot Manager" --verbose
+sudo su
+startx
+sudo efibootmgr
+sudo bootctl
+sudo efibootmgr --create --disk /dev/sdX --part 5 --loader /EFI/Boot/grubx64.efi --label "rEFInd Boot Manager" --verbose
+sudo efibootmgr --create --disk /dev/sda --part 5 --loader /boot/efi/EFI/Boot/grubx64.efi --label "rEFInd Boot Manager" --verbose
+sudo efibootmgr --create --disk /dev/sda --part 5 --loader /EFI/Boot/grubx64.efi --label "rEFInd Boot Manager" --verbose
+sudo su
+startx
+sudo efibootmgr
+sudo bootctl
+sudo su
+startx
+sudo pacman -S mokutil
+pacman -Ss mokutil
+refind
+sudo bootctl
+ll
+cl
+sudo efibootmgr
+sudo su
+startx
+sudo 
+sudo sbsign --key /etc/refind.d/keys/refind_local.key --cert /etc/refind.d/keys/refind_local.crt --output /boot/vmlinuz-linux-hardened /boot/vmlinuz-linux-hardened
+sudo su
+startx
+sudo efibootmgr
+l
+clear
+sudo su
+exit
+sudo vim /etc/fstab
+cl
+exit
+sudo vim /etc/pacman.d/hooks/refind.hook
+dsmesg
+sudo dmesg | grep ucode
+sudo dmesg | grep code
+sudo vim /boot/refind_linux.conf
+ls /sys/kernel/security
+ls /sys/kernel/security/lsm
+cat /sys/kernel/security/lsm
+cat /sys/kernel/security/lockdown
+sudo vim /boot/refind_linux.conf
+sudo vim /boot/efi/EFI/BOOT/refind.conf
+sudo vim /boot/efi/EFI/refind/refind.conf
+exit
+neofetch
+]cl
+cl
+htop
+sudo vim 
+sudo pacman -S alacritty
+alacritty
+sudo vim /etc/fstab
+htop
+exit
+sudo pacman -Rns alacritty
+sudo pacman -S sudo
+sudo su
+doas /etc/sudoers
+doas /etc/fstab
+reboot
+startx
+sudo vim /etc/fstab
+sudo visudo
+sudo vim /etc/fstab
+sudo vim /etc/sudoers
+sudo visudo
+exit
+dwm
+exit
+sudo vim /root/.xinitrc
+vim .xinitrc
+exot
+exit
+cl
+startx
+exit
+ll
+clear
+neofetch
+cl
+htop
+neofetch
+exit
+vim config.h
+vim config.mk
+vim config.h
+sudo mount /dev/sda4 /mnt
+ls 
+ls /mnt
+cd /mnt
+cd home/illusion
+ls
+exit
+neofetch
+xrandr
+xrandr 1366x768
+xrandr --help
+l
+clear
+cl
+cd dwm
+ls
+vim README
+cd ..
+cd slstatus
+ls
+vim slstatus.c
+vim slstatus.h
+cd config.h
+vim slstatus.h
+vim config.mk
+vim README.md
+cd slstatus
+vim slstatus
+vim slstatus.1
+vim components
+cd components
+ls
+vim battery.
+vim battery.c
+vim battery.o
+cd ..
+ls
+vim util.c
+vim util.h
+man slstatus
+kill slstatus
+xfce4-session
+sudo timeshift-gtk
+reboot
+vim .xinitrc
+sudo vim /root/.xinitrc
+startx
+neofetch
+startx
+cd /sys/kernel/security
+ls
+cat lockdown
+cl
+sudo pacman -S gnome-boxes
+groups illusion
+sudo su
+exit
+sudo make clean install
+ll
+sudo make install
+su
+sudo su
+exit
+sudo vim /boot/efi/EFI/refind/refind.conf
+sudo vim /boot/efi/EFI/BOOT/refind.conf
+cat /sys/kernel/security/lockdown
+exit
+st
+exit
+tar -xvf dwm-6.2\(1\).tar.gz
+dir
+cle
+cl
+ll
+vim awesome-glyphs.txt
+vim config.def.h
+vim config.h
+sudo thunar
+sudo pacman -S pcmanfm
+vim README.txt
+ll
+vim /usr/share/ecryptfs-utils/ecryptfs-mount-private.txt
+cd /usr/share/ecryptfs-utils/ecryptfs-mount-private.txt
+cd /run/media/illusion//usr/share/ecryptfs-utils/ecryptfs-mount-private.txt
+cd /run/media/illusion/1c715daf-7e14-4e9c-956c-cffa4216c675/usr/share/ecryptfs-utils/ecryptfs-mount-private.txt
+vim /run/media/illusion/1c715daf-7e14-4e9c-956c-cffa4216c675/usr/share/ecryptfs-utils/ecryptfs-mount-private.txt
+encyrptfs-mount-private
+ecryptfs-mount-private
+sudo pacman -Rns pcmanfm
+sudo pacman -S nemo
+pkexec nemo
+sudo nemo
+vim config.h
+ll
+sudo make clean install
+cd ..
+ls
+cd st
+sudo make clean install
+cd ../slstatus
+ls
+sudo make clean install
+cd ../dmenu
+sudo make clean install
+cl
+vim .xinitrc
+cl
+sudo vim /root/.xinitrc
+cl
+startx
+cl
+slstatus
+clear
+exit
+dmenu
+cl
+neofetch
+cl
+ls
+clear
+cl
+cd DWM
+ls
+cl
+ll
+cd dwm
+ls
+vl
+cl
+vim config.h
+sudo make clean install
+exit
+vim config.h
+cl
+startx
+vim config.h
+ip link
+vim config.h
+slstatus
+ll
+cl
+sudo make clean install
+cl
+vim .xinitrc
+cl
+startx
+slstatus
+ll /sys/class/power_supply
+ll /sys/class/power_supply/BAT0
+cat /sys/class/power_supply/BAT0
+cd DWM/slstatus
+ls
+clear
+l
+vim config.h
+slstatus
+cl
+sudo make clean install
+vim config.h
+sudo make clean install
+cl
+startx
+slstatus
+cd DWM/slstatus
+vim config.h
+sudo make clean install
+l
+cl
+hto
+htop
+cl
+startx
+slstatus
+cl
+sudo pacman -S pcmanfm
+cd DWM/slstatus
+vim config.h
+sudo make clean install
+vim config.h
+sudo make clean install
+cl
+startx
+slstatus
+ll /sys/class/power_supply/
+ll /sys/class/power_supply/BAT0
+cd DWM/slstatus
+ls
+cl
+vim config.h
+sudo make clean install
+cl
+slstatus
+cl
+cd DWM/slstatus
+vim config.h
+sudo make clean install
+cl
+slstatus
+vim config.h
+sudo make clean install
+xkill
+cl
+slstatus
+cl
+vim config.h
+cd DWM/slstatus
+vim config.h
+sudo timeshift-gtk
+sudo make clean install
+slstatus
+sudo timeshift-gtk
+cl
+sudo pacman -Rns xfce4 xfce4-goodies
+sudo pacman -Rns xfce4 xfce4-goodies gnome-themes-standard
+sudo pacman -Rns xfce4 xfce4-goodies
+cl
+sudo pacman -S pcmanfm
+cl
+startx
+slstatus
+cl
+cd DWM/dwm
+l
+vim config.h
+cl
+sudo make clean install
+cd ..
+cl
+startx
+slstatus
+cd DWM/dwm
+vim config.h
+sudo make clean install
+cl
+startx
+cl
+slstatus
+cl
+sudo vim /etc/environment
+cl
+startx
+cd .config
+ls
+vim gtkrc
+rm gtkrc
+vim gtkrc-2.0
+rm gtkrc
+rm gtkrc-2.0
+cl
+l
+startx
+neofetch
+cl
+htop
+cl
+top
+cl
+sudo pacman -S rxvt-unicode
+htop
+neofetch
+cl
+htop
+cl
+pacman -Ss polkit
+sudo pacman -Rns polkit
+sudo pacman -R polkit
+ll
+cl
+cd linux-clear
+ls
+cl
+ll
+cd src
+ls
+cd linux-5.12
+ls
+ll
+cl
+make menuconfig
+cl
+cd ..
+l
+clear
+ll
+cd ..
+cl
+makepkg -ei
+cl
+ll
+rm linux-clear-5.12.12-1-x86_64.pkg.tar.zst linux-clear-headers-5.12.12-1-x86_64.pkg.tar.zst
+ll
+cl
+makepkg -ei
+sudo pacman -S bc
+cl
+makepkg -ei
+cl
+vim .xinitrc
+sudo vim /root/.xinitrc
+cl
+startx
+vim .xinitrc
+sudo vim /root/.xinitrc
+reboot
+startx
+alsamixer
+\:wq
+htop
+cd DWM/dwm
+vim config.h
+cl
+~
+cl
+neofetch
+htop
+mpv Videos/NewPipe/After\ Installing\ Arch\ \&\ Gentoo\ -\ Setting\ up\ a\ Graphical\ Environment\ and\ Users.mp4
+sudo gufw
+mpv Videos/NewPipe/After\ Installing\ Arch\ \&\ Gentoo\ -\ Setting\ up\ a\ Graphical\ Environment\ and\ Users.mp4
+sudo pcmanfm
+neofetch
+cl
+vim .config/kitty/kitty.conf
+cl
+cd DWM/dwm
+vim config.h
+vim .config/kitty/kitty.conf
+~
+vim .config/kitty/kitty.conf
+cl
+cd DWM/dwm
+sudo make clean install
+cl
+exit
+cl
+startx
+l
+clear
+cd DWM/dwm
+l
+vim config.h
+sudo make clean install
+cl
+startx
+ll
+clear
+cl
+startx
+l
+clear
+sudo pacman -Rns emacs
+vim
+sudo pacman -Rns materia-gtk-theme
+pacman -Q
+sudo pacman -Rns matcha-gtk-theme nemo opendoas papirus-icon-theme
+ll
+cl
+exit
+neofetch
+ll
+clear
+exit
+neofetch
+cl
+startx
+neofetch
+cl
+htop
+cl
+sudo pacman -Rns pulseeffects lsp-plugins
+ll
+clear
+neofetch
+cl
+exit
+sudo pacman -Rns variety
+cl
+neofetch
+cl
+neofetch
+cl
+cd DWM/dwm
+cd ../slstatus
+vim config.h
+sudo make clean install
+cl
+startx
+cd DWM/slstatus
+l
+vim config.h
+sudo make clean install
+cl
+startx
+ll
+clear
+sudo vim /etc/environment
+cd DWM/dwm
+vim config.h
+cl
+cd DWM/slstatus
+vim config.h
+startx
+ll
+clear
+sudo firecfg
+cl
+sudo aa-enforce /etc/apparmor.d/*
+cl
+htop
+cl
+exit
+glxinfo | grep "direct rendering"
+cl
+cd DWM/dwm
+vim config.h
+exit
+sudo su
+exit
+cl
+startx
+neofetch
+ll
+xl
+cl
+mpv Videos/MentalOutlaw/Pcmanfm\ \(Other\ GUI\ File\ Managers\ need\ not\ apply\).mp4
+alsamixer
+amixer
+cl
+alsamixer
+mpv Videos/NewPipe/How\ to\ Make\ a\ Custom\ Linux\ Desktop\ _\ My\ AwesomeWM\ Theme.mp4
+cd Pictures
+ls
+feh chicago_buildings_at_night-wallpaper-2736x1824.jpg
+exit
+sudo pacman -Rns pcmanfm
+sudo pacman -S pcmanfm
+cd DWM/dwm
+vim config.h
+sudo make clean install
+startx
+sudo find / -name gtk
+cd /usr/include/gtk-3.0/gtk
+l
+cl
+neofetch
+find ~ -name qt
+cl
+sudo find / -name qt5
+sudo find / -name gtk
+find ~ -name gtk
+cl
+vim /etc/environment
+exit
+find ~ -name kde
+find ~ -name k
+find ~ -name plasma
+sudo find / -name plasma
+sudo find / -name kde
+neofetch
+cd /usr/share/icons
+ls
+sudo pacman -S Qogir
+sudo pacman -R Qogir
+pacman -Q
+sudo pacman -Rns qt5-ukui-platformtheme qt5-x11extras qt5-svg qt5-multimedia qt5-gsettings qt5-declarative 
+sudo pacman -Rns qt5-ukui-platformtheme qt5-gsettings qt5-declarative
+cl
+neofetch
+cl
+pacman -Q
+sudo systemctl status lockdown
+cd ../themes
+ls
+cl
+~
+cl
+htop
+cl
+neofetch
+ll
+cl
+htop
+neofetch
+xl
+cl
+exit
+htop
+sudo timeshift-gtk
+cl
+sudo pacman -Rns qt5-ukui-platformtheme qt5-gsettings qt5-declarative
+sudo pacman -Rns qt5ct qt5-styleplugins
+startx
+htop
+sudo pacman -Rns polkit
+man pacman
+sudo pacman -Rns polkit -y
+sudo pacman -Rns polkit --noconfirm
+neofetch
+sudo pacman -Rns polkit
+sudo pacman -Rns polkit gufw networkmanager rtkit udisks2 
+sudo pacman -Rns polkit gufw networkmanager rtkit udisks2 pipewire network-manager-applet gvfs
+sudo pacman -Su
+pacman -Ss gtk
+cl
+pacman -Q | grep icon
+sudo pacman -Rns qogir-icon-theme
+cl
+startx
+pacman -Q | grep theme
+neofetch
+pacman -Q | grep breeze
+sudo vim /etc/xdg/pcmanfm/default/pcmanfm.conf
+sudo vim /etc/xdg/menus/lxde-applications.menu
+export | grep gtk
+ls
+vim .gtkrc-2.0
+neofetch
+vim .gtkrc-3.0
+find ~ -name gtkrc
+vim .gtkrc-2.0-kde
+vim .gtkrc-2.0
+cp .gtkrc-2.0 .gtkrc-3.0
+neofetch
+vim .gtkrc-3.0
+sudo vim /etc/gtk-3.0/im-multipress.conf
+vim $XDG_CONFIG_HOME/gtk-3.0/settings.ini
+mkdir $XDG_CONFIG_HOME/gtk-3.0
+mkdir .config/gtk-3.0
+vim $XDG_CONFIG_HOME/gtk-3.0/settings.ini
+vim $XDG_CONFIG_HOMEgtk-3.0/settings.ini
+vim .config/gtk-3.0/settings.ini
+neofetch
+gsettings set org.gnome.desktop.interface gtk-theme Adwaita
+ll /usr/share/themes
+cd paru
+ls
+cd ...config
+~
+l]
+clear
+l
+cd .par
+cd .cache
+cd paru
+ls
+cd clone
+ls
+cd qt5-styleplugins
+ls
+vim install.sh
+sudo pacman -U qt5-styleplugins-5.0.0.20170311-26-x86_64.pkg.tar.zst
+sudo pacman -U qt5-styleplugins-335dbece103e2cbf6c7cf819ab6672c2956b17b3.tar.gz
+sudo pacman -U qt5-styleplugins-5.0.0.20170311-26-x86_64.pkg.tar.zst
+vim 
+vim install.sh
+sudo vim /etc/environment
+reboot
+startx
+sudo vim /etc/environment
+cl
+neofetch
+sudo vim /etc/environment
+startx
+sudo pacman -S nemo
+qtconfig
+sudo pacman -Rns nemo
+cl
+vim /home/illusion
+ll /usr/share/themes
+sudo find / -name Window
+XDG_CURRENT_DESKTOP=GNOME
+clear
+neofetch
+export XDG_CURRENT_DESKTOP=GNOME
+lsf
+ls
+ll
+exit
+neofetch
+cl
+cd .cache/paru
+ls
+cd clone
+ls
+cd ..
+cd yay
+ll
+cd ..
+ls
+sudo pcmanfm
+sudo audacious
+pacman -Q | grep window
+cl
+startx
+neofetch
+pacman -Q | grep awesome
+ll /usr/share/font
+sudo pacman -Rns grub-customizer
+sudo pacman -Rns redshift
+sudo pacman -Rns nautilus
+sudo pacman -Rns urxvt-unicode
+sudo pacman -Rns rxvt-unicode
+cd DWM/dwm
+vim config.h
+sudo make clean install
+cl
+startx
+cd DWM/dwm
+vim config.h
+sudo make clean install
+exit
+cl
+startx
+cd DWM/slstatus
+ls
+cl
+vim config.h
+sudo make clean install
+slsta
+slstatus
+vim config.h
+sudo timeshift-gtk
+cd DWM/slstatus
+vim config.h
+cd /run/timeshift
+ls
+cd backup
+ls
+cd timeshift-btrfs
+ls
+cd snapshots
+l
+cd 2021-06-29_05-14-18
+ls
+cd home
+cd @home
+ls
+l
+cd illusion
+ls
+cd DWM/slstatus
+ls
+vim config.h
+cd !
+cd ~
+cd DWM/slstatus
+vim config.h
+sudo make clean install
+startx
+cl
+slstatus
+vim /run/timeshift/backup/timeshift-btrfs/snapshots/2021-06-29_05-14-18/@home/illusion/DWM/slstatus/config.h
+cd ~/DWM/slstatus
+vim config.h
+sudo make clean install
+slstatus
+vim config.h
+sudo make clean install
+cl
+cd  ../dwm
+ls
+cd DWM/dwm
+vim config.h
+sudo make clean install
+exit
+cl
+startx
+mpv Videos/NewPipe/Why\ Use\ A\ Tiling\ Window\ Manager_\ \ Speed,\ Efficiency\ and\ Customization\!.mp4
+sudo pacman -S unity
+neofetch
+vim
+cl
+sudo aa-enforce /etc/apparmor.d/*
+cl
+firejail --list\
+
+exit
+cd P
+cd Pictures
+feh chicago_buildings_at_night-wallpaper-2736x1824.jpg
+exit
+mpv Videos/NewPipe/ZSH\ -\ A\ Better\ Shell\ than\ Bash_.mp4
+sudo vim /etc/mpv/mpv.conf
+mpv Videos/NewPipe/ZSH\ -\ A\ Better\ Shell\ than\ Bash_.mp4
+bash
+cd DWM/dwm
+cl
+ls
+cl
+vim config.h
+sudo pacman -S matcha-gtk-theme
+cl
+~
+cl
+pacman -Ss matcha
+pacman -Ss papirus
+sudo pacman -S papirus-icon-theme
+pacman -Ss matcha
+pacman -Ss materia
+sudo pacman -S materia-gtk-theme
+cl
+neofetch
+cl
+vim .config/gtk-3.0/settings.ini
+ll /usr/share/themes
+vim .gtkrc-2.0
+ll /usr/share/icons
+vim .config/gtk-3.0/settings.ini
+cl
+startx
+neofetch
+sudo timeshift-gtk
+cl
+exit
+sudo gufw
+pkexec gufw
+sudo gufw
+sudo gufw-pkexec
+cl
+htop
+cl
+exit
+vim .gtkrc-2.0
+vim .config/gtk-3.0/settings.ini
+neofetch
+cl
+sudo vim /etc/environment
+exit
+cl
+startx
+sudo gufw-pkexec
+reboot
+startx
+sudo gufw-pkexec
+cl
+sudo vim /etc/environment
+vim .config/gtk-3.0/settings.ini
+ll /usr/share/icons
+ll /usr/share/icons/Adwaita
+vim .gtkrc-2.0
+exit
+cl
+startx
+neofetch
+cl
+htop
+sudo pacman -Rns materia-gtk-theme papirus-icon-theme
+cl
+exit
+startx
+ll
+clear
+htop
+clear
+cd linux-clear
+cd src
+cd linux-5.12
+ls
+cl
+make menuconfig
+cl
+makepkg -ei
+cd ..
+cl
+makepkg -ei
+htop
+l
+cd src
+cd linux-5.12
+ls
+cl
+make menuconfig
+cd ..
+cd linux-clear
+makepkg -ei
+sudo vim /boot/refind_linux.conf
+sudo vim /boot/efi/EFI/BOOT/refind.conf
+reboot
+ll
+clear
+startx
+ll
+clear
+lc
+clear
+neofetch
+cl
+exit
+ll
+cl
+neofetch
+cl
+htop
+cat /sys/block/sda/queue/scheduler\
+
+sudo systemctl disable ananicy
+sudo systemctl disable prelockd
+sudo systemctl disable memavalid
+sudo systemctl disable memavaild.service
+cl
+sudo pacman -Rns memavaild prelockd ananicy-git
+alsamixer
+mpv Videos/NewPipe
+reboot
+startx
+mpv Videos/NewPipe/Goodbye\ Audacity.mp4
+mpv Videos/NewPipe/SLStatus\ -\ The\ Suckless\ Way\ to\ View\ System\ Stats.mp4
+nvim
+clear
+mpv Videos/NewPipe1/Artix\ Linux\ -\ Installation\ and\ Review.mp4
+cl
+vi
+sudo pacman -S vi
+cl
+vi
+l
+clear
+ls
+cl
+ll
+vi dsfgsdfg
+sudo pacman -Rns vi
+rm dsfgsdfg
+cl
+neofetch
+cl
+htop
+cl
+cd DWM/st
+sudo make clean install
+ll
+cd src
+sudo make clean install
+makepkg -ei
+cd ..
+makepkg -ei
+cd src
+ls
+clear
+cd ..
+make
+ll
+vim README.md
+cd DWM/st
+sudo make install
+startx
+sudo su
+startx
+sudo su
+startx
+sudo su
+startx
+cl
+sudo su
+startx
+sudo su
+startx
+sudo su
+startx
+ll]
+clear
+sudo bootctl
+sudo su
+exit
+sudo efibootmgr
+man efibootmgr
+sudo efibootmgr Boot0001 --label rEFInd Boot Manager
+man efibootmgr
+sudo efibootmgr -o 0001 --label rEFInd Boot Manager
+reboot
+startx
+ll
+cl
+startx
+cl
+pacman -Ss mokutil
+cl
+sudo pacman -Rns polkit
+l
+clear
+htop
+cat /sys/devices/system/cpu/cpu0/cpufreq/scaling_governor
+sudo systemctl status tlp
+sudo systemctl status auto-cpufreq
+sudo systemctl disable auto-cpufreq
+sudo systemctl stop auto-cpufreq
+sudo pacman -Rns auto-cpufreq
+cl
+genkernel
+cl
+pacman -Ss gentoo
+cl
+exit
+startx
+htop
+exit
+sudo pacman -S rxvt-unicode
+htop
+exit
+sudo pacman -Rns rxvt-unicode
+exit
+cd DWM/dwm
+vim config.h
+vim config.def.h.bak
+ll
+cl
+vim dwm.c
+ll
+cl
+vim dwm-fullgaps-6.2.diff
+vim dwm
+vim util.c
+vim README
+~
+vim .xinitrc
+c
+\:qcar
+re
+rrrerer
+rrrerer\
+
+cce
+boot
+rbotrbot
+eo
+eot
+reboot
+startx
+vim .xinitrc
+startx
+vim .xinitrc
+startx
+vim .xinitrc
+startx
+vim .xinitrc
+startx
+vim .xinitrc
+cl
+startx
+vim .xinitrc
+exit
+cl
+startx
+st
+clear
+vim .config/kitty/kitty.conf
+cl
+neofetch
+htop
+man sd-pam
+pacman -Ss sd-pam
+htop
+ll
+clear
+cl
+exit
+startx
+vim
+neofetch
+htop
+man udisk
+man udisks
+cd DWM/dwm
+vim config.h
+vim .config/kitty/kitty.conf
+cd ~
+vim .config/kitty/kitty.conf
+neofetch
+cl
+vim .config/kitty/kitty.conf
+ls
+clear
+neofetch
+cl
+top
+cl
+cd DWM/dwm
+vim config.h
+vim config.def.h
+vim config.h
+vim config.def.h
+vim config.def.h.orig
+cl
+vim config.def.h
+cl
+vim config.h
+sudo make clean install
+vim config.h
+sudo make clean install
+cl
+vim config.def.h
+vim config.def.h.bak
+vim config.def.h.orig
+vim config.def.h.rej
+cl
+ll
+vim drw
+vim drw.c
+vim endx
+cl
+l
+vim awesome-glyphs.txt
+vim config.h
+sudo make clean install
+cl
+startx
+cd DWM/dwm
+vim config.h
+sudo make clean install
+cl
+vim config.def.h
+vim dwm.c
+l
+cl
+pacman -Ss font
+pacman -Ss font | grep awesome
+wifi menu
+cl
+ip link
+cl
+cd DWM/dwm
+vim config.def.h.orig
+vim config.h
+sudo make clean install
+startx
+cd DWM/dwm
+vim config.h
+sudo make clean install
+exit
+cl
+startx
+cd DWM/dwm
+vim config.h
+exit
+ll
+cl
+cd DWM/dwm
+vim config.h
+sudo make clean install
+startx
+cd DWM/dwm
+vim config.h
+sudo make clean install
+cl
+exit
+c;
+cl
+startx
+vim config.h
+cd DWM/dwm
+vim config.h
+sudo make clean install
+cl
+exit
+cl
+startx
+ll
+clear
+cd DWM/dwm
+vim config.h
+sudo make clean install
+exit
+cl
+startx
+cl
+mono
+cl
+exit
+l
+clear
+vim .config/kitty/kitty.conf
+cd DWM/dwm
+vim config.h
+sudo make clean install
+cl
+startx
+cd DWM/dwm
+vim config.h
+sudo make clean install
+cl
+startx
+cl
+neofetch
+cl
+l
+clear
+ll
+rm packages.txt
+cl
+pacman -Qen > package.txt
+vim package.txt
+pacman -Ss dmz
+sudo pacman -Rns xcursor-vanilla-dmz xcursor-vanilla-dmz-aa
+vim .config/kitty/kitty.conf
+ll
+clear
+l
+clear
+ll
+clear
+neofetch
+cl
+vim .config/kitty/kitty.conf
+neofetch
+cl
+vim package.txt
+pacman -Qdtq | pacman -Rs -\
+
+sudo pacman -Qdtq | pacman -Rs -
+sudo pacman -Qdtq | sudo pacman -Rs -
+xk
+cl
+sudo pacman -S variety
+sudo pacman -S variety --needed
+cl
+sudo pacman -S nitrogen
+cl
+sudo pacman -S variety
+cl
+sudo timeshift-gtk
+cl
+cd DWM/dwm
+l
+vim config.h
+startx
+cl
+htop
+man dconf
+htop
+cl
+find ~ -name wifi
+find ~/Videos -name wifi
+find ~/Videos -name wi-fi
+find ~/Videos -name command
+startx
+wifi-menu
+cl
+lspci -k
+cl
+dmesg | grep firmware
+dmesg | grep iwlwifi
+iw dev
+ip link show interface
+ip link show
+iw dev interface scan
+iw dev wlp3s0 scan
+sudo iw dev wlp3s0 scan
+cl
+iw dev interface scan
+iw dev interface scan | less
+ip link show
+sudo iw dev wlp3s0 scan | less
+clear
+pacman -Ss font | grep awesome
+sudo pacman -S ttf-font-awesome awesome-terminal-fonts
+cl
+sudo vim /usr/share/doc/wpa_supplicant
+sudo vim /usr/share/doc/wpa_supplicant/wpa_supplicant.conf
+find ~ -name wpa
+cd DWM/dwm
+vim config.h
+sudo pacman -S ttf-font-awesome awesome-terminal-fonts
+sudo pacman 
+sudo pacman -S ttf-font-awesome awesome-terminal-fonts
+sudo wifi off
+cd DWM/slstatus
+vim config.h
+sudo make clean install
+cd DWM/slstatus
+vim config.h
+sudo make clean install
+vim config.h
+sudo make clean install
+cl
+startx
+cd DWM/slstatus
+vim config.h
+sudo make clean install
+vim config.h
+sudo make clean install
+startx
+cd DWM/slstatus
+vim config.h
+sudo make clean install
+cl
+startx
+cd DWM/slstatus
+vim config.h
+sudo make clean install
+cl
+startx
+cd DWM/slstatus
+vim config.h
+sudo make clean install
+exit
+c;
+cl
+startx
+cd DWM/slstatus
+vim config.h
+sudo make clean install
+cl
+startx
+cd DWM/slstatus
+vim config.h
+sudo make clean install
+cl
+exit
+cl
+startx
+cd DWM/slstatus
+vim config.h
+vim /run/media/illusion/1c715daf-7e14-4e9c-956c-cffa4216c675/usr/share/ecryptfs-utils/ecryptfs-mount-private.txt
+vim /run/timeshift/backup/timeshift-btrfs/snapshots/2021-06-29_05-14-18/@home/illusion/DWM/slstatus/config.h
+sudo timeshift-gtk
+sudo vim /run/timeshift/backup/timeshift-btrfs/snapshots/2021-06-29_05-14-18/@home/illusion/DWM/slstatus/config.h
+vim DWM/slstatus/config.h
+sudo make clean install
+cd DWM/slstatus
+sudo make clean install
+cl
+startx
+cd /run/timeshift/backup/timeshift-btrfs/snapshots/2021-06-28_05-00-02/@home/illusion/slstatus/config.h
+vim /run/timeshift/backup/timeshift-btrfs/snapshots/2021-06-28_05-00-02/@home/illusion/slstatus/config.h
+cd DWM/slstatus
+vim config.h
+startx
+cd DWM/slstatus
+vim config.h
+sudo make clean install
+cl
+startx
+neofetch
+cl
+htop
+cl
+cd DWM/slstatus
+vim config.h
+cl
+exit
+htop
+cl
+cd Pictures
+feh --bg-scale Firewatch\ at\ Night\ white\(edit\ of\ @rayenattias\ edit\).png
+htop
+cd DWM/dwm
+vim config.h
+sudo make clean install
+startx
+feh --bg-scale Firewatch\ at\ Night\ white\(edit\ of\ @rayenattias\ edit\).png
+cd .config/variety
+ls
+cl
+cd Downloaded
+ls
+cd nasa_apod
+ls
+feh --bg-scale Neowise3Tails_Lefaudeux_1088.jpg
+vim .config/kitty/kitty.conf
+~
+vim .config/kitty/kitty.conf
+xcompmgr
+sudo pacman -S xcompmgr
+xcompmgr
+vim .xinitrc
+sudo pacman -S transset-df
+startx
+feh --bg-scale Neowise3Tails_Lefaudeux_1088.jpg
+cd .config/variety/Downloaded/nasa_apod
+feh --bg-scale Neowise3Tails_Lefaudeux_1088.jpg
+cl
+~
+vim .config/kitty/kitty.conf
+cd .config/variety/Downloaded/Unsplash
+feh --bg-scale photo-1623120218365-f12d95301eba.jpg
+cd DWM/dwm
+vim config.h
+sudo make clean install
+clear
+startx
+cd .config/variety/Downloaded/Unsplash
+feh --bg-scale photo-1623120218365-f12d95301eba.jpg
+cd DWM/dwm
+vim config.h
+sudo make clean install
+startx
+cd .config/variety/Downloaded/Unsplash
+feh --bg-scale photo-1623120218365-f12d95301eba.jpg
+cd ~
+cd DWM/dwm
+vim config.h
+cl
+dwm
+htop
+vim .config/kitty/kitty.conf
+cd DWM/dwm
+startx
+cd Pictures 
+mv ../.config/variety/Downloaded .
+mv ../.config/variety/Favorites
+mv ../.config/variety/Favorites .
+mv ../.config/variety/wallpaper .
+rm -rf ../.config/variety
+exit
+cd Pictures 
+ll
+feh --bg-scale /home/illusion/Pictures/Downloaded/nasa_apod/gem16otjcc2500.jpg
+feh --bg-scale /home/illusion/Pictures/Downloaded/nasa_apod/cheshirecat_chandra_complg.jpg
+feh --bg-scale /home/illusion/Pictures/Downloaded/nasa_apod/SpotlessSunIss_Colacurcio_2048.jpg
+feh --bg-scale /home/illusion/Pictures/Downloaded/nasa_apod/StarshipsMoon_Kraus_2048.jpg
+feh --bg-scale /home/illusion/Pictures/Downloaded/nasa_apod/M27_Mazlin_2000.jpg
+feh --bg-scale /home/illusion/Pictures/Downloaded/nasa_apod/MoonColors_Pace_960.jpg
+feh --bg-scale /home/illusion/Pictures/Downloaded/nasa_apod/MoonSaturn_Patonai_1280.jpg
+feh --bg-scale /home/illusion/Pictures/Downloaded/nasa_apod/CoronaConjunction_Masi_1280.jpg
+vim .xinitrc
+cl
+startx
+ll
+clear
+neofetch
+cl
+htop
+man preload
+cl
+exit
+cd DWM/dwm
+vim config.h
+sudo make clean install
+cl
+exit
+cl
+startx
+ll
+clear
+vim
+cl
+exit
+cl
+free -h
+cl
+htop
+cl
+exit
+qt5cl
+qt5ct
+cl
+startx
+htop
+alsamixer
+cd /var/cache/pacman
+cd pkg
+ls
+cl
+ll
+cl
+ls | grep boxes
+sudo pacman -U gnome-boxes-40.2-1-x86_64.pkg.tar.zst
+sudo pacman -U gnome-boxes-40.2-1-x86_64.pkg.tar.zst --needed
+cl
+l
+cl
+pacman -Ss virt-manager
+htop
+man sd-pam
+man sdpam
+cd DWM/dwm
+vl
+ld
+cl
+vim config.h
+neofetch
+free -h
+vl
+cl
+sudo hdparm -t /dev/sda
+pstree
+cl
+glxinfo | grep "direct rendering"
+cat /sys/block/sda/queue/scheduler
+grep "" /sys/block/*/queue/scheduler\
+
+wdctl
+cat /proc/sys/kernel/watchdog
+systemctl status
+systemd-analyze security unit
+sudo systemd-analyze security unit
+sudo systemd-analyze security systemd
+sudo systemd-analyze security apparmor
+sudo vim /etc/X11/xorg.conf.d/20-intel.conf
+rm /etc/X11/xorg.conf.d/20-intel.conf
+sudo rm /etc/X11/xorg.conf.d/20-intel.conf
+startx
+glxinfo | grep "direct rendering"
+cd DWM/st
+ls
+cl
+ll
+vim PKGBUILD
+cl
+neofetch
+sudo su
+cd /usr/share/refind/drivers_x64
+ks
+ll
+cl
+ll
+sudo su
+exit
+startx
+sudo aa-status
+cl
+sudo firecfg
+sudo wifi on
+sudo pacman -S ttf-font-awesome awesome-terminal-fonts
+cl
+sudo grep -H '' /sys/module/i915/parameters/*
+sudo vim /etc/mkinitcpio.conf
+sudo mkinitcpio -P
+reboot
+startx
+ll
+clear
+vainfo
+sudo vim /etc/environment
+startx
+sudo vim /etc/environment
+modinfo -p i915
+sudo modinfo -p i915
+systool -m i915 -av
+cl
+sudo vim /etc/modprobe.d/i915.conf
+htop
+sudo vim /etc/environment
+sudo vim /etc/X11/xorg.conf.d/20-intel.conf
+startx
+cl
+ll
+rm package.txt
+pacman -Qen > package.txt
+cl
+vim package.txt
+sudo pacman -Rns rofi
+sudo systemctl status hdapsd@device
+sudo pacman -Rns hdapsd
+man intel-media-sdk
+cl
+man lockdown-ms
+man lockdown
+sudo pacman -S ttf-font-awesome awesome-terminal-fonts
+sudo pacman -S virt-manager qemu vde2 ebtables dnsmasq bridge-utils openbsd-netcat
+sudo pacman -Syu
+sudo pacman -S keepassxc xed qt5-base mesa man-db kitty xf86-input-libinput
+sudo pacman -S keepassxc xed mesa man-db kitty xf86-input-libinput
+sudo pacman -S keepassxc xed man-db kitty xf86-input-libinput
+LC_ALL=C lscpu | grep Virtualization\
+
+sudo pacman -S virt-manager qemu vde2 ebtables dnsmasq bridge-utils openbsd-netcat\
+
+sudo systemctl enable libvirtd.service
+cd DWM/dwm
+vim config.h
+sudo make clean install
+startx
+cd DWM/dwm
+vim config.h
+vim /run/timeshift/backup/timeshift-btrfs/snapshots/2021-06-28_05-00-02/@home/illusion/slstatus/config.h
+vim /run/timeshift/backup/timeshift-btrfs/snapshots/2021-06-28_05-00-02/@home/illusion/dwm/config.h
+vim DWM/dwm/config.h
+sudo make clean install
+cd DWM/dwm
+sudo make clean install
+cl
+startx
+sudo pacman -Rns emacs
+sudo pacman -S keepassxc xed man-db
+sudo firecfg --clean
+vim .xinitrc
+cd DWM/dwm
+ll
+cd ~
+git clone https://github.com/TheIllusion24/dwm.git
+cd dwm
+ls
+cd DWM/ow
+cd DWM
+ll
+cd ..
+ll
+cd DWM
+ls
+cd Own\ dwm
+ls
+ll dwm-6.2
+cd ~
+ls
+cd dwm
+sudo make clean install
+startx
+cd DWM/slstatus
+ll
+l
+rm -rf .git
+ll
+cd DWM/slstatus
+git init
+cd ~
+ll
+cd dwm
+ll
+cl
+l
+cd .git
+ls
+vim config
+cd DWM/slstatus
+ll
+cl
+vim README
+git init
+ll
+l
+.git
+ls
+ll DWM/slstatus
+git clone https://github.com/LukeSmithxyz/st
+cd st
+sudo make install
+ll
+clear
+exit
+vim ~/.Xresources
+ll
+cl
+xrdb
+cl
+startx
+ls
+vim
+cd dwm
+vim config.h
+sudo make clean install
+cl
+startx
+cd dwm
+vim config.h
+sudo make clean install
+startx
+cd slstatus
+ll
+cd dwm
+ll
+git pull
+git init
+vim config.h
+git clone https://github.com/LukeSmithxyz/st
+git clone https://github.com/TheIllusion24/slstatus.git
+cd slstatus
+ls
+vim config.h
+sudo make clean install
+startx
+cd slstatus
+vim config.h
+sudo make clean install
+cd ..
+l
+cd dwm
+ll
+vim config.h
+sudo make clean install
+startx
+ll
+clear
+cd dwm
+git add
+git add .
+git commit "new icons"
+git commit "icons dwm"
+git commit ""
+git commit .
+l
+cd git
+cd .git
+l
+vim config
+git commit .
+cd ..
+git commit .
+git commit "icons"
+cd .git
+git commit "icons"
+cd dwm
+git commit "icons"
+git push
+git push ...
+ll
+mpv ~/Videos/MentalOutlaw/How\ to\ Rice\ DWM.mp4
+git commit -m "icons"
+git push
+git push --help
+mpv ~/Videos/MentalOutlaw/How\ to\ Rice\ DWM.mp4
+git init
+git add .
+git commit -m "icons"
+git remote add origin https:.//github.com/TheIllusion24/dwm.git
+git push --force origin master
+git push origin master
+git push
+git fetch origin master:tmp
+git push origin main
+git commit -m "icons"
+git push --force origin main
+ll
+cd slstatus
+ls
+git commit -m "icons"
+git push
+exit
+sudo pacman -Syu
+sudo pacman -S kitty
+systemctl status libvirtd
+sudo systemctl enable libvirtd.service
+sudo systemctl start libvirtd.service
+sudo systemctl status libvirtd.service
+sudo pacman -S dmidecode
+cl
+sudo systemctl status libvirtd.service
+sudo systemctl restart libvirtd.service
+sudo systemctl status libvirtd.service
+sudo pacman -S virt-viewer
+sudo vim -cl /etc/libvirt/libvirtd.conf
+nano -cl /tmp/br10.xml
+vim -cl /tmp/br10.xml
+sudo usermod -a -G libvirt $(whoami)
+sudo pacman -S gnome-boxes
+startx
+sudo pacman -S nitrogen
+cl
+vim .config/kitty/kitty.conf
+ll
+clear
+vim .xinitrc
+vim
+startx
+vim .xinitrc
+cl
+startx
+vim .xinitrc
+cl
+startx
+vim .xinitrc
+cl
+cd dwm
+vim config.h
+cl
+startx
+cd dwm
+vim config.h
+sudo make clean install
+cl
+startx
+cd dwm
+vim config.h
+sudo make clean install
+cl
+startx
+cd dwm
+vim config.h
+sudo make clean install
+cl
+startx
+cd dwm
+vim config.h
+cl
+cd ../slstatus
+ls
+vim config.h
+cd dwm
+vim config.h
+sudo make clean install
+startx
+cd dwm
+vim config.h
+sudo make clean install
+cl
+startx
+cd dwm
+vim config.h
+sudo make clean install
+cl
+startx
+cl
+cd slstatus
+vim config.h
+sudo make clean install
+startx
+cd slstatus
+vim config.h
+sudo make clean install
+vim config.h
+sudo make clean install
+startx
+vim config.h
+cd slstatus
+vim config.h
+sudo make clean install
+startx
+cd slstatus
+vim config.h
+sudo make clean install
+cl
+startx
+cd slstatus
+vim config.h
+sudo make clean install
+cl
+startx
+cd slstatus
+vim config.h
+sudo make clean install
+startx
+cd slstatus
+vim config.h
+sudo make clean install
+startx
+cd dwm
+vim config.h
+sudo make clean install
+startx
+cd dwm
+vim config.h
+vim
+vim .config/kitty/kitty.conf
+cd dwm
+vim config.h
+cd DWM
+cd ..
+cd DWM
+cd Own\ dwm
+l
+cd dwm-6.2
+l
+sudo make clean install
+startx
+ll
+cl
+neofetch
+startx
+cd dwm
+sudo make clean install
+~
+cl
+startx
+vim .xinitrc
+startx
+vim .xinitrc
+startx
+cl
+htop
+cl
+sudo pacman -S papirus-icon-theme
+cd .cache/paru
+ls
+cd clone
+ll
+sudo pacman -S matcha-gtk-theme
+ll /var/cache/pacman/pkg
+ll /var/cache/pacman/pkg | grep matcha
+ll /var/cache/pacman/pkg | grep theme
+sudo pacman -S materia-gtk-theme
+vim .gtkrc-2.0
+vim .config/gtk-3.0/settings.ini
+startx
+neofetch
+cd /usr/share/themes
+ls
+~
+vim .config/gtk-3.0/settings.ini
+vim .gtkrc-2.0
+startx
+sudo timeshift-gtk
+cl
+neofetch
+ll .cache/paru
+ll .cache/paru/clone
+cd htop
+htop
+man preloader
+ll /etc/gtk-3.0/
+cp .config/gtk-3.0/settings.ini /etc/gtk-3.0
+sudo cp .config/gtk-3.0/settings.ini /etc/gtk-3.0
+startx
+sudo timeshift-gtk
+ll /etc/gtk-2.0/
+sudo cp .gtkrc-2.0 /etc/gtk-2.0/gtkrc
+startx
+sudo vim /etc/gtk-3.0/settings.ini
+ll /usr/share/icons
+sudo vim /etc/gtk-3.0/settings.ini
+vim .gtkrc-2.0
+sudo vim /etc/gtk-2.0/gtkrc
+vim .gtkrc-2.0
+sudo vim /etc/gtk-2.0/gtkrc
+sudo vim /etc/gtk-3.0/settings.ini
+startx
+cd /var/cache/pacman/pkg
+ll | grep cursor
+sudo pacman -U capitaine-cursors-4-1-any.pkg.tar.zst
+vim .gtkrc-2.0
+ll /usr/share/icons
+vim .gtkrc-2.0
+sudo vim /etc/gtk-3.0/settings.ini
+sudo vim /etc/gtk-2.0/gtkrc
+vim .config/gtk-3.0/settings.ini
+vim .gtkrc-2.0
+sudo vim /etc/gtk-3.0/settings.ini
+cl
+startx
+neofetch
+mkdir .icons
+cd .icons
+l
+mkdir default
+cd default
+vim index.theme
+startx
+cd .icons
+cd default
+vim index.theme
+ll /usr/share/icons
+sudpo vim /etc/gtk-3.0/settings.ini
+sudo vim /etc/gtk-3.0/settings.ini
+\:q
+startx
+vim .icons/default/index.theme
+cl
+rm -rf .icons/default
+l
+vim .Xresources
+vim .xinitrc
+startx
+vim .Xresources
+startx
+vim .Xresources
+startx
+vim .Xresources
+startx
+vim .Xresources
+startx
+vim .Xresources
+startx
+vim .Xresources
+startx
+sudo vim /etc/environment
+startx
+vim .Xresources
+cd dwm
+vim config.h
+sudo make clean install
+startx
+htop
+startx
+htop
+cl
+htop
+cl
+man preload
+cl
+sudo systemctl status preload
+htop
+cl
+ll /var/cache/pacman/pkg | grep preload
+ll .cache/paru/clone | grep preload
+cl
+ll /
+chmod 700 /boot /usr/src /lib/modules /usr/lib/modules
+sudo chmod 700 /boot /usr/src /lib/modules /usr/lib/modules
+pacman -Ss libressl
+install dccp /bin/false\
+install sctp /bin/false\
+install rds /bin/false\
+install tipc /bin/false\
+install n-hdlc /bin/false\
+install ax25 /bin/false\
+install netrom /bin/false\
+install x25 /bin/false\
+install rose /bin/false\
+install decnet /bin/false\
+install econet /bin/false\
+install af_802154 /bin/false\
+install ipx /bin/false\
+install appletalk /bin/false\
+install psnap /bin/false\
+install p8023 /bin/false\
+install p8022 /bin/false\
+install can /bin/false\
+install atm /bin/false\
+
+pacman -Ss sanbox-app-launcher
+pacman -Ss sandbox-app-launcher
+pacman -Ss sandbox | grep launcher
+sudo vim /etc/systemd/system/systemd-logind.service.d/systemd-sandbox.conf
+startx
+alsamixer
+vim /etc/preload.conf
+sudo vim /etc/preload.conf
+cl
+sudo efibootmgr
+cl
+stat
+vik
+c;
+cl
+vim
+pacman -Ss polkit
+sudo pacman -S polkit-gnome
+pkexec gufw
+sudo su
+cl
+pkexec gufw
+gufw-pkexec
+sudo systemctl status polkitd
+sudo systemctl enable polkitd
+cl
+sudo visudo
+cl
+neofetch
+htop
+cl
+vim .vimrc
+vim
+vim .vimrc
+cd dwm
+vim config.
+vim config.h
+vim ../.vimrc
+vim config.h
+htop
+cl
+htop
+cl
+sudo pacman -S gvfs
+sudo pacman -Rs gvfs
+pacman -Ss clonezilla
+polkit-gnome
+man polkit-gnome
+cl
+htop
+sudo pacman -S xfce4-terminal
+cl
+sudo pacman -S urxvt
+sudo pacman -S rxvt
+sudo pacman -S rxvt-unicode
+vim .X
+vim .Xresources
+startx
+vim .Xresources
+startx
+cl
+ll
+cl
+vim 
+vim .Xresources
+startx
+ll
+cl
+neofetch
+man urxvt
+urxvt --help
+vim .Xresources
+startx
+vim .Xresources
+vim .config/kitty/kitty.conf
+startx
+ll
+cl
+vim .config/kitty/kitty.conf
+vim .Xresources
+ll
+startx
+ll
+vim .Xresources
+startx
+ll
+cl
+neofetch
+cl
+pacman -Ss xlib | grep header
+urxvt --help
+pacman -Ss gpm
+vim .Xresources
+startx
+htop
+cl
+urxvt --help
+vim .Xresources
+startx
+ll
+clear
+vim .Xresources
+vim Music/AAC
+sudo pacman -S xsel
+vim .Xresources
+vim .config/kitty/kitty.conf
+startx
+ll
+vim .Xresources
+startx
+ll
+cl
+vim .Xresources
+startx
+ll
+cl
+vim .Xresources
+startx
+ll
+vim .Xresources
+startx
+ll
+\:q
+vim .Xresources
+startx
+vim .Xresources
+urxvt --help
+vim .Xresources
+urxvt --help
+startx
+ll
+vim .Xresources
+ll
+clear
+htop
+cd linux-clear]
+cd linux-clear
+ll
+cd src
+cd linux-5.12
+make menuconfig
+neofetch
+systemctl hybrid-suspen
+systemctl hybrid-suspend
+systemctl hybrid-sleep
+sudo systemctl hybrid-sleep
+sudo systemctl hybrid-suspend
+sudo systemctl suspend-sleep
+sudo systemctl hybrid-sleep
+man systemd
+man systemctl
+sudo systemctl suspend
+startx
+ll
+cl
+ll /var/cache/pacman/pkg | grep cursor
+ll .cache/paru/clone | grep cursor
+sudo vim /etc/modprobe.d/i915.conf\
+
+sudo vim /etc/X11/xorg.conf.d/20-intel.conf\
+
+sudo vim /etc/modprobe.d/i915.conf\
+
+sudo vim 
+vainfo
+sudo vim ~/.drirc\
+
+sudo vim /etc/environment
+reboot
+startx
+sudo pacman -S xfce4 xfce4-goodies
+cl
+cd dwm
+vim config.h
+sudo make clean install
+c
+clcl
+cl
+stx                              
+trs
+sa
+er
+re
+reooro:::::
+q
+ewboreeooebt
+eo
+eotrotrbt:
+r
+eotrotrbt:
+startx
+cl
+sudo auto-cpufreq --stats
+c;
+cl
+uname -ra
+./linpeas.sh -s
+chmod +x linpeas.sh
+./linpeas.sh -s
+cl
+htop
+vim .Xresources
+startx
+ll
+cl
+ll
+cl
+vim .Xresources
+startx
+ll
+vim .Xresources
+startx
+ll
+clear
+vim .Xresources
+startx
+ll
+cl
+vim .Xresources
+ll
+cl
+ll
+cl
+cd st
+ll
+vim config.h
+cd st
+ll
+sudo make clean install
+ll
+startx
+ll
+clear
+vim config.h
+cd st
+vim config.h
+sudo make clean install
+cd st
+vim README.md
+vim config.h
+sudo make clean install
+ll
+clear
+vim config.h
+sudo make clean install
+fclist
+fc-list
+fc-list | grep Inconsolata
+vim config.h
+vim .Xresources
+sudo make clean install
+vim .Xresources
+ll
+cl
+cd st
+vim config.h
+man st
+sudo make clean install
+ll
+vim config.h
+sudo make clean install
+ll
+clear
+vim config.h
+sudo make clean install
+vim README.md
+cd DWM/st
+vim
+cd DWM/st
+vim config.h
+ll
+cd src
+ll
+cd ..
+rm src
+rm -r src
+sudo make clean install
+cd ..
+cd st
+l
+pwd
+cp Makefile ../DWM/st
+cd ~/DWM/st
+cl
+sudo make clean install
+vim Makefile
+ll
+vim Makefile
+cd ~/DWM/st
+ll
+ll ~/st
+vim Makefile
+sudo make clean install
+vim Makefile
+sudo make clean install
+vim Makefile
+sudo make clean install
+vim Makefile
+sudo make clean install
+vim Makefile
+sudo make clean install
+ll
+cl
+clc
+lc
+cclc
+cl
+cd ~/DWM/st
+vim config.h
+ll
+cd ~/DWM/st
+sudo make clean install
+ll
+vim .Xresources
+startx
+ll
+clear
+ll
+vim .Xresources
+startx
+ll
+cl
+vim .Xresources
+startx
+ll
+vim .Xresources
+startx
+ll
+cl]
+cl
+fc-list | grep Mono
+vim .Xresources
+startx
+ll
+vim .Xresources
+fc-list | grep Mono
+vim .Xresources
+startx
+ll
+vim .Xresources
+startx
+ll
+cl
+xrdb
+fc-list | grep Mono
+fc-list
+vim .Xresources
+ll.
+ll
+cl
+ll
+cl
+vim .Xresources
+cd ~/DWM/st
+vim config.h
+vim .config/kitty/kitty.conf
+~
+vim .config/kitty/kitty.conf
+ll
+htop
+startx
+ll
+cl
+sudo vim /boot/refind_linux.conf
+reboot
+startx
+neofetch
+sudo su
+startx
+sudo systemctl status apparmor
+sudo aa-status
+neofetch
+pacman -Ss powershell
+vim .config/kitty/kitty.conf
+vim .vimrc
+htop
+vim .Xresources
+fc-list
+vim .Xresources
+startx
+ll
+cl
+ll
+cd ~/DWM/st
+vim config.h
+vim .Xresources
+startx
+cd ~/DWM/st
+sudo make clean install
+ll
+clear
+vim .Xresources
+cd ~/DWM/st
+vim config.h
+fc-list
+fc-list | grep Noto
+vim config.h
+cd ~/st
+vim config.h
+sudo make clean install
+ll
+vim config.h
+cd st
+vim config.
+vim config.h
+sudo make clean install
+ll
+vim config.h
+cd st
+vim config.
+vim config.h
+cd st
+vim config.h
+sudo make clean install
+ll
+clear
+fc-list | grep Noto
+cd st
+vim README.md
+cl
+fc-list | grep Inconsolata
+cd st
+vim config.h
+sudo make clean install
+ll
+cd st
+vim config.h
+fc-list | grep Inconsolata | grep Mono
+fc-list | grep Inconsolata | grep Regular
+fc-list | grep Serif
+cd st
+vim config.h
+sudo make clean install
+ll
+fc-list | grep Comic
+pacman -Ss comic
+v
+vim
+cl
+fc-list | grep Meslo
+cd st
+vim config.h 
+sudo make clean install
+ll
+cd st
+vim config.h 
+sudo make clean install
+ll
+cl
+neofetch
+cl
+ll
+cl
+ll
+cd st
+vim config.h 
+htop
+cd dwm
+vim config.h 
+sudo make clean install
+startx
+ll
+cl
+startx
+lll
+l
+clear
+ll
+cl
+cl\
+cl
+cl
+cl\
+cl
+cd st
+vim config.h 
+htop
+cl
+./linpeas.sh -s
+cd /var/lib/systemd/coredump
+ll
+cd st
+ll
+cl
+vim config.h 
+sudo make clean install
+startx
+ll
+cl
+clc
+cl
+clc
+cd st
+vim config.h 
+cd
+alsamixer
+ll
+exit
+vim
+ll
+cl
+sudo systemctl status thermald
+cl
+vim .gtkrc-2.0
+vim .config/gtk-3.0/settings.ini
+ll
+cl
+sudo vim /etc/environment
+sudo timeshift-gtk
+cl
+sudo vim /etc/gtk-3.0/settings.ini
+vim .gtkrc-2.0
+sudo vim /etc/gtk-3.0/settings.ini
+startx
+sudo vim /etc/gtk-2.0/gtkrc
+start
+startx
+cl
+sudo timeshift-gtk
+sudo vim /etc/gtk-2.0/gtkrc
+vim .gtkrc-2.0
+rm .gtkrc-2.0
+l
+sudo cp /etc/gtk-2.0/gtkrc /home/illusion/.gtkrc-2.0
+l
+cl
+ll
+clear
+htop
+cl
+htop
+sudo systemctl disable polkitd
+htop
+man upower
+man btrfs
+cl
+sudo su
+cl
+cd st
+vim config.h 
+cd ../DWM/dwm
+vim config.h 
+cd st
+vim config.h 
+sudo make clean install
+cd st
+vim config.h 
+sudo make clean install
+vim config.h 
+sudo make clean install
+sdfgsdfgsdgfsdgfsdfgsdfgsdfgsdfgsdfg
+dfgsdfgsdfgsdfgsdfgsdfg
+cd st
+vim config.h 
+sudo make clean install
+cl
+vim config.h 
+cd st
+vim config.h 
+startx
+sdfgsdgsdgsdfgsdfg
+cat /proc/cpuinfo
+cl
+startx
+cl
+sudo vim /etc/tlp.conf
+sudo pacman -Rns tlp
+cl
+sudo powertop
+sudo pacman -Rns powertop
+cl
+cd DWM/dmenu
+l
+vim config.h 
+sudo make clean install
+startx
+cd dwm
+vim config.h 
+cd dwm
+vim config.h 
+vim
+vim .Xresources
+cl
+startx
+vim
+cl
+vim .Xresources
+pacman -Ss ddx
+sudo pacman -Rns xf86-video-intel
+sudo vim /etc/X11/xorg.conf.d/20-intel.conf\
+
+sudo rm /etc/X11/xorg.conf.d/20-intel.conf
+startx
+ll
+htop
+vim .Xresources
+vainfo
+cl
+htop
+cl
+sudo rm /etc/X11/xorg.conf.d/20-intel.conf
+exit
+glxinfo | grep "direct rendering"
+echo ggwp
+echo "ggwp"
+cl
+c
+clc
+l
+cl
+vim .Xprofile
+cd dwm
+vim config.h 
+sudo make clean install
+startx
+chmod -x linpeas.sh
+vim .Xresources
+startx
+vim .Xresources
+startx
+vim .Xresources
+sudo vim /etc/environment
+sudo pacman -S xf86-video-intel
+startx
+sudo pacman -Syu
+sudo pacman -U
+sudo pacman -Su
+sudo pacman -S alsa-card-profiles pipewire-media-session pipewire-pulse  pipewire pipewire-alsa
+vim .Xresources
+startx
+ll
+vim 
+htop
+sudo pacman -Su
+sudo pacman -S mesa
+cd dmenu
+cd dwm
+git commit -m "new colors"
+git push
+cd ../slstatus
+git push
+sudo pacman -S mpd
+mpd
+sudo mpd
+sudo vim /etc/timidity/timidity.cfg
+sudo pacman -S svix
+sudo pacman -S sxiv
+yt -F https://www.youtube.com/watch\?v\=VTpXNvmcbxA
+yt -f 22 https://www.youtube.com/watch\?v\=VTpXNvmcbxA
+cl
+cd st
+vim config.h 
+sudo make clean install
+vim config.h 
+cd st
+vim config.h 
+~
+vim .Xresources
+ll
+cl
+startx
+vim .Xresources
+cd st
+vim config.h 
+sudo make clean install
+vim config.h 
+cd st
+vim config.h 
+cd /run/timeshift/backup/timeshift-btrfs/snapshots/
+ll
+cd 2021-07-01_06-00-02
+l
+cd @home
+ll
+cd illusion
+ll
+cd st
+vim config.h 
+ll
+cd ..
+ll
+cd ..
+cd illusion
+cd st
+rm ~/st/config.h
+cp config.h ~/st
+~/st
+cl
+l
+sudo make clean install
+ll
+cd st
+vim config.h 
+cd st
+vim config.h 
+cd st
+sudo make clean install
+ll
+cd /run/timeshift/backup/timeshift-btrfs/snapshots/
+ll
+cd 2021-07-01_15-37-19
+cd @home
+cd illusion
+cd st
+vim config.h 
+cd st
+vim config.h 
+fc-list | grep Meslo
+vim .Xresources
+sudo make clean install
+ll
+pacman -Ss iosevka
+sudo pacman -S ttc-iosevka 
+sudo pacman -S ttf-iosevka 
+sudo pacman -S ttc-iosevka 
+pacman -Ss fira
+sudo pacman -S ttf-fira-code
+pacman -Ss comic | grep mono
+pacman -Ss comic
+ll
+clear
+fc-list | grep Fira
+cd st
+vim config.h 
+sudo make clean install
+ll
+cl
+fc-list | grep Io
+fc-list | grep Iosevka
+cd st
+cl
+vim config.h 
+sudo make clean install
+ll
+cd st
+vim config.h 
+sudo make clean install
+vim config.h 
+sudo make clean install
+vim config.h 
+cl
+sudo make clean install
+vim config.h 
+sudo make clean install
+ll
+cl
+neofetch
+startx
+ll
+cl
+vim config.h 
+vim .Xresources
+ll
+vim .Xresources
+cd st
+vim config.h 
+sudo wifi on
+sudo wifi-menu on
+vim .zsh_history
+wifi-menu
+vim .Xresources
+ll
+cl
+vim .Xresources
+ll
+vim .Xresources
+startx
+ll
+vim .Xresources
+man urxvt
+urxvt --help
+ll
+vim .Xresources
+startx
+ll
+cl
+vim .Xresources
+urxvt --help
+vim .Xresources
+cl
+xrdb
+cl
+startx
+ll
+cl
+vim .Xresources
+cl
+htop
+sudo systemctl disable /usr/lib/polkit-1/polkitd
+sudo systemctl disable polkit
+sudo systemctl stop polkit
+cl
+sudo systemctl disable thermald
+sudo systemctl stop thermald
+htop
+man upower
+man rtkit
+man rtkit-daemon
+sudo systemctl disable gvfs
+sudo systemctl disable gvfsd
+sudo systemctl status gvfs
+systemctl status gvfsd
+systemctl status gvfs
+systemctl status gvfs-fuse
+systemctl --user status gvfs
+systemctl --user status gvfsd
+cl
+sudo systemctl status
+sudo systemctl status | grep gvfs
+sudo systemctl status gvfs-daemon
+sudo systemctl status gvfs-daemon.service
+sudo systemctl disable gvfs-daemon.service
+sudo systemctl status | grep gvfs
+sudo systemctl status | grep gvfsd
+systemctl --user status gvfs-daemon
+systemctl --user disable gvfs-daemon
+systemctl --user stop gvfs-daemon
+cl
+htop
+man at-spi-bus-launcher
+sudo systemctl disable polkit
+sudo systemctl stop polkit
+systemctl --user disable polkit
+systemctl --user disable polkitd
+startx
+htop
+cd dwm
+vim config.h 
+cd dwm
+sudo make clean install
+cl
+startx
+vim
+sudo pacman -U
+sudo pacman -Su
+cl
+vim .vimrc
+startx
+vim .vimrc
+cd st
+vim config.h 
+vim .Xresources
+ll
+cl
+bash
+cl
+sudo wifi on
+sudo pacman -Syu
+sudo pacman -Su
+alsamixer
+sudo su
+startx
+pipewire
+paru -Aur
+paru -Sua
+paru -Rns linux-clear linux-clear-headers
+paru -Sua
+htop
+sudo systemctl enable pipewire-pulse
+pipewire-pulse
+alsamixer
+cl
+sudo timeshift-gtk
+vim .xinitrc
+cl
+sudo pacman -S polkit-gnome
+sudo pacman -Rns polkit-gnome
+sudo pacman -Rns grub-btrfs
+sudo pacman -S polkit-mate
+cl
+pacman -Ss mate
+pacman -Ss polkit
+sudo pacman -S mate-polkit
+cl
+startx
+vim .xinitrc
+cl
+startx
+sudo vim /etc/environment
+reboot
+startx
+neofetch
+cl
+htop
+mate-polkit
+cl
+pkexec gufw
+sudo vim /etc/environment
+sudo vim /etc/polkit-1/rules.d/49-rootpw_global.rules
+sudo vim /etc/polkit-1/rules.d/50-default.rules
+ll
+cl
+neofetch
+cl
+startx
+paru -S polkit-explorer
+sudo systemctl enable mate-polkit
+pkexec gufw
+cl
+groups illusion
+timeshift-launcher
+vim .xinitrc
+ll /usr/lib/mate
+ll /usr/lib/ | grep mate
+vim .xinitrc
+ll /usr/lib/mate-polkit
+cl
+startx
+timeshift-launcher
+vim .xinitrc
+ll /usr/lib/mate-polkit
+vim .xinitrc
+cl
+startx
+timeshift-launcher
+vim .xinitrc
+ll /usr/lib/mate-polkit
+vim .xinitrc
+ll /usr/lib/mate-polkit
+vim /etc/group
+sudo vim /etc/group
+pkexec gufw
+htop
+sudo pacman -R gufw
+sudo pacman -S gufw
+sudo systemctl enable polkit-mate-authentication-agent-1
+polkit-mate-authentication-agent-1
+vim .xinitrc
+sudo vim /etc/environment
+neofetch
+sudo visudo
+sudo vim /etc/environment
+neofetch
+cl
+startx
+neofetch
+cl
+reboot
+startx
+neofetch
+timeshift-launcher
+vim .xinitrc
+exec --no-startup-id /usr/lib/mate-polkit/polkit-mate-authentication-agent-1
+run /usr/lib/mate-polkit/polkit-mate-authentication-agent-1
+/usr/lib/mate-polkit/polkit-mate-authentication-agent-1
+systemctl status polkit.service
+cat /etc/shadow | grep pol
+sudo cat /etc/shadow | grep pol
+systemctl start polkitd.service
+systemctl start polkit.service
+systemctl --user start polkitd.service
+cl
+systemctl status polkitd.service
+systemctl --user status polkitd.service
+sudo vim /etc/pam.d/system-login
+passwd illusion
+sudo pacman -S libpam-cracklib
+pacman -Ss libpam
+sudo vim /etc/passwd
+sudo vim /etc/shadow
+sudo pacman -Rns sddm
+pacman -Ss pam
+sudo pacman -S libpwquality
+sudo vim /etc/passwd
+sudo vim /etc/pam.d/passwd
+ll usr/lib/security
+ll /usr/lib/security
+sudo pacman -S libpwquality
+ll /usr/lib/security
+ll /usr/lib32/security
+pacman -Ss pam_pwquality
+sudo vim /etc/pam.d/passwd
+ll /usr/lib32/security
+ll /usr/lib/security
+sudo vim /etc/pam.d/passwd
+passwd illusion
+sudo pacman -S sdf
+timeshift-launcher
+id polkitd
+ll
+chmod 755 linpeas.sh
+ll
+chmod 755 /home/illusion
+reboot
+exec --no-startup-id /usr/lib/mate-polkit/polkit-mate-authentication-agent-1
+exec /usr/lib/mate-polkit/polkit-mate-authentication-agent-1
+vim .xinitrc
+cl
+startx
+timeshift-launcher
+cl
+vim .xinitrc
+startx
+timeshift-launcher
+cl
+vim .xinitrc
+cl
+startx
+timeshift-launcher
+sudo vim /etc/environment
+/usr/lib/mate-polkit/polkit-mate-authentication-agent-1
+cl
+htop
+sudo umount /dwev/sda4
+sudo umount /dev/sda4
+sudo pacman -Rns mate-polkit
+sudo pacman -S polkit-gnome
+vim .xinitrc
+cl
+exec /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
+exec --no-startup-id /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
+startx
+timeshift-launcher
+pacman -Ss keyring | grep gnome
+sudo pacman -S gnome-keyring
+vim .xinitrc
+cl
+startx
+vim .xinitrc
+startx
+vim .xinitrc
+startx
+timeshift-launcher
+gufw-pkexec
+gufw
+sudo vim /etc/environment
+startx
+timeshift-launcher
+time
+timeshift-launcher
+vim .xinitrc
+cl
+startx
+timeshift-launcher
+systemd-logind
+sudo systemctl status systemd-logind
+pkexec timeshift-gtk
+sudo vim /etc/X11/Xwrapper.config
+pkexec timeshift-gtk
+vim  /usr/share/polkit-1/actions
+sudo pacman -S gufw
+cl
+pkexec gufw
+sudo pacman -S timeshift
+paru -S timeshift
+sudo vim u/sr/share/polkit-1/actions
+sudo vim /usr/share/polkit-1/actions
+cl
+cd .local/share
+ll
+cl
+~
+find ~ -name polkit
+sudo find / -name polkit
+vim  /usr/share/polkit-1/actions
+timeshift-launcher
+vim  /usr/share/polkit-1/actions
+sudo timeshift-gtk
+gksu
+cd /usr/share/polkit-1/actions
+ll
+vim .gsmartcontrol.policy
+vim org.gsmartcontrol.policy
+vim in.teejeetech.pkexec.timeshift.policy
+cd ~
+vim .xinitrc
+sudo vim /etc/environment
+cl
+vim .xinitrc
+cl
+htop
+cl
+startx
+timeshift-launcher
+pkexec timeshift-gtk
+cl
+pkexec gufw
+sudo timeshift-gtk
+eval $(gnome-keyring-daemon -s --components=pkcs11,secrets,ssh,gpg)
+gnome-keyring-daemon -s --components=pkcs11,secrets,ssh,gpg
+vim .xinitrc
+cl
+startx
+vim .xinitrc
+cl
+startx
+vim .xinitrc
+startx
+vim .xinitrc
+startx
+timeshift-launcher
+cl
+sudo vim /etc/X11/Xwrapper.config
+reboot
+startx
+ll
+clear
+timeshift-launcher
+cd /usr/share/polkit-1/actions
+sudo vim in.teejeetech.pkexec.timeshift.policy
+vim org.gsmartcontrol.policy
+sudo vim in.teejeetech.pkexec.timeshift.policy
+vim org.gsmartcontrol.policy
+sudo vim org.gsmartcontrol.policy
+sudo vim in.teejeetech.pkexec.timeshift.policy
+timeshift-launcher
+sudo vim in.teejeetech.pkexec.timeshift.policy
+cd /usr/share/polkit-1/actions
+sudo vim org.gsmartcontrol.policy
+timeshift-launcher
+sudo vim in.teejeetech.pkexec.timeshift.policy
+cd /usr/share/polkit-1/actions
+sudo vim in.teejeetech.pkexec.timeshift.policy
+timeshift-launcher
+cd /usr/share/polkit-1/actions
+vim com.ubuntu.pkexec.gufw.policy
+sudo pacman -S gparted
+cd /usr/share/polkit-1/actions
+vim org.gnome.gparted.policy
+sudo vim in.teejeetech.pkexec.timeshift.policy
+sudo timeshift-launcher
+cl
+pkexec gufw
+cl
+cd /usr/share/polkit-1/actions
+vim gufw
+vim com.ubuntu.pkexec.gufw.policy
+sudo vim in.teejeetech.pkexec.timeshift.policy
+sudo vim gufw
+sudo vim com.ubuntu.pkexec.gufw.policy
+pkexec gufw
+cl
+cd /usr/share/polkit-1/actions
+cd /usr/share/polkit-1
+ll
+cd rules.d
+sudo su
+startx
+htop
+cl
+vim .Xresources
+sudo pacman -Syu
+vim .Xresources
+cd dwm
+vim config.h 
+sudo make clean install
+cd dwm
+vim config.h 
+sudo make clean install
+ll
+cl
+alsamixer
+cl
+vim /etc/hosts
+cd .vim
+l
+vim .vimrc
+vim
+vim .vimrc
+cd .vim
+ll
+cd pack
+ls
+cd plugins
+ls
+cd start
+ls
+cd lightline
+l
+~
+cl
+vim .vimrc
+vim
+vim .vimrc
+printf "\x1b[38;2;255;100;0mTRUECOLOR\x1b[0m\n"
+vim .vimrc
+cl
+vim
+curl -fLo ~/.vim/autoload/plug.vim --create-dirs \\
+    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+vim .vimrc
+ll .vim
+mkdir -p ~/.vim/bundle
+cd ~/.vim/bundle
+git clone git://github.com/godlygeek/tabular.git
+~
+vim .vimrc
+vim .Xresources
+mpv ~/Videos/NewPipe/Vim\ Tutorial\ Part\ 6\ -\ How\ to\ Use\ Macros.mp4
+ll
+cd st
+vim config.h 
+cd st
+sudo make clean install
+ll
+cl
+cd st
+vim config.h 
+sudo make clean install
+ll
+cd st
+vim config.h 
+vim .config/kitty
+vim .config/kitty/kitty.conf
+sudo make clean install
+vim config.h 
+sudo make clean install
+vim config.h 
+sudo make clean install
+vim config.h 
+sudo make clean install
+cl
+vim config.h 
+sudo make clean install
+ll
+cd st
+vim config.h 
+sudo make clean install
+ll
+clear
+cd st
+vim config.h 
+cd st
+vim config.h 
+sudo make clean install
+cl
+vim config.h 
+cd st
+vim config.h 
+sudo make clean install
+cd st
+vim config.h 
+sudo make clean install
+vim config.h 
+mpv ~/Videos/NewPipe1/Tmux\ Tutorial.mp4
+vim .Xresources
+cl
+startx
+ll
+clear
+ll
+cl
+ll
+clear
+ll
+clear
+vim
+vim .Xresources
+startx
+ll
+cd st
+l
+clear
+ll
+cl
+cd st
+vim config.h 
+sudo make clean install
+ll
+vim .zsh_aliases
+ll
+clear
+vim .zsh_aliases
+ll
+cl
+bas
+bash
+ll
+vim .zshrc
+vim .zsh_aliases
+vim .bashrc
+bash
+vim .bashrc
+neofetch
+cd st
+vim config.h 
+sudo make clean install
+vim config.h 
+paru -S numix-gtk-theme
+neofetch
+vim .Xresources
+cl
+neofetch
+sudo vim /etc/environment
+cd dwm
+vim config.h 
+vim .Xresources
+paru -S numix-gtk-theme
+sudo make clean install
+startx
+cd /usr/share/themes
+ll
+cd Numix
+ll
+sudo vim /etc/gtk-2.0/gtkrc
+sudo vim /etc/gtk-3.0/settings.ini
+vim .gtkrc-2.0
+l
+sudo chown illusion:illusion .gtkrc-2.0
+vim .gtkrc-2.0
+startx
+neofetch
+vim .gtkrc-2.0
+cd /usr/share/themes
+l
+cd /usr/share/themes
+cd Materia-dark
+l
+cd gtk-2.0
+l
+vim apps.rc
+cd ..
+l
+vim index.theme
+~
+c;
+cl
+cd paru
+l
+cd pkg
+l
+cd paru
+ll
+~
+cd .cache/paru
+l
+cd clone
+l
+git clone https://github.com/nana-4/materia-theme.git
+vim materia-theme
+vim .gtkrc-2.0
+cl
+paru -S arc-theme
+paru -S arc-gtk-theme
+vim .gtkrc-2.0
+ll /usr/share/themes
+sudo vim /etc/gtk-3.0/settings.ini
+sudo vim /etc/gtk-2.0/gtkrc
+vim .config/gtk-3.0/settings.ini
+cls
+cl
+startx
+vim .gtkrc-2.0
+ll /usr/share/themes
+sudo vim /etc/gtk-2.0/gtkrc
+sudo vim /etc/gtk-3.0/settings.ini
+vim .config/gtk-3.0/settings.ini
+cl
+start
+startx
+ll /usr/share/themes
+vim .config/gtk-3.0/settings.ini
+vim .gtkrc-2.0
+sudo vim /etc/gtk-3.0/settings.ini
+sudo vim /etc/gtk-2.0/gtkrc
+startx
+sudo vim /etc/gtk-2.0/gtkrc
+sudo vim /etc/gtk-3.0/settings.ini
+c;
+cl
+vim .gtkrc-2.0
+sudo vim /etc/gtk-3.0/settings.ini
+vim .config/gtk-3.0/settings.ini
+sudo vim /etc/gtk-3.0/settings.ini
+vim .config/gtk-3.0/settings.ini
+startx
+cd dwm
+vim config.h 
+pacman -Ss color-picker
+pacman -Ss color | grep picker
+pacman -Ss color | grep pick
+sudo pacman -S gpick
+sudo make clean install
+startx
+vim config.h 
+sudo timeshift-launcher
+qogir
+cl
+ll /var/cache/pacman/pkg | grep cursor
+cl
+ll .cache/paru/clone | grep q
+pacman -Ss qogir
+cl
+paru -S qogir
+paru -Ss qogir
+paru -S fluent-cursor-theme-git
+cd dwm
+vim config.h 
+ll /usr/share/ic
+ll /usr/share/icons
+vim .gtkrc-2.0
+ll /usr/share/icons/Fluent-
+ll /usr/share/icons/Fluent
+ll /usr/share/icons/Fluent-cursors
+ll /usr/share/icons/Fluent-cursors/cursors
+ll /usr/share/icons/Fluent-cursors
+vim .config/gtk-3.0/settings.ini
+sudo vim /etc/gtk-3.0/settings.ini
+sudo vim /etc/gtk-2.0/gtkrc
+cl
+startx
+sudo vim /etc/environment
+cd /usr/share/themes
+ll
+cd Arc-Dark
+ll
+cl
+vim index.theme
+sudo vim index.theme
+cl
+reboot
+startx
+cd dwm
+sudo make clean install
+startx
+ll
+vim .Xresources
+cd dwm
+vim config.h 
+vim .Xresources
+cl
+startx
+ll
+clear
+neofetch
+sudo pacman -S lxappearance
+rm .gtkrc-2.0
+rm .config/gtk-3.0
+rm -r .config/gtk-3.0
+cl
+startx
+vim /etc/gtk-3.0/settings.ini
+sudo vim /etc/gtk-3.0/settings.ini
+sudo vim /etc/gtk-2.0/gtkrc
+cl
+startx
+sudo timeshift-launcher
+sudo gufw
+sudo gufw-pkexec
+cd dwm]
+cd dwm
+git push
+git commit -m "new colors"
+git config --global TheIllusion24
+git config --global user.email ggfekarc@gmail.com
+git config --global user.name TheIllusion24
+git commit -m "new colors"
+git push
+cd ../slstatus
+git commit -m "new icons"
+git commit -a "new icons"
+ll
+clear
+ll
+clear
+cl
+clear
+cd slstatus
+vim config.
+vim config.h
+cd slstatus
+sudo make clean install
+cl
+startx
+cd slstatus
+ll
+vim config.h
+sudo make clean install
+cl
+startx
+cd slstatus
+vim config.h
+sudo make clean install
+cl
+startx
+htop
+cl
+paru -Ss htim
+sudo pacman -Rns htop
+cl
+paru -S htim
+cd dmenu
+cd DWM/dmenu
+ll
+vim config.h
+paru -S htim
+htop
+vim .Xresources
+cl
+cd dwm
+vim config.
+vim config.h
+cl
+vim config.h
+\:
+ll
+cl
+~
+l
+clear
+neofetch
+cl
+htop
+cl
+cd st
+ll
+vim config.h
+sudo vim /etc/gtk-2.0/gtkrc
+sudo vim /etc/gtk-3.0/settings.ini
+cp st stm
+cp -r st stm
+ll
+cd stm
+ll
+vim config.h
+pacman -Ss wget
+sudo pacman -S wget
+curl -o https://tools.suckless.org/dmenu/patches/numbers/dmenu-numbers-4.9.diff dmenu-numbers-4.9.diff
+curl -o https://tools.suckless.org/dmenu/patches/numbers/dmenu-numbers-4.9.diff > dmenu-numbers-4.9.diff
+curl https://tools.suckless.org/dmenu/patches/numbers/dmenu-numbers-4.9.diff > dmenu-numbers-4.9.diff
+ll
+cl
+cp -r dwm dwmbak
+cd stm
+vim config.h
+sudo make clean install
+ll
+cd stm
+vim config.h
+cl
+vi \\
+q
+vim config.h
+sudo make clean install
+cd stm
+vim config.h
+cl
+vim .Xresources
+cl
+startx
+vim .Xresources
+cd dwm
+ll
+cd ..
+ll
+mv dmenu-numbers-4.9.diff dwm
+cd dwm
+mv dmenu-numbers-4.9.diff ../DWM/dmenu
+cd ../DWM/dmenu
+l
+cl
+ll
+cd ..
+cp -r dmenu dmenubak
+cd dmenu
+cl
+patch -o dmenu-numbers-4.9.diff
+cl
+patch-p1 > dmenu-numbers-4.9.diff
+patch -p1 > dmenu-numbers-4.9.diff
+vim dmenu-numbers-4.9.diff
+ll
+cd dwm
+cd ~
+cd DWM/dmenu
+ll
+rm dmenu-numbers-4.9.diff
+wget https://tools.suckless.org/dmenu/patches/numbers/dmenu-numbers-4.9.diff
+l
+vim dmenu-numbers-4.9.diff
+cp dmenu-numbers-4.9.diff DWM/dmenu
+cd DWM/dmenu
+patch -p1 > dmenu-numbers-4.9.diff
+vim dmenu-numbers-4.9.diff
+l
+rm dmenu-numbers-4.9.diff
+wget https://tools.suckless.org/dmenu/patches/numbers/dmenu-numbers-4.9.diff
+vim dmenu-numbers-4.9.diff
+patch -p1 > dmenu-numbers-4.9.diff
+cd /usr/lib/kbd/console
+vim .vimrc
+htop
+cl
+vim .vimrc
+cd .vim
+ll
+cd autoload
+lk
+ll
+cd plug.vim
+cd ..
+ll
+cd plugged
+l
+cd ..
+vim .vimrc
+cd .vim
+ll
+cd plugged
+ll
+cd ..
+ll
+ll pack
+ll pack/plugins
+ll pack/plugins/start
+ll pack/plugins/start/lightline/autoload
+touch .zsh_vimmode
+vim .zsh_vimmode
+vim .vimrc
+vim .zshrc
+vim .zsh_vimmode
+vim .zshrc
+run-help j
+vim .zsh_vimmode
+sudo pacman -S vi
+vi
+cll
+cl
+vi
+sudo vim /etc/fstab
+vim .zshrc
+cd dwm
+vim config.
+vim config.h
+~
+vim .zshrc
+vim .zsh_plugins
+cd dwm
+ll
+cle
+cl
+vim config.h
+ll
+cl
+cd dwm
+vim config.h
+vim config.mk
+sudo pacman -S xinerama
+vim config.def.h
+cl
+vim dwm.c
+vim shiftview.c
+cl
+vim drw.c
+vim config.h
+startx
+cd dwm
+vim config.h
+cl
+ext
+exit
+ll
+startx
+ll
+cl
+startx
+git clone https://gitlab.com/dwt1/wallpaper.git
+git clone https://gitlab.com/dwt1/wallpapers.git
+cd dwm
+vim config.h
+ll Warpinator
+ll
+git config --global core.compression 0
+git fetch --unshallow 
+vim gitconfig
+~
+cl
+vim .gitconfig
+git fetch --depth=2147483647
+vim .gitconfig
+git clone --depth 1 https://gitlab.com/dwt1/wallpapers.git
+lsblk
+ll
+cl
+cd 
+cd st
+cd ../stm
+sudo make clean install
+cd /run/media/illusion/1c715daf-7e14-4e9c-956c-cffa4216c675
+cd home/illusion
+vim
+ll
+git clone https://git.suckless.org/tabbed
+cd tabbed
+l
+vim config.def.h
+cd dwm
+vim config.
+vim config.h
+cd dwm
+vim config.h
+pacman -Ss xlib
+paru -Q
+cl
+paru -Syu
+sudo pacman -S firejail nodejs papirus-icon-theme
+sudo pacman -S firejail nodej
+sudo pacman -S firejail nodejs
+sudo timeshift
+sudo timeshift-gtk
+cl
+sudo vim /etc/environment
+cd /usr/share/themes/Default/
+l
+cd gtk-2.0-key
+ll
+vim gtkrc
+cd ..
+ll
+cl
+ll
+cd Arc-Dark
+ll
+sudo vim index.theme
+cd gtk-2.0
+sudo vim gtkrc
+sudo vim apps.rc
+exit
+cl
+vim .Xresources
+ll /boot
+sudo su
+sudo pacman -Su
+jailcheck
+sudo firecfg
+sudo aa-enforce /etc/apparmor.d/*
+cl
+startx
+firejail --list
+ll
+chmod -x linpeas.sh
+ll
+cl
+vim .vimrc
+vim .zshrc
+cl
+ll
+cl
+l
+cl
+mkdir zsh
+mpd Music/Mozart_-_Classical_Music_for_Brain_Power\(128k\).m4a
+v
+htop
+cd slstatus
+ll
+cl
+vim config.h
+cp config.h config.h.bak
+vim config.h
+sudo make clean install
+cl
+startx
+ll
+cl
+pipewire-pulse
+ll
+ll
+ll
+ll
+ll
+nvim .config/shell/zsh/zsh_history
+cl
+ll
+cl
+nvim .zshrc
+nvim voidrice/.config/zsh/.zshrc
+nvim .zshrc
+ll
+ll
+ll
+ll
+ll
+nvim .config/shell/zsh/zsh_history
+nvim .zshrc
+ll
+sudo su
+.
+man awk
+cl
+l
+cl
+cl
+nvim .zprofile
+l
+cl
+cl
+ls
+cl
+ncmpcpp
+neofetch
+neofetch
+neomut
+clear
+pacman -Ss neomut
+pacman -Ss muffin
+ll
+cle
+ar
+r
+ar
+r
+ar
+r
+ar
+cl
+el
+sdmcbmbmkhbhghgghkjggjgklhghgklhgl;
+cl
+neofetch
+clear
+clear
+cll
+ear
+cl\\
+cl
+cl
+cl
+le
+l
+lclcl\\
+clear
+cleararar//\=\\
+exit
+cel;cle
+clear
+clear
+htop
+neofetch
+htop
+cl
+nvim .xinitrc
+pacman -Ss polkit
+sudo pacman -R polkit-gnome polkit
+sudo pacman -R polkit-gnome polkit brltty gufw libvirt networkmanager rtkit udisk2
+sudo pacman -R polkit-gnome polkit brltty gufw libvirt networkmanager rtkit udisks2
+nvim .xinitrc
+neofetch
+l
+l
+l
+l
+l
+clear
+ll
+clear
+ll
+rm '#linpeas.sh#'
+cl
+ll
+cl
+ll
+nvim f
+cl
+lf
+cl
+l;
+cl
+ll
+nvim init.vim
+nvim g
+nvim Music
+cl
+neofetch
+neofetch
+cl
+ll
+clear
+nvim voidrice/.config/zsh/.zshrc
+cl
+paru -S virtualbox
+cl
+sudo pacman -S virtualbox
+cl
+exit
+htop
+cl
+htop
+htop
+htop
+htop
+htop
+htop
+htop
+htop
+htop
+htop
+htop
+htop
+htopq
+htopq
+htop
+htop
+htop
+htop
+htop
+htop
+htop
+htop
+htop
+htop
+htop
+htop
+htop
+cl
+exit
+htop
+clear
+ll /var/cache/pacman/pkg
+ll /var/cache/pacman/pkg | grep preload
+ll /var/cache/pacman/pkg | grep zsh
+cl
+clear
+sudo nvim /etc/fstab
+sudo pacman -Rns preload --nosavwe
+sudo pacman -Rns preload --nosave
+sudo pacman -S preload
+neofetch
+cl
+NEOFE
+neofetch
+uptime
+neofetch
+neofetch
+sudo systemctl disable preload
+sudo systemctl stop preload
+htop
+nevim
+nvim
+cl
+htop
+clear
+nvim /etc/hosts
+nano
+sudo pacman -S nano
+cl
+sudo pacman -S neovim
+sudo pacman -S vim
+cl
+vim
+cl
+nvim .zprofile
+rm .zprofile
+cd .config
+ls
+mpv Videos/Mental\ Outlaw/Block\ Ads\ and\ Unwanted\ Sites\ Without\ a\ Browser\ Addon.mp4
+cl
+mpv Videos/Mental\ Outlaw/Vim\ vs\ NeoVim,\ What_s\ the\ Difference_\ \ Which\ Should\ You\ Use_.mp4
+l
+cl
+cp .config/nvim/init.vim .vimrc
+vim
+alsamixer
+vim .zshrc
+cl
+vim .vimrc
+vim .vimrc
+cl
+vim .vimr
+vim .vimrc
+startx
+cl
+exit
+vim .vimrc
+cd .vim
+ls
+dc ..
+cd ..
+cp -r .config/nvim/undodir .vim
+ls
+vim .vimrc
+vim .vimrc
+htop
+nvim
+vim .vimrc
+vim .vimrc
+vim .vimrc
+nvim .vimrc
+vim /etc/fstab
+cl
+vim tmux
+vim /etc/fstab
+vim /etc/fstab
+vim /etc/fstab
+nano /etc/fstab
+mpv Videos/Mental\ Outlaw/After\ Installing\ Arch\ \&\ Gentoo\ -\ Setting\ up\ a\ Graphical\ Environment\ and\ Users.mp4
+mpv Videos/Mental\ Outlaw/After\ Installing\ Arch\ \&\ Gentoo\ -\ Setting\ up\ a\ Graphical\ Environment\ and\ Users.mp4
+neofetch
+cl
+neofetch
+cl
+htop
+cl
+exit
+mpv Videos/Mental\ Outlaw/Sudo\ is\ a\ Bloated\ Insecure\ Mess\ \(install\ doas\).mp4
+mpv Videos/Mental\ Outlaw/Doas\ -\ The\ Better\ Less\ Bloated\ Alternative\ to\ Sudo.mp4
+nvim .config/gtk-3.0/settings.ini
+nvim .gtkrc-2.0
+sudo nvim /etc/gtk-2.0/gtkrc
+sudo nvim /etc/gtk-3.0/settings.ini
+ll /usr/share/themes
+nvim .Xresources
+nvim My\ Projects/st/config.h
+nvim .Xresources
+ll
+nvim My\ Projects/st/config.h
+cl
+nvim .config/nvim/init.vim
+sudo su
+sudo pcmanfm
+cl
+sudo nvim /root/.config/nvim/init.vim
+nvim .config/nvim/init.vim
+sudo nvim /root/.config/nvim/init.vim
+sudo nvim /root/.config/nvim/init.vim
+sudo nvim /root/.config/nvim/init.vim
+sudo nvim /root/.config/nvim/init.vim
+sudo su
+sudo su
+cd .config/nvim
+ls
+nvim init.vim
+nvim init.vim
+nvim init.vim
+cd .config/nvim
+ls
+cd plugged
+ls
+cd gruvbox
+ls
+nvim README.md
+cd ..
+cd ..
+nvim init.vim
+nvim init.vim
+nvim init.vim
+vim
+nvim
+nvim .config/nvim/init.vim
+nvim .config/nvim/init.vim
+nvim .config/nvim/init.vim
+nvim .config/nvim/init.vim
+nvim .config/nvim/plugged/lightline-gruvbox-dark.vim/README.md
+nvim .config/nvim/plugged/lightline-gruvbox-dark.vim/README.md
+nvim .config/nvim/init.vim
+nvim
+alsamixer
+nvim
+nvim
+cd st
+jump
+cd My\ Projects/st
+nvim config.h
+sudo make clean install
+ll
+cl
+cd My\ Projects/st
+nvim config.h
+sudo make clean instal
+sudo make clean install
+ll
+cl
+cd My\ Projects/st
+nvim config.h
+sudo make clean install
+nvim .Xresources
+ll
+cd My\ Projects/st
+nvim config.h
+nvim .Xresources
+nvim My\ Projects/st/config.h
+ll
+nvim .Xresources
+nvim My\ Projects/st/config.h
+nvim .Xresources
+ll
+nvim My\ Projects/st/config.h
+npm install -g neovim
+nvim
+nvim
+ncmpcpp
+
+alsamixer
+nvim
+cl
+fc-list
+fc-list | grep Fira
+fc-list | grep Fira
+cl
+cd My\ Projects/st
+nvim config.h
+cd My\ Projects/st
+sudo make clean install
+cl
+cd My\ Projects/st
+nvim config.h
+sudo make clean install
+ll
+cl
+neofetch
+cl
+l
+cl
+nvim .fonts.conf
+cd My\ Projects/st
+nvim config.
+nvim config.h
+cd ../dwm
+ls
+nvim config.h
+cd My\ Projects/
+cd dwm
+sudo make clean install
+cl
+cd My\ Projects/dwm
+ls
+nvim config.h
+sudo make clean install
+cd My\ Projects/dwm
+nvim config.h
+sudo make clean install
+fc-list | grep monospace
+cd My\ Projects/dwm
+nvim config.h
+sudo make clean install
+cd My\ Projects/dwm
+nvim config.h
+sudo make clean install
+l
+cl
+ll
+cl
+ll
+cl
+make
+ll
+clear
+cd My\ Projects/st
+nvim config.h
+sudo make clean install
+ll
+cl
+cd My\ Projects/st
+nvim config.h
+sudo make clean install
+nvim 
+nvim 
+nvim :
+nvim
+cd My\ Projects
+ls
+cd dmenu
+ls
+nvim config.h
+dmenu
+alsamxier
+alsamixer
+man dmenu
+dmenu -b
+cl
+dmenu -h
+dmenu -r
+dmenu run
+ncmpcpp
+alsamixer
+mpv Videos/Mental\ Outlaw/clear\ linux.mp4
+cat /sys/devices/system/cpu/cpu0/cpufreq/scaling_governor
+cat /sys/devices/system/cpu/cpu0/thermal_throttle/core_throttle_count
+sudo nvim /etc/fstab
+sudo nvim /etc/fstab
+sudo nvim /root/.config/nvim/init.vim
+sudo nvim /root/.config/nvim/init.vim
+\:q
+nvim .zshrc
+nvim
+nvim .config/nvim/init.vim
+wifi on
+sudo pacman -Syu
+sudo pacman -S at-spi2-core bluez-libs brltty gtk3 harfbuzz harfbuzz-icu libcap linux-lts linux-lts-headers llvm-libs mbedtls qt5-base qt5-tools xorg-server xorg-server-common xorg-server-devel xorg-server-xephyr xorg-server-xnest xorg-server-xvfb
+sudo pacman -S at-spi2-core bluez-libs brltty gtk3 harfbuzz harfbuzz-icu libcap linux-lts linux-lts-headers llvm-libs mbedtls qt5-base qt5-tools xorg-server xorg-server-common xorg-server-devel xorg-server-xephyr xorg-server-xnest xorg-server-xvfb
+sudo timeshift-gtk
+cd My\ Projects/dwm
+nvim config..h
+nvim config.h
+sudo make clean install
+nvim
+ubuntu
+cl
+nvim .Xresources
+cl
+htop
+startx
+cl
+startx
+cl
+startx
+cl
+startx
+cl
+startx
+cl
+startx
+cl
+startx
+cl
+startx
+cl
+startx
+cl
+startx
+cl
+starts
+startsx
+startx
+cl
+startx
+cl
+startx
+cl
+startx
+nvim
+cl
+neofetch
+cl
+man
+man linux
+man linux-lts
+nvim
+paru -Sua
+sudo pacman -S dunst
+sudo pacman -s unclutter
+sudo pacman -S unclutter
+nvim .xinitrc
+nvim
+nvim voidrice/.xprofile
+ll
+nvim /etc/dunst/dunstrc
+cp /etc/dunst/dunstrc ~/.config/dunst/dunst
+mkdir .config/dunst
+cp /etc/dunst/dunstrc ~/.config/dunst/dunst
+nvim .config/dunst/dunst 
+sudo pacman -Syu
+sudo pacman -S gnome-boxes
+nvim
+mpv Videos/Luke\ Smith/Start\ Turning\ vim\ into\ a\ _comfy_\ IDE\!.mp4
+nvim
+sudo pacman -S xclip
+nvim
+cl
+sudo pacman -Rns linux-hardened --nosave
+sudo pacman -S linux
+doom sync
+clear
+htop
+cl
+ll
+nvim .Xresources
+c;
+cl
+ll
+cl
+htop[
+htop
+c;
+cl
+htop
+cl
+htop
+cl
+cat /sys/devices/system/cpu/cpu0/cpufreq/scaling_governor
+nvim .Xresources
+sudo pacman -S rxvt-unicode
+cl
+ll
+ll
+cl
+ll
+
+nvim .Xresources
+ll
+cl
+nvim .Xresources
+cd My\ Projects/st
+nvim config.h
+~
+cl
+nvim .Xresources
+cd My\ Projects/st
+sudo make clean install
+ll
+clear
+alsamixer
+pwd
+mpv Videos/Mental\ Outlaw/Bash\ Shell\ Scripting\ for\ Beginners\ 2019.mp4
+mpv Videos/Mental\ Outlaw/MPV\ -\ A\ Lightweight\ Powerful\ Video\ Player\ for\ Linux\ ðƒ¿¤ƒ¸ðƒ¿ƒ¯¾ðƒ¿ƒ°§ðƒ¿ƒ²ªðƒ¿ƒ¯¾.mp4
+cl
+mpv Videos/Mental\ Outlaw/Intro\ to\ MPV\ +\ Lua\ Scripts.mp4
+cl
+sudo -S
+sudo -V
+sudo visudo
+cl
+nvim
+vim
+cd .vin
+cd .vim
+ls
+~
+cl
+vim .vimrc
+vim .vimrc
+vim .config/nvim/init.vim
+cd .vim
+ls
+cd plugged
+ls
+cd My\ Projects/st
+vim config.h
+nvim config.h
+sudo nvim /etc/fstab
+cl
+ncmpcpp
+alsamixer
+sudo nvim /etc/environment
+hto
+htop
+wifi off
+htop
+htop
+cl
+wifi on
+cl
+ncmpcpp
+hotp
+htop
+urxvt
+ll
+vim
+nvim
+cl
+neofetch
+cl
+neofetch
+cl
+nvim .vimrc
+cd .config/nvim
+ls
+nvim init.vim
+nvim init.vim
+nvim init.vim
+~
+cl
+nvim .Xresources
+ll
+cl
+nvim My\ Projects/dwm/config.h
+cl
+ll
+cl
+chmod -x linpeas.sh
+cl
+ll
+cl
+ll /home
+wifi off
+clear
+htop
+alsamixer
+sudo pacman -S fonts
+pacman -Ss fonts
+cl
+pacman -Ss fonts
+cl
+pacman -Ss console
+cl
+pacman -Ss peak
+mpv Videos/Mental\ Outlaw/How\ To\ Use\ Whonix.mp4
+cd My\ Projects/st
+nvim config.h
+sudo make clean install
+cd My\ Projects/st
+nvim config.h
+sudo make clean install
+cd My\ Projects/st
+nvim config.h
+sudo make clean install
+ll
+sudo pacman -S audacity
+neofetch
+nvim .zshrc
+nvim .zshrc
+mpv Videos/Mental\ Outlaw/Audacity\ Gets\ Sneeded.mp4
+mpv Videos/Distrotube/Replace\ Your\ Bloated\ Image\ Viewer\ With\ SXIV.mp4
+mpv Videos/Distrotube/Vim\ Can\ Save\ You\ Hours\ Of\ Work.mp4
+ncmpcpp
+alsamixer
+alsamixer
+alsamixer
+ncmpcpp
+ncmpcpp
+mpv Videos/Mental\ Outlaw/Gaming\ on\ Linux.mp4
+mpv Videos/Mental\ Outlaw/Doas\ -\ The\ Better\ Less\ Bloated\ Alternative\ to\ Sudo.mp4
+cl
+man sudo]
+man sudo
+sudo pacman -S doas
+cl
+ll
+My\ Projects
+ls
+DWM
+ls
+cd st
+ls
+ls
+ls
+ls
+sl
+ls
+ls
+ll
+sudo btrfs scrub start /
+sudo btrfs scrub status /
+sudo btrfs scrub status /
+sudo btrfs scrub status /
+sudo btrfs scrub status /
+sudo btrfs scrub status /
+sudo btrfs scrub status /
+sudo btrfs scrub status /
+sudo btrfs scrub status /
+sudo btrfs scrub status /
+sudo btrfs scrub status /
+sudo btrfs scrub status /
+sudo btrfs scrub status /
+sudo btrfs scrub status /
+sudo btrfs scrub status /
+sudo btrfs scrub status /
+sudo btrfs scrub status /
+sudo btrfs scrub status /
+sudo btrfs scrub status /
+sudo btrfs scrub status /
+sudo btrfs scrub status /
+sudo btrfs scrub status /
+sudo btrfs scrub status /
+sudo btrfs scrub status /
+sudo btrfs scrub status /
+sudo btrfs scrub status /
+sudo btrfs scrub status /
+sudo btrfs scrub status /
+sudo btrfs scrub status /
+sudo btrfs scrub status /
+sudo btrfs scrub status /
+sudo btrfs scrub status /
+sudo btrfs scrub status /
+sudo btrfs scrub status /
+sudo btrfs scrub status /
+sudo btrfs scrub status /
+sudo btrfs scrub status /
+sudo btrfs scrub status /
+sudo btrfs scrub status /
+sudo btrfs scrub status /
+sudo btrfs scrub status /
+sudo btrfs scrub status /
+sudo btrfs scrub status /
+sudo btrfs scrub status /
+sudo btrfs scrub status /
+sudo btrfs scrub status /
+sudo btrfs scrub status /
+sudo btrfs scrub status /
+sudo btrfs scrub status /
+sudo btrfs scrub status /
+sudo btrfs scrub status /
+sudo btrfs balance start -musage=50 -dusage=50 /
+sudo btrfs subv list /home
+cl
+lsblk
+cl
+sudo btrfs filesystem defragment -rv /
+nvim
+sudo timeshift-gtk
+cl
+neofetch
+mpv Videos/Distrotube/Keep\ Politics\ Out\ Of\ Free\ And\ Open\ Source\ Software.mp4
+nvim My\ Projects/dwm/config.h
+nvim
+ncmpcpp
+alsamixer
+cpu
+cl
+cat /sys/devices/system/cpu/cpu0/cpufreq/scaling_governor
+cat /sys/devices/system/cpu/cpu0/cpufreq/scaling_governor
+cat /sys/devices/system/cpu/cpu0/cpufreq/scaling_governor
+neofetch
+cl
+sudo pacman -S rofi
+cl
+rofi -show run
+sudo pacman -Rns rofi --nosave
+sudo pacman -S rofi
+cl
+xterm
+sudo pacman -S ranger
+cl
+ranger
+cl
+lf
+sudo pacman -Rns ranger --nosave
+nvim .zshrc
+nvim .zshrc
+ll
+doom
+cl
+man doom
+man emacs
+cl
+nvim .Xresources
+xrdb .Xresources
+ll
+cq
+nvim
+nvim
+nvim
+cl
+nvim .config/kitty/kitty.conf
+ll
+nvim .config/kitty/kitty.conf
+nvim .Xresources
+ncmpcpp
+ncmpcpp
+startx
+cl
+startx
+cl
+startx
+cl
+startx
+cl
+startx
+htop
+htop
+reboot
+wifi on
+nvim
+alsamixer
+sudo pacman -Syu
+mpv Videos/Rob\ Braxman\ Tech/How\ does\ an\ EMP\ work_.mp4
+sudo pacman -S firefox-esr
+sudo pacman -S firefox
+neovim
+mpv Videos/Mental\ Outlaw/clear\ linux.mp4
+cd dwm
+PPSSPPSDL
+cl
+cd My\ Projects/dwm
+ls
+nvim config.h
+cd My\ Projects/dwm
+sudo make clean install
+nvim config.h
+sudo make clean install
+cd My\ Projects/slstatus
+l;s
+cl
+ls
+nvim config.h
+lf
+cl
+bsah
+bash
+bash
+bash
+dash
+sudo pacman -S dash
+sudo pacman -S dash
+nvim /etc/pacman.
+nvim /etc/pacman.conf
+neofetch
+cl
+htop
+cd My\ Projects/dwm
+nvim config.hg
+nvim config.h
+feh
+clclcl
+lc
+cl
+sid
+cl
+sed
+neofetch
+alsamixer
+ncmpcpp
+ncmpcpp
+nvim .config/ncmpcpp/config
+htop
+cl
+nvim
+nvim /etc/fstab
+sudo pacman -S vim
+wifi
+ncmpcpp
+cl
+mpv Videos/Luke\ Smith/Why\ I\ DON_T\ Use\ EMACS\!.mp4
+mpv
+cl
+exit
+htop
+cl
+htop
+cl
+htop
+cl
+htop
+cl
+]
+cl
+ll
+cl
+man md
+cl
+nvim
+sudo pacman -S micro
+yt -f https://www.youtube.com/watch?v=nOhlk3mpgmM&list=PL3cu45aM3C2DJVGfCjSBB1yD9YkC7q27-&index=7
+yt -F https://www.youtube.com/watch?v=nOhlk3mpgmM&list=PL3cu45aM3C2DJVGfCjSBB1yD9YkC7q27-&index=7
+nvim .config/zsh/zsh_aliases
+yt https://www.youtube.com/watch?v=nOhlk3mpgmM&list=PL3cu45aM3C2DJVGfCjSBB1yD9YkC7q27-&index=7
+yt -F https://www.youtube.com/watch?v=nOhlk3mpgmM&list=PL3cu45aM3C2DJVGfCjSBB1yD9YkC7q27-&index=7
+yt https://www.youtube.com/watch?v=nOhlk3mpgmM&list=PL3cu45aM3C2DJVGfCjSBB1yD9YkC7q27-&index=7
+yt https://www.youtube.com/watch?v=nOhlk3mpgmM&list=PL3cu45aM3C2DJVGfCjSBB1yD9YkC7q27
+dunst
+htop
+sudo pacman -S xfce4-power-manager
+sudo pacman -Rns xfce4-power-manager --nosave
+git clone https://github.com/LukeSmithxyz/dwm.git
+mupdf
+sudo pacman -Syu
+sudo pacman -S webkit2gtk rust
+sudo pacman -R linux-hardened-headers
+sudo pacman -Rns linux-hardened-headers --nosave
+cl
+ll
+clear
+nvim
+nvim .config/nvim
+nvim
+nvim .config/nvim
+nvim
+sudo su
+nvim
+nvim .config/nvim
+nvim
+nvim
+nvim .config/nvim/init.vim
+sudo pacman -Rns vim --nosave
+nvim voidrice/.config/shell
+nvim .zshrc
+nvim .config/zsh/zsh_aliases
+nvim .config/zsh/zsh_aliases
+nvim .zshrc
+nvim .config/zsh/zsh_aliases
+ls
+ls
+ls
+ls
+nvim .zshrc
+cl
+ll
+nvim .config/zsh/zsh_aliases
+l
+cl
+ll
+nvim .config/zsh/zsh_aliases
+ls
+cl
+ll
+cl
+l
+nvim -d
+ll
+ls
+cl
+ls
+nvim voidrice/.config/shell/aliasrc
+pacman -Ss xbps
+nvim voidrice/.config/shell/aliasrc
+nvim voidrice/.config/shell/aliasrc
+e
+cl
+pacman -Ss stow
+ll
+cl
+l
+nvim .viminfo
+nvim /etc/fstab
+cl
+sudo nvim /root/.config/nvim/init.lua
+sudo nvim /root/.config/nvim/init.vim
+sudo nvim /root/.config/nvim/init.vim
+sudo nvim /root/.config/nvim/init.vim
+ls -a | wc -l
+ls -a
+ls -a
+sudo pacman -S tmux
+nvim
+nvim
+nvim
+cd My\ Projects/st
+nvim config.h
+sudo make clean install
+ll
+cl
+ll
+cl
+nvim My\ Projects/st
+sudo make clean install
+cd My\ Projects/st
+sudo make clean install
+ll
+ll
+cl
+nvim
+neofetch
+ll
+nvim .Xresources
+cd My\ Projects/st
+lc
+cl
+nvim config.h
+sudo make clean install
+ll
+cd My\ Projects/st
+nvim config.h
+cl
+~
+cl
+pacman -Ss keys
+pacman -Ss keys | grep screen
+c;
+cl
+lf
+cl
+ranger
+cl
+mpv Videos/Luke\ Smith/zsh_\ Syntax\ Highlighting,\ vi-mode,\ Autocomplete,\ more.mp4
+cl
+ll
+cl
+lcl
+lc
+llll
+ll
+cl
+ll
+cl
+l
+nvim .zcompdump
+ll
+cl
+ll
+cl
+cd My\ Projects/st
+nvim config.h
+sudo make clean install
+ll
+cl
+ll
+ll
+cl
+ll g
+nvim g/init.vim
+nvim g/vimrc
+amixer
+mpv Videos/Mental\ Outlaw/SLStatus\ -\ The\ Suckless\ Way\ to\ View\ System\ Stats.mp4
+sudo pacman -S xdg-user-dirs
+sudo pacman -Syu
+light
+ ls /sys/class/backlight/
+ ls /sys/class/backlight/acpi_video0/
+cat /sys/class/backlight/intel_backlight/max_brightness
+paru -Sua
+sudo pacman -S brightnessctl
+cd My\ Projects/dwm
+nvim config.h
+sudo make clean install
+nvim config.h
+sudo make clean install
+nvim config.h
+sudo pacman -S screenkeys
+pacman -Ss keys | grep screen
+sudo pacman -S screenkey
+screenkey
+nvim .zshrc
+nvim .config/zsh/zsh_aliases
+sudo pacman -Rns brightnessctl --nosave
+cl
+htop
+c;
+cl
+htop
+htop
+cd My\ Projects/dwm
+nvim config.h
+sudo make clean install
+cl
+pacman -Ss xinerama
+cd My\ Projects/dwm
+ls
+nvim config.h
+cd My\ Projects/dwm
+ls
+nvim dwm.c
+nvim drw.c
+nvim dwm.o
+nvim dwm.o
+nvim dwm.c
+nvim util.c
+nvim config.h
+sudo make clean install
+nvim config.h
+sudo make clean install
+screenkey
+ll
+cl
+sudo pacman -S brightnessctl
+ll
+alsamixer
+alsamixer
+cd My\ Projects/dwm
+ls
+nvim config.h
+sudo make clean install
+brightnessctl
+brightnessctl -h
+brightnessctl 10%+
+brightnessctl 10%+
+brightnessctl 10%+
+brightnessctl 10%-
+brightnessctl 10%-
+brightnessctl s 10%-
+cl
+cd My\ Projects/dwm
+sudo make clean install
+cl
+nvim config.h
+sudo make clean install
+cd My\ Projects/dwm
+ls
+nvim config.h
+sudo make clean install
+brightnessctl
+cl
+sudo pacman -S xfce4-power-manager
+dunst
+sudo pacman -S flameshot
+cl
+amixer -wq
+man amixer
+cl
+cd dwm
+ls
+nvim config.h
+cl
+~
+l
+cd dwm
+ls
+nvim config.h
+sudo pacman -Rns xfce4
+sudo pacman -Rns xfce4 xfce4-goodies --nosave
+brightnessctl s 10%+
+cd My\ Projects/dwm
+nvim config.h
+sudo make clean install
+cd My\ Projects/dwm
+ls
+cl
+dunst
+dunst -h
+cl
+amixer -q
+amixer -q
+amixer -q
+amixer -q
+man amixer
+cd My\ Projects/dwm
+nvim config.h
+sudo pacman -U -
+sudo pacman -U 
+sudo pacman -Su
+sudo timeshift-gtk
+wifi on
+nvim
+cd My\ Projects/dwm
+nvim config.h
+screenkey
+htop
+timeout 60 screenkey
+bxcbxdfffffffffffffffghfdfhfghfghdfghdfhgfdhfdghfdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddhfdfg
+w
+q
+\:wq
+cl
+cd My\ Projects/dwm
+ls
+git add .
+l
+cl
+git add .
+nvim 
+git 
+cl
+cd My\ Projects/dwm
+nvim config.h
+mpv Videos/Mental\ Outlaw/Full\ Gentoo\ Installation\ -\ Big\ Brain\ Edition.mp4
+startx
+cl
+startx
+cl
+startx
+cl
+startx
+cl
+startx
+cl
+startx
+cl
+startx
+cl
+startx
+cl
+startx
+l
+l
+l
+nvim .Xauthority
+l
+xrdb -load ~/.config/X11/xresources
+mkdir .config/X11
+cp .Xresources .config/X11/xresources
+mkdir .config/X11
+xrdb -load ~/.config/X11/xresources
+nvim .zshrc
+nvim .config/zsh/zsh_aliases
+cp .xinitrc .config/X11/xinitrc
+nvim .xinitrc
+nvim voidrice/.zprofile
+nvim .profile
+rm .config/x11/xinitrc
+cp .xinitrc .config/x11/xinitrc
+cl
+nvim voidrice/.zprofile
+nvim .zshenv
+nvim .zshenv
+q
+sudo nvim /etc/default/grub
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+cl
+startx
+cl
+exit
+ll
+nvim .zshenv
+cl
+startx
+cl
+l
+cl
+ll
+cl
+startx
+l
+cd voidrice/.config
+ls
+cd x11
+ls
+~
+lc
+cl
+nvim .zshenv
+nvim .config/x11/xinitrc
+cl
+nvim .config/x11/xinitrc
+cp .Xresources .config/x11/xresources
+cl
+startx
+cl
+nvim .zshrc
+nvim .zshenv
+cl
+cp .zshrc .config/zsh/zshrc
+rm .zshrc
+exit
+exit
+startx
+cl
+nvim .config/zsh/.zshrc
+nvim .config/zsh/zsh_aliases
+clear
+exit
+exit
+nvim .config/zsh/zsh_aliases
+cl
+exit
+neofetch
+nvim .config/zsh/.zshrc
+cl
+zsh
+exit
+startx
+nvim .config/zsh/zsh_aliases
+cl
+startx
+startx
+nvim .xinitrc
+startx
+nvim .local/share/xorg/Xorg.0.log
+startx
+cd My\ Projects/dwm
+nvim config.h
+cl
+~
+l
+startx
+nvim .config/x11/xinitrc
+cl
+startx
+cl
+startx
+startx
+nvim .zprofile
+nvim .zprofile
+cl
+exit
+nvim .zprofile
+exit
+startx
+nvim .zprofile
+startx
+startx
+startx
+nvim voidrice/.zprofile
+nvim .zprofile
+startx
+exit
+nvim .zprofile
+exit
+ll
+cl
+ll
+cl
+l
+nvim .dmrc
+rm .dmrc
+nvim .config/x11/xinitrc
+rm .gtkrc-2.0 .vimrc .viminfo .viminfo.tmp .vim
+rm -r .gtkrc-2.0 .vimrc .viminfo .viminfo.tmp .vim
+y
+cl
+l
+rm f .dwmlog init.vim
+nvim .profile
+rm .xinitrc
+rm .Xresources
+rm -r .android
+nvim .zprofile
+ll .config
+mv .config/emacs .config/.emacs.d
+cl
+l
+startx
+exit
+nvim voidrice/.zprofile
+nvim .zprofile
+startx
+cl
+exit
+nvim .zprofile
+nvim .config/.emacs.d/init.e
+nvim .config/.emacs.d/init.el
+nvim .zprofile
+nvim .config/.emacs.d/init.el
+startx
+cl
+startx
+exit
+ll
+nvim .zprofile
+mkdir .config/.doom.d
+mv .doom.d/* .config/.doom.d
+cd .config
+ks
+cd .emacs.d
+nvim early-init.el
+nvim init.el
+DOOMDIR
+nvim init.el
+cd ../.doom.d
+ls
+nvim init.el
+nvim config.el
+nvim custom.el
+nvim packages.el
+cd ../.emacs.d
+nvim init.el
+lcl
+~
+cl
+ll
+l
+rm -r cargo
+rm -r .cargo
+y
+l
+ll .local/share
+cargo install
+nvim .zprofile
+mkdir .local/share/cargo
+nvim voidrice/.zprofile
+nvim .zprofile
+startx
+cl
+exit
+cargo
+cargo install
+cargo install exa
+cargo info
+cargo init
+cl
+nvim
+ll .local/share/cargo
+l
+nvim .zprofile
+startx
+exit
+nvim voidrice/.zprofile
+ll
+cl
+l
+nvim .mpd
+ll .config
+cl
+rm -r mpd
+rm -r .mpd
+ll .config
+cl
+l
+l .git
+nvim .Xauthority
+rm .Xauthority
+nvim voidrice/.zprofile
+rm Cargo.toml
+cl
+ll
+cl
+l
+nvim .zprofile
+nvim .zprofile
+cl
+rm -r .surf
+cl
+l
+mv .git/* .config/git
+rm -r .git
+git clone
+\:
+l
+cl
+l
+ll .pki
+nvim .pki/nssdb
+l
+nvim .zprofile
+startx
+cl
+startx
+exit
+nvim .zprofile
+eixt
+exit
+l
+rm -r .emacs.d .doom.d
+sudo rm -r .emacs.d .doom.d
+cl
+l
+l
+rm -r .emacs.d
+nvim .zprofile
+nvim .zprofile
+nvim .zprofile
+l
+nvim voidrice/.z
+nvim voidrice/.zprofile
+mkdir .local/share/gnupg
+nvim voidrice/.zprofile
+nvim .zprofile
+cl
+mv .gnupg/* .local/share/gnupg
+rm -r .gnupg
+l
+rm -r .lyrics
+rm -r .mozilla
+cl
+l
+rm .fonts.conf
+l
+rm .gitignore
+nvim .gtk-bookmarks
+rm .gtk-bookmarks
+l
+nvim .ICEauthority
+nvim .netrc
+rm .netrc
+cl
+l
+nvim .profile
+rm .profile
+cl
+l
+nvim .wget-hsts
+rm .xsession-errors .xsession-errors.old
+ls
+cl
+l
+ll .urxvt
+cl
+l
+rm .zcompdump .zcompdump.illusion-desktop.26642 .zcompdump-illusion-desktop-5.8
+l
+ll .npm
+nvim .zprofile
+mkdir .config/npm
+nvim .zprofile
+mkdir .cache/npm
+cp .npm/* .cache/npm
+cp -r .npm/* .cache/npm
+rm -r .npm
+cl
+l
+ll .icons
+ll .icons/default
+cl
+startx
+exit
+l
+rm -r .emacs.d
+cl
+nvim .Xauthority
+l
+nvim .lesshst
+nvim voidrice/.zprofile
+nvim .zprofile
+startx
+exit
+l
+rm .lesshst
+nvim .zprofile
+nvim .config/zsh/zsh_aliases
+nvim .config/zsh/zsh_aliases
+echo hsts-file \= "$XDG_CACHE_HOME"/wget-hsts >> "$XDG_CONFIG_HOME/wgetrc"
+l voidrice/.config
+cl
+mkdir .cache/wget-hsts
+nvim .zprofile
+mkdir .config/wget
+mv .cache/wget-hsts .wget
+l
+mv .wget .cache
+mv .config/wgetrc
+mv .config/wgetrc .config/wget
+nvim .config/wget/wgetrc
+nvim .zprofile
+nvim .config/nvim/init.vim
+l
+mv .wget-hsts .cache/wget
+cl
+l
+cd .urxvt
+ls
+nvim urxvtd-illusion-desktop
+cd ..
+rm r .urxvt
+rm -r .urxvt
+ls
+l
+cl
+l
+cl
+nvim .config/nvim/plugged/vimwiki/README.md
+nvim
+ls -a | grep wc -l
+ls -a | grep wc
+ls -a | grep wc -i
+cl
+git add ,
+cl
+l
+cl
+startx
+cl
+exit
+ll
+l
+l
+l
+cl
+cl
+nvim .config/mpd/mpd.conf
+nvim .config/ncmpcpp/config
+mpc update
+l
+cl
+systemctl --user enable mpd
+sudo nvim /etc/mpd.conf
+startx
+cl
+reboot
+ll
+cl
+neofetch
+lf
+nvim .config/mimeapps.list
+lf
+ll
+cl
+all
+l
+cl
+l
+cl
+l
+cl
+sudo pacman -Rns obs-studio --nosave
+l
+cl
+neofetch
+cl
+nvim
+sudo pacman -Rns urxvt-unicode --nosave
+sudo pacman -Rns rxvt-unicode --nosave
+cl
+mpv Media/Videos/Mental\ Outlaw/Get\ Fit\ and\ Lose\ Weight\ With\ Free\ Software.mp4
+ls
+l
+cl
+nvim .config/mpv/mpv.conf
+cl
+wifi on
+cd Documents/My\ Projects/dwm
+ls
+git add .
+ls
+l
+cd .git
+ls
+cd objects
+ls
+cd..
+cd ..
+cd ..
+ls
+cd ..
+ls
+cd dmenubak
+l
+cd ..
+ls
+cd dwmbak
+ls
+l
+l .git
+cd ..
+cd slstatus
+l .git
+cp .git/config ../dwm/.git
+cd ..
+~
+l
+mv dwm Documents
+git clone https://gitlab.com/ggfekarc/dwm
+git clone https://gitlab.com/ggfekarc/dwm
+l
+cd dwm
+ls
+cd ../Documents/My\ Projects/dwm
+l
+rm -r .git
+~
+cd dwm
+cp -r .git ../Documents/My\ Projects/dwm
+cd ../Documents/My\ Projects/dwm
+ls
+git add .
+git commit -m "new keybindings for volume and brightness controls"
+~
+l
+cd Documents/My\ Projects/dwm
+git commit -m "new keybindings for volume and brightness controls"
+git config --global user.email "ggfekarc@gmail.com"
+git config --global ggfekarc@gmail.com
+cl
+git commit -m "new keybindings for volume and brightness controls"
+git config --global user.email ggfekarc@gmail.com
+git config --global user.email ggfekarc@gmail.com
+git config user.email ggfekarc@gmail.com
+git config user.name TheIllusion24
+git commit -m "new keybindings for volume and brightness controls"
+git push
+git push
+sudo pacman -Syu
+ls
+cl
+ll
+cl
+l
+man ls
+cl
+mpv Media/Videos/The\ Linux\ Experiment/Linux\ News\ -\ Ubuntu_s\ new\ Installer,\ Favicons\ can\ track\ you,\ AMD\ hires\ Linux\ people,\ and\ Plasma\ 5.21.mp4
+sudo pacman -Rns gnome-boxes --nosave
+paru -Sua
+pacman -Qdtq | pacman -Rs -\
+
+sudo su
+pacman -Qmq | pacman -Rs -
+sudo su
+sudo pacman -Qtdq\
+
+sudo su
+l
+efibootmgr
+sudo su
+sudo su
+startx
+reboot
+htop
+sudo bootctl --random-seed --graceful
+htop
+sudo bootctl random-seed --graceful
+cl
+htop
+sudo systemctl disable bootctl
+htop
+	htop
+sudo htop
+sudo htop
+nvim .config/htop/htoprc
+htop
+sudo su
+sudo pcmanfm
+sudo mount /dev/sda2 /boot
+sudo mount /dev/sda1 /boot/efi
+sudo su
+sudo mount /dev/sda1 /boot/efi
+exit
+sudo blkid
+startx
+sudo pcmanfm
+cl
+sudo su
+sudo blkid
+startx
+sudo su
+git clone https://gitlab.com/ggfekarc/rice
+cd rice
+ls
+cd ..
+ls
+ll
